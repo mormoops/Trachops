@@ -1,0 +1,819 @@
+﻿COUNT,Taxonomy,ssp,Collection,CATALOG,Country,Distrito,GeoGroup,Old_taxonomy1,Old_taxonomy2,New_Taxonomy,lat,lon,mclust2,mclust3,sex,CIL,GLS,ZB,MB,POC,BBC,CM3,M3M3,CB,SH
+5,T. cirrhosus,coffini,ROM,34955,Belize,Belize District,,T. coffini,T. c. coffini,T. coffini,17.7666667,-88.3666667,Cluster1,Cluster1,M,24.53,27.66,13.46,13.03,4.86,10.99,10.03,9.41,5.69,17.49
+7,T. cirrhosus,coffini,FMNH,63931,Belize,Belize District,,T. coffini,T. c. coffini,T. coffini,17.54,-88.38,Cluster1,Cluster1,F,24.48,27.5,13.4,12.84,4.97,11.34,9.83,9.52,5.51,16.35
+6,T. cirrhosus,coffini,UF,24804,Belize,Orange Walk ,,T. coffini,T. c. coffini,T. coffini,17.55,-89.0333333,Cluster1,Cluster1,M,25.26,28.08,13.95,13.27,5.05,11.36,10.26,9.88,5.91,17
+8,T. cirrhosus,coffini,USNM,583009,Belize,Stann Creek,,T. coffini,T. c. coffini,T. coffini,16.7736,-88.5325,Cluster2,Cluster2,M,25.56,28.49,14.4,13.49,5.07,11.88,10.42,9.96,6.12,17.86
+10,T. cirrhosus,ehrhardti,AMNH,209351,Bolivia,Beni,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-12.69318,-63.25196,Cluster2,Cluster3,F,26.12,29.12,14.59,13.63,5.16,11.56,10.62,10.16,6.25,17.08
+12,T. cirrhosus,ehrhardti,AMNH,210679,Bolivia,Beni,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-15.817929,-64.866132,Cluster2,Cluster3,F,25.86,29.25,14.57,14,5.25,11.67,10.69,10.3,6.44,18.04
+13,T. cirrhosus,ehrhardti,AMNH,210680,Bolivia,Beni,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-15.817929,-64.866132,Cluster2,Cluster3,F,26,29,14.72,13.79,5.37,11.65,10.43,10.16,6.26,17.86
+14,T. cirrhosus,ehrhardti,AMNH,210681,Bolivia,Beni,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-15.818069,-64.866419,Cluster2,Cluster2,F,25.67,28.56,14.38,13.59,5.25,11.18,10.42,10.09,6.21,17.08
+15,T. cirrhosus,ehrhardti,AMNH,210682,Bolivia,Beni,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-15.818069,-64.866419,Cluster2,Cluster3,F,26.44,29.79,14.43,13.59,5.33,11.81,10.66,10.33,6.34,17.69
+16,T. cirrhosus,ehrhardti,AMNH,209348,Bolivia,Beni,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-12.69318,-63.25196,Cluster2,Cluster2,F,25.31,28.94,14.41,13.41,5.32,11.89,10.61,10,6.08,17.5
+17,T. cirrhosus,ehrhardti,AMNH,209349,Bolivia,Beni,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-12.69318,-63.25196,Cluster2,Cluster2,M,25.5,28.6,14.03,13.07,5.21,11.18,10.66,9.83,6.03,17.01
+9,T. cirrhosus,ehrhardti,FMNH,114877,Bolivia,El Beni,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-13.06666667,-64.8,Cluster2,Cluster3,F,26.38,29.79,14.54,13.53,5.34,11.69,10.85,10.18,6.31,17.4
+11,T. cirrhosus,ehrhardti,AMNH,261378,Bolivia,Santa Cruz,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-15.433,-63.083,Cluster2,Cluster3,M,26.1,29.33,14.7,14.21,5.27,11.7,10.69,10.3,6.29,18.17
+36,T. cirrhosus,cirrhosus,MZUSP,18466,Brazil ,Amapa,EAm,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,0.11,-51.16,Cluster2,Cluster2,M,26.38,30.48,14.64,14.26,5.17,11.76,11.07,10.44,6.29,19.17
+18,T. cirrhosus,cirrhosus,UNESP,15331,Brazil ,Amazonas,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-3.19,-59.57,Cluster2,Cluster2,F,25.59,28.26,14.22,13.41,5.13,11.04,10.55,10.19,6.28,16.58
+19,T. cirrhosus,cirrhosus,UNESP,15333,Brazil ,Amazonas,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-3.19,-59.57,Cluster2,Cluster3,M,26.4,29.85,15.02,14.6,5.44,11.84,10.85,10.49,6.34,18.48
+20,T. cirrhosus,cirrhosus,MBML,1911,Brazil ,Amazonas,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,0.24,-66.18,Cluster2,Cluster3,F,26.46,30.03,14.75,13.82,5.43,11.73,10.66,10.38,6.43,18.23
+95,T. cirrhosus,cirrhosus,AMNH,92252,Brazil ,Amazonas,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-5.52,-61.22,Cluster2,Cluster2,M,25.54,28.95,14.46,13.51,5.34,11.73,10.56,9.86,6.63,17.72
+70,T. cirrhosus,cirrhosus,CMNH,99143,Brazil ,Bahia,EAm,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-9.25,-40.3,Cluster2,Cluster2,M,25.05,28.6,14.18,13.63,5.19,11.45,10.32,9.99,5.84,16.78
+45,T. cirrhosus,cirrhosus,CMNH,99144,Brazil ,Ceara,EAm,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-7.22,-39.39,Cluster2,Cluster2,F,24.95,27.91,14.42,12.9,5.3,11.56,10.24,10.29,5.99,17.32
+46,T. cirrhosus,cirrhosus,CMNH,99145,Brazil ,Ceara,EAm,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-7.22,-39.39,Cluster2,Cluster3,M,26.18,29.49,14.49,13.95,5.38,12.33,10.42,10.22,6.24,17.82
+47,T. cirrhosus,cirrhosus,CMNH,99149,Brazil ,Ceara,EAm,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-7.22,-39.43,Cluster2,Cluster2,M,25.62,28.66,15.21,13.97,5.31,11.8,10.59,10.33,6.29,17.17
+48,T. cirrhosus,cirrhosus,CMNH,99150,Brazil ,Ceara,EAm,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-7.22,-39.43,Cluster2,Cluster2,M,25.72,28.77,14.94,13.52,5.36,11.47,10.59,10.29,6.33,17.4
+49,T. cirrhosus,cirrhosus,CMNH,99151,Brazil ,Ceara,EAm,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-7.22,-39.43,Cluster2,Cluster3,F,26.38,29.73,15.12,13.83,5.25,12.01,10.86,10.44,6.31,18.04
+50,T. cirrhosus,cirrhosus,CMNH,99153,Brazil ,Ceara,EAm,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-7.22,-39.43,Cluster2,Cluster2,F,26.16,29.41,14.44,13.42,5.06,11.75,10.7,10.32,6.01,17.75
+51,T. cirrhosus,cirrhosus,MZUSP,18467,Brazil ,Ceara,EAm,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-7.22,-39.43,Cluster2,Cluster2,F,25.05,28.04,14.61,13.85,5.24,11.91,10.21,10.12,6.04,17.31
+52,T. cirrhosus,cirrhosus,MZUSP,18468,Brazil ,Ceara,EAm,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-7.22,-39.43,Cluster2,Cluster3,F,26.16,29.52,14.55,14.09,5.55,11.97,10.44,10.25,6.15,17.17
+53,T. cirrhosus,cirrhosus,MZUSP,18469,Brazil ,Ceara,EAm,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-7.22,-39.43,Cluster2,Cluster3,M,25.96,29.27,14.48,13.57,5.12,11.86,10.57,10.28,6.12,17.27
+54,T. cirrhosus,cirrhosus,MZUSP,18470,Brazil ,Ceara,EAm,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-7.22,-39.43,Cluster2,Cluster2,F,25.68,28.93,14.34,13.58,5.09,11.6,10.44,10.56,6.04,17.14
+55,T. cirrhosus,cirrhosus,MZUSP,18471,Brazil ,Ceara,EAm,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-7.22,-39.43,Cluster2,Cluster3,F,26.48,30.08,14.55,13.92,5.38,12.07,10.8,10.25,6.06,18.28
+56,T. cirrhosus,cirrhosus,MZUSP,18472,Brazil ,Ceara,EAm,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-7.22,-39.43,Cluster2,Cluster2,F,25.38,28.75,14.53,13.85,5.02,11.8,10.26,10.3,6.04,17.77
+57,T. cirrhosus,cirrhosus,MZUSP,18473,Brazil ,Ceara,EAm,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-7.22,-39.43,Cluster2,Cluster2,F,25.51,28.87,14.72,14.15,5.51,11.69,10.59,10.36,6.32,17.67
+58,T. cirrhosus,cirrhosus,MZUSP,18474,Brazil ,Ceara,EAm,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-7.22,-39.43,Cluster2,Cluster2,M,26.1,28.86,14.47,13.86,5.24,11.35,10.78,10.15,6.24,17.53
+59,T. cirrhosus,cirrhosus,MZUSP,18475,Brazil ,Ceara,EAm,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-7.22,-39.43,Cluster2,Cluster3,F,25.94,29.21,14.28,13.84,5.38,11.65,10.52,10.3,6.08,17.42
+60,T. cirrhosus,cirrhosus,MZUSP,18476,Brazil ,Ceara,EAm,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-7.22,-39.43,Cluster2,Cluster2,M,25.78,28.97,14.81,14.32,5.26,12.16,10.46,10.59,6.13,17.94
+61,T. cirrhosus,cirrhosus,MZUSP,18478,Brazil ,Ceara,EAm,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-7.22,-39.43,Cluster2,Cluster2,F,25.89,29.42,14.26,13.56,5.26,11.54,10.63,9.87,5.87,17.25
+62,T. cirrhosus,cirrhosus,MZUSP,18480,Brazil ,Ceara,EAm,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-7.22,-39.43,Cluster2,Cluster3,M,26.07,29.39,14.39,13.8,5.41,11.63,10.66,10.16,6.32,18.86
+63,T. cirrhosus,cirrhosus,MZUSP,18481,Brazil ,Ceara,EAm,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-7.22,-39.43,Cluster2,Cluster3,F,26.41,29.68,14.96,14.14,5.67,11.79,10.95,10.42,6.18,18.22
+64,T. cirrhosus,cirrhosus,MZUSP,18484,Brazil ,Ceara,EAm,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-7.22,-39.43,Cluster2,Cluster2,M,26.29,29.47,14.53,14,5.21,11.5,10.86,10.8,6.22,17.29
+65,T. cirrhosus,cirrhosus,MZUSP,18485,Brazil ,Ceara,EAm,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-7.22,-39.43,Cluster2,Cluster3,M,26.47,29.53,14.82,14.2,5.26,11.99,10.8,9.96,6.04,17.95
+1,T. cirrhosus,cirrhosus,MBML,1188,Brazil ,Espirito Santo,ehrhardti,T. cirrhosus,T. ehrhardti,T. ehrhardti,-20.329722,-40.2925,Cluster1,Cluster1,M,25.52,28.97,13.84,13.5,5.12,11.63,10.52,10.01,5.97,17.08
+2,T. cirrhosus,cirrhosus,MBML,1195,Brazil ,Espirito Santo,ehrhardti,T. cirrhosus,T. ehrhardti,T. ehrhardti,-20.329722,-40.2925,Cluster2,Cluster2,F,25.15,27.27,14.16,13.45,5.07,11.66,10.1,9.62,5.69,17.21
+3,T. cirrhosus,cirrhosus,MBML,1198,Brazil ,Espirito Santo,ehrhardti,T. cirrhosus,T. ehrhardti,T. ehrhardti,-20.603611,-41.184722,Cluster2,Cluster2,F,25.25,28.48,14.12,13.41,5.31,11.61,10.31,10.16,6.05,16.57
+4,T. cirrhosus,cirrhosus,MBML,1202,Brazil ,Espirito Santo,ehrhardti,T. cirrhosus,T. ehrhardti,T. ehrhardti,-20.329722,-40.2925,Cluster1,Cluster1,M,24.6,27.87,13.35,13.14,5.18,11.05,10.19,9.88,5.84,16.35
+71,T. cirrhosus,cirrhosus,NA,700,Brazil ,Espirito Santo,ehrhardti,T. cirrhosus,T. ehrhardti,T. ehrhardti,-20.2,-40.17,Cluster2,Cluster2,F,25.52,28.42,14.02,13.56,5.08,11.4,10.29,10.18,5.84,16.68
+72,T. cirrhosus,cirrhosus,MBML,1189,Brazil ,Espirito Santo,ehrhardti,T. cirrhosus,T. ehrhardti,T. ehrhardti,-20.329722,-40.2925,Cluster2,Cluster1,M,25.3,28.24,14.23,13.54,5.09,11.66,10.31,10.1,6.04,16.81
+73,T. cirrhosus,cirrhosus,MBML,1194,Brazil ,Espirito Santo,ehrhardti,T. cirrhosus,T. ehrhardti,T. ehrhardti,-20.329722,-40.2925,Cluster2,Cluster2,F,24.92,28.2,13.81,13.49,5.79,11.15,10.06,9.96,5.81,16.75
+74,T. cirrhosus,cirrhosus,MBML,1196,Brazil ,Espirito Santo,ehrhardti,T. cirrhosus,T. ehrhardti,T. ehrhardti,-20.603611,-41.184722,Cluster1,Cluster1,F,25.03,28.21,13.75,13.1,4.95,11.52,10.35,10.1,5.84,16.46
+75,T. cirrhosus,cirrhosus,MBML,1199,Brazil ,Espirito Santo,ehrhardti,T. cirrhosus,T. ehrhardti,T. ehrhardti,-20.671389,-41.006944,Cluster2,Cluster2,M,24.64,27.06,13.59,12.97,5.1,11.32,10.27,9.7,5.93,16.19
+76,T. cirrhosus,cirrhosus,MBML,1755,Brazil ,Espirito Santo,ehrhardti,T. cirrhosus,T. ehrhardti,T. ehrhardti,-19.965,-40.54,Cluster1,Cluster1,M,24.65,27.75,13.43,13.21,4.89,11.58,10.21,9.45,5.75,17.05
+77,T. cirrhosus,cirrhosus,NA,2424,Brazil ,Espirito Santo,ehrhardti,T. cirrhosus,T. ehrhardti,T. ehrhardti,-20.2,-40.17,Cluster1,Cluster1,M,25.29,28.48,13.74,13.16,4.98,11.73,10.3,9.83,5.79,17.26
+78,T. cirrhosus,cirrhosus,MBML,1656,Brazil ,Espirito Santo,ehrhardti,T. cirrhosus,T. ehrhardti,T. ehrhardti,-19.965,-40.54,Cluster2,Cluster2,F,25.54,29.03,14.18,13.56,5.15,12.02,10.46,10.04,6.18,17.04
+79,T. cirrhosus,cirrhosus,AD,340,Brazil ,Espirito Santo,ehrhardti,T. cirrhosus,T. ehrhardti,T. ehrhardti,-19.53,-40.09,Cluster1,Cluster1,M,24.81,28.06,13.87,13.26,4.89,11.54,9.97,9.52,5.95,17.24
+37,T. cirrhosus,cirrhosus,UNESP,10185,Brazil ,Goias,ehrh-Eam,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-15.47,-47.45,Cluster2,Cluster2,M,26.5,29.92,14.61,14.25,5.41,12.96,11.04,10.48,6.39,18.53
+38,T. cirrhosus,cirrhosus,UNESP,10186,Brazil ,Goias,ehrh-Eam,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-15.47,-47.45,Cluster2,Cluster3,M,26.3,29.26,14.24,13.78,5.47,11.54,10.76,10.38,6.37,18.06
+39,T. cirrhosus,cirrhosus,UNESP,10187,Brazil ,Goias,ehrh-Eam,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-15.47,-47.45,Cluster2,Cluster3,M,26.75,29.98,14.86,14.23,5.4,11.66,10.75,10.04,6.44,18.64
+40,T. cirrhosus,cirrhosus,UNESP,10188,Brazil ,Goias,ehrh-Eam,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-15.47,-47.45,Cluster2,Cluster2,M,25.82,28.99,13.94,13.56,5.45,11.7,10.5,9.76,6,17.05
+80,T. cirrhosus,cirrhosus,MZUSP,5828,Brazil ,Minas Gerais,ehrhardti,T. cirrhosus,T. ehrhardti,T. ehrhardti,-19.49222222,-42.51555556,Cluster2,Cluster2,M,25.44,27.79,13.81,13.08,5.03,11.34,10.35,9.72,5.88,17.08
+106,T. cirrhosus,cirrhosus,FMNH,55720,Brazil ,Minas Gerais,ehrhardti,T. cirrhosus,T. ehrhardti,T. ehrhardti,-19.38333,-42.46667,Cluster2,Cluster2,F,24.8,28.97,13.75,13.45,4.97,11.4,10.3,10.08,6,16.62
+101,T. cirrhosus,cirrhosus,MCZ,30621,Brazil ,Norte_Rio Tapajos,EAm,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-3.08827,-55.1262,Cluster2,Cluster3,F,25.52,28.78,14.3,13.62,5.35,11.65,10.54,10.17,6.3,17.8
+102,T. cirrhosus,cirrhosus,MCZ,30622,Brazil ,Norte_Rio Tapajos,EAm,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-3.08827,-55.1262,Cluster2,Cluster2,F,25.65,28.89,14.34,13.47,5.25,11.26,10.62,10.24,6.02,17.61
+103,T. cirrhosus,cirrhosus,MCZ,30623,Brazil ,Norte_Rio Tapajos,EAm,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-3.08827,-55.1262,Cluster2,Cluster2,F,25.55,28.78,13.78,13.58,5.47,11.21,10.17,10.05,6.14,16.58
+104,T. cirrhosus,cirrhosus,MCZ,30624,Brazil ,Norte_Rio Tapajos,EAm,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-3.08827,-55.1262,Cluster2,Cluster3,F,25.95,29.08,14.64,13.6,5.32,11.7,10.75,10.57,6.22,17.8
+105,T. cirrhosus,cirrhosus,MCZ,30625,Brazil ,Norte_Rio Tapajos,EAm,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-3.08827,-55.1262,Cluster2,Cluster2,F,24.68,27.58,13.38,13,5.6,11.31,10.15,9.84,5.77,15.05
+21,T. cirrhosus,cirrhosus,ANSP,16574,Brazil ,Para,EAm,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-3.05,-55.06,Cluster2,Cluster2,F,25.7,28.5,14.03,13.82,5.45,11.34,10.39,10.05,6.14,16.3
+22,T. cirrhosus,cirrhosus,ANSP,16573,Brazil ,Para,EAm,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-3.05,-55.06,Cluster2,Cluster2,M,26.15,28.92,14.34,13.68,5.58,11.32,10.55,10.3,6.15,16.58
+23,T. cirrhosus,cirrhosus,BM,2071434,Brazil ,Para,EAm,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-2.01,-54.04,Cluster2,Cluster2,F,26.05,29.77,15.14,13.8,5.21,11.48,10.58,10.06,6.27,17.59
+24,T. cirrhosus,cirrhosus,MZUSP,4369,Brazil ,Para,EAm,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-5.23,-54.22,Cluster2,Cluster3,M,26.45,29.57,14.86,13.67,5.37,11.74,10.76,10.23,6.42,17.8
+25,T. cirrhosus,cirrhosus,MZUSP,4370,Brazil ,Para,EAm,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-1.53,-54.53,Cluster2,Cluster3,M,26.43,29.72,14.55,14.2,5.45,12.05,10.66,10.26,6.15,17.98
+26,T. cirrhosus,cirrhosus,MZUSP,4426,Brazil ,Para,EAm,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-1.53,-54.53,Cluster2,Cluster3,M,26.27,29.04,14.24,13.62,5.19,11.69,10.77,10.34,6.3,18.06
+27,T. cirrhosus,cirrhosus,MZUSP,4448,Brazil ,Para,EAm,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-2.75,-55.03333333,Cluster2,Cluster2,F,27.07,29.01,15.36,13.82,5.35,12.17,11.19,10.82,6.49,18.08
+28,T. cirrhosus,cirrhosus,MZUSP,4455,Brazil ,Para,EAm,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-5.23,-54.22,Cluster2,Cluster3,M,26.04,29.21,15.06,13.66,5.31,11.54,10.5,10.09,6.49,18.64
+29,T. cirrhosus,cirrhosus,MZUSP,4456,Brazil ,Para,EAm,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-5.23,-54.22,Cluster2,Cluster3,F,26.75,29.7,14.55,13.82,5.19,11.85,10.68,10.06,6.2,18.1
+30,T. cirrhosus,cirrhosus,MZUSP,4467,Brazil ,Para,EAm,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-5.23,-54.22,Cluster2,Cluster2,M,25.82,28.72,14.89,13.78,5.52,11.5,10.58,10.24,6.14,17.85
+31,T. cirrhosus,cirrhosus,MZUSP,5610,Brazil ,Para,EAm,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-5.23,-54.22,Cluster2,Cluster2,F,25.87,29.26,14.47,13.44,5.32,11.95,10.68,9.9,6.15,17.61
+32,T. cirrhosus,cirrhosus,MZUSP,5613,Brazil ,Para,EAm,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-5.23,-54.22,Cluster2,Cluster2,M,25.55,28.72,14.85,13.38,5.34,11.98,10.62,9.84,6.22,17.79
+33,T. cirrhosus,cirrhosus,MZUSP,22529,Brazil ,Para,EAm,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-3.48,-52.32,Cluster2,Cluster3,M,26.68,29.99,14.65,14.04,5.24,11.72,11.08,10.55,6.26,17.91
+34,T. cirrhosus,cirrhosus,MZUSP,22589,Brazil ,Para,EAm,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-3.38,-52.22,Cluster2,Cluster3,M,26.57,29.84,14.57,13.72,5.45,11.49,11.23,10.47,6.75,17.98
+35,T. cirrhosus,cirrhosus,MZUSP,22612,Brazil ,Para,EAm,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-3.4,-52.22,Cluster2,Cluster3,M,26.49,29.8,14.8,13.92,5.1,11.86,10.92,10.31,6.4,18.05
+91,T. cirrhosus,cirrhosus,USNM,460090,Brazil ,Para,EAm,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-1.27,-48.29,Cluster2,Cluster2,F,26.64,29.27,14.33,13.72,5.18,11.31,11.15,10.52,6.81,17.73
+92,T. cirrhosus,cirrhosus,USNM,549354,Brazil ,Para,EAm,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-3.65,-52.37,Cluster2,Cluster2,M,25.72,29.26,14.8,13.58,4.93,11.35,10.76,10.63,6.36,20.01
+93,T. cirrhosus,cirrhosus,USNM,549355,Brazil ,Para,EAm,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-3.311944,-50.341111,Cluster2,Cluster3,F,26.64,30.1,14.68,13.8,5.24,11.42,11.07,9.94,6.37,18.27
+94,T. cirrhosus,cirrhosus,USNM,549356,Brazil ,Para,EAm,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-3.63,-52.35,Cluster2,Cluster3,M,26.23,29.34,14.32,13.36,5.12,11.73,10.86,10.1,6.38,17.68
+96,T. cirrhosus,cirrhosus,AMNH,94537,Brazil ,Para,EAm,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-3.08827,-55.1262,Cluster1,Cluster1,F,25.84,29.12,13.94,13.38,5.2,11.55,10.63,9.9,5.97,17.16
+97,T. cirrhosus,cirrhosus,AMNH,94536,Brazil ,Para,EAm,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-3.08827,-55.1262,Cluster2,Cluster2,M,25.61,28.49,14.13,12.9,5.1,10.96,10.56,10.19,6.13,17.05
+98,T. cirrhosus,cirrhosus,AMNH,94538,Brazil ,Para,EAm,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-2.66666667,-55.16666667,Cluster2,Cluster3,M,26.3,29.42,14.32,13.44,5.28,11.37,10.68,10.03,6.23,17.72
+99,T. cirrhosus,cirrhosus,AMNH,94541,Brazil ,Para,EAm,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-3.05,-55.11666667,Cluster2,Cluster3,M,26.46,30.1,14.55,13.67,5.44,11.49,10.58,9.76,6.31,17.85
+100,T. cirrhosus,cirrhosus,AMNH,95500,Brazil ,Para,EAm,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-3.05,-55.11666667,Cluster2,Cluster2,F,25.56,28.62,14.56,13.56,5.21,11.5,10.35,9.92,6.14,17.8
+117,T. cirrhosus,cirrhosus,USNM,361533,Brazil ,Para,EAm,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-1.27,-48.29,Cluster2,Cluster2,M,26.54,29.41,14.6,14.33,5.15,11.91,10.77,10.31,6.66,17.96
+118,T. cirrhosus,cirrhosus,USNM,361534,Brazil ,Para,EAm,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-1.27,-48.29,Cluster2,Cluster3,M,25.96,29.43,14.63,13.69,5.37,11.46,10.77,10.07,6.27,18.03
+41,T. cirrhosus,cirrhosus,AD,44,Brazil ,Paraiba,EAm,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-7.08,-34.9,Cluster2,Cluster2,M,25.62,28.66,14.27,13.82,5.32,11.88,10.61,9.94,6.01,17.04
+42,T. cirrhosus,cirrhosus,NA,8326,Brazil ,Paraiba,EAm,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-7.01,-37.58,Cluster2,Cluster2,M,25.77,29.04,15.74,13.73,5.26,11.88,10.74,10.55,6.31,17.95
+43,T. cirrhosus,cirrhosus,NA,8324,Brazil ,Paraiba,EAm,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-7.01,-37.58,Cluster2,Cluster2,F,25.03,27.72,13.94,13.17,5.13,11.3,10.29,10.2,5.83,16.9
+44,T. cirrhosus,cirrhosus,BM,472189,Brazil ,Pernambuco,EAm,T. fuliginosus,T. c. cirrhosus,T. cirrhosus,-8,-35,Cluster2,Cluster2,F,25.07,28.12,13.87,13.54,5.13,11.48,10.2,10.21,5.98,16.89
+66,T. cirrhosus,cirrhosus,AD,131,Brazil ,Pernambuco,EAm,T. fuliginosus,T. c. cirrhosus,T. cirrhosus,-8.45,-35.06,Cluster2,Cluster1,F,25.71,28.78,14.47,13.46,5.21,11.86,10.42,10.06,6.04,17.32
+67,T. cirrhosus,cirrhosus,AD,132,Brazil ,Pernambuco,EAm,T. fuliginosus,T. c. cirrhosus,T. cirrhosus,-8.45,-35.06,Cluster2,Cluster2,F,25.55,28.82,14.85,13.76,5.03,11.14,10.58,10.44,6.15,17.47
+68,T. cirrhosus,cirrhosus,AD,133,Brazil ,Pernambuco,EAm,T. fuliginosus,T. c. cirrhosus,T. cirrhosus,-8.45,-35.06,Cluster1,Cluster1,F,25.46,28.57,13.89,13.34,5.06,11.35,10.36,9.7,5.93,16.78
+69,T. cirrhosus,cirrhosus,BM,97281,Brazil ,Pernambuco,EAm,T. fuliginosus,T. c. cirrhosus,T. cirrhosus,-8,-35,Cluster2,Cluster2,F,25.05,28.75,15.21,13.92,5.77,12.16,10.35,10.5,6.35,17.67
+87,T. cirrhosus,ehrhardti,SMP,11716,Brazil ,Santa Catarina,ehrhardti,T. cirrhosus,T. ehrhardti,T. ehrhardti,-26.18,-48.53,Cluster2,Cluster2,F,24.38,27.63,14.05,12.99,5.08,11.34,9.99,9.75,5.49,16.71
+88,T. cirrhosus,ehrhardti,SMP,11717,Brazil ,Santa Catarina,ehrhardti,T. cirrhosus,T. ehrhardti,T. ehrhardti,-26.18,-48.53,Cluster2,Cluster2,F,25.08,28.46,13.91,13.9,5.01,11.37,10.17,9.64,5.72,17.45
+89,T. cirrhosus,ehrhardti,ZMB,3754,Brazil ,Santa Catarina,ehrhardti,T. cirrhosus,T. ehrhardti,T. ehrhardti,-27,-49,Cluster2,Cluster2,M,25.3,28.42,14.34,13.56,5.32,12.02,10.32,10.11,5.9,17.08
+90,T. cirrhosus,ehrhardti,ZMB,54006,Brazil ,Santa Catarina,ehrhardti,T. cirrhosus,T. ehrhardti,T. ehrhardti,-27,-49,Cluster1,Cluster1,F,24.65,28.1,13.53,12.98,5.15,11.59,9.88,9.64,5.74,16.48
+81,T. cirrhosus,cirrhosus,AD,635,Brazil ,Sao Paulo,ehrhardti,T. cirrhosus,T. ehrhardti,T. ehrhardti,-24.12,-47.54,Cluster2,Cluster2,M,24.95,28.21,13.65,13.34,4.78,11.23,10.19,10.2,6,16.56
+82,T. cirrhosus,cirrhosus,AD,609,Brazil ,Sao Paulo,ehrhardti,T. cirrhosus,T. ehrhardti,T. ehrhardti,-24.16,-47.58,Cluster2,Cluster2,F,24.67,28.21,14.1,13.32,5.34,11.55,10.18,9.73,5.74,17.35
+83,T. cirrhosus,cirrhosus,MZUSP,1338,Brazil ,Sao Paulo,ehrhardti,T. cirrhosus,T. ehrhardti,T. ehrhardti,-24.70805556,-47.55527778,Cluster1,Cluster1,M,24.96,28.12,14.01,13.36,5.1,11.36,10.07,10.07,5.96,16.56
+86,T. cirrhosus,cirrhosus,UNESP,12988,Brazil ,Sao Paulo,ehrhardti,T. cirrhosus,T. ehrhardti,T. ehrhardti,-24.38,-47.44,Cluster1,Cluster1,M,24.96,27.87,13.83,13.3,5.06,11.38,9.97,9.68,5.68,16.94
+107,T. cirrhosus,cirrhosus,FMNH,141595,Brazil ,Sao Paulo,ehrhardti,T. cirrhosus,T. ehrhardti,T. ehrhardti,-25.13333333,-47.96666667,Cluster1,Cluster1,F,24.37,27.56,13.34,13.1,5.24,11.57,9.9,9.77,5.63,16.56
+108,T. cirrhosus,cirrhosus,FMNH,94719,Brazil ,Sao Paulo,ehrhardti,T. cirrhosus,T. ehrhardti,T. ehrhardti,-24.36666667,-47.81666667,Cluster1,Cluster1,F,24.78,28.4,13.97,13.16,5.19,11.19,10.14,9.89,5.87,17.03
+109,T. cirrhosus,cirrhosus,FMNH,94720,Brazil ,Sao Paulo,ehrhardti,T. cirrhosus,T. ehrhardti,T. ehrhardti,-24.36666667,-47.81666667,Cluster2,Cluster2,F,25.3,28.97,13.81,13.45,4.98,11.66,10.19,10.03,6.01,17.24
+110,T. cirrhosus,cirrhosus,FMNH,94722,Brazil ,Sao Paulo,ehrhardti,T. cirrhosus,T. ehrhardti,T. ehrhardti,-24.36666667,-47.81666667,Cluster1,Cluster1,F,24.76,27.96,13.64,13,4.98,11.44,10.1,9.62,5.97,16.86
+111,T. cirrhosus,cirrhosus,FMNH,94723,Brazil ,Sao Paulo,ehrhardti,T. cirrhosus,T. ehrhardti,T. ehrhardti,-24.36666667,-47.81666667,Cluster2,Cluster2,F,24.53,28.36,14.09,13.31,5,11.33,9.94,9.38,5.68,17.19
+112,T. cirrhosus,cirrhosus,FMNH,94724,Brazil ,Sao Paulo,ehrhardti,T. cirrhosus,T. ehrhardti,T. ehrhardti,-24.36666667,-47.81666667,Cluster1,Cluster1,F,24.51,27.96,13.48,13.14,5.06,11.35,10.12,9.78,5.78,16.34
+113,T. cirrhosus,cirrhosus,FMNH,94726,Brazil ,Sao Paulo,ehrhardti,T. cirrhosus,T. ehrhardti,T. ehrhardti,-24.36666667,-47.81666667,Cluster1,Cluster1,F,24.29,27.88,13.65,13.12,5.05,11.58,10.02,9.61,5.74,17.14
+114,T. cirrhosus,cirrhosus,FMNH,94717,Brazil ,Sao Paulo,ehrhardti,T. cirrhosus,T. ehrhardti,T. ehrhardti,-24.36666667,-47.81666667,Cluster1,Cluster1,M,24.5,27.86,13.73,13.3,4.96,11.66,10.05,9.63,5.75,16.98
+115,T. cirrhosus,cirrhosus,FMNH,94721,Brazil ,Sao Paulo,ehrhardti,T. cirrhosus,T. ehrhardti,T. ehrhardti,-24.36666667,-47.81666667,Cluster1,Cluster1,M,24.6,28.19,13.4,12.91,4.94,11.32,10.23,9.83,5.83,16.63
+116,T. cirrhosus,cirrhosus,FMNH,94725,Brazil ,Sao Paulo,ehrhardti,T. cirrhosus,T. ehrhardti,T. ehrhardti,-24.36666667,-47.81666667,Cluster2,Cluster2,M,25.12,28.12,13.95,13.42,5.32,11.32,10.38,10.03,6.14,16.23
+84,T. cirrhosus,ehrhardti,MZUSP,27781,Brazil ,SP_Oceano,,T. cirrhosus,T. ehrhardti,T. ehrhardti,,,Cluster1,Cluster1,M,24.79,28.19,13.85,13.41,5.17,11.76,10.11,9.91,5.87,16.37
+85,T. cirrhosus,ehrhardti,MZUSP,28109,Brazil ,SP_Oceano,,T. cirrhosus,T. ehrhardti,T. ehrhardti,,,Cluster1,Cluster1,M,24.53,27.84,13.53,13.14,5.03,11.36,9.86,9.4,5.47,16.35
+137,T. cirrhosus,cirrhosus,USNM,499295,Colombia, Zaragoza,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,7.30192,-75.07486,Cluster2,Cluster2,M,25.46,28.52,14.26,13.29,5.5,11.73,10.54,10.11,6.31,17.53
+129,T. cirrhosus,cirrhosus,USNM,281054,Colombia,Bolivar,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,8.32,-74.02,Cluster2,Cluster2,M,25.33,28.19,14.21,13.07,5.16,11.1,10.56,10.17,5.91,18.72
+119,T. cirrhosus,cirrhosus,USNM,281037,Colombia,Cesar,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,10.29,-73.15,Cluster2,Cluster2,M,26.45,29.28,14.54,13.07,5.19,11.29,10.86,10.23,6.28,18.11
+120,T. cirrhosus,cirrhosus,USNM,281038,Colombia,Cesar,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,10.29,-73.15,Cluster2,Cluster2,M,26.7,30.6,15.76,13.85,5.76,12.01,11.08,11.02,6.5,18.6
+121,T. cirrhosus,cirrhosus,USNM,281039,Colombia,Cesar,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,10.29,-73.15,Cluster2,Cluster2,M,26.56,29.48,15.4,13.85,4.9,11.42,11.18,10.89,6.35,18.11
+122,T. cirrhosus,cirrhosus,USNM,281040,Colombia,Cesar,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,10.29,-73.15,Cluster2,Cluster3,M,26.87,30.09,15,13.59,5.12,12.02,11.01,10.41,6.42,18.27
+123,T. cirrhosus,cirrhosus,USNM,281041,Colombia,Cesar,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,10.29,-73.15,Cluster2,Cluster2,M,26.24,30.34,15.15,13.87,5.15,11.68,11.01,10.29,6.58,18.54
+124,T. cirrhosus,cirrhosus,USNM,281042,Colombia,Cesar,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,10.29,-73.15,Cluster2,Cluster2,M,25.26,29.56,14.69,13.82,5.32,11.92,10.74,10.28,6.19,17.46
+125,T. cirrhosus,cirrhosus,USNM,281044,Colombia,Cesar,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,10.29,-73.15,Cluster2,Cluster2,F,26.03,29.5,14.4,13.82,5.2,11.37,10.81,10.39,5.94,16.9
+126,T. cirrhosus,cirrhosus,USNM,281045,Colombia,Cesar,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,10.29,-73.15,Cluster2,Cluster2,F,26.24,30.6,15.13,14.1,5.19,11.8,11.01,10.8,6.42,17.66
+127,T. cirrhosus,cirrhosus,USNM,281049,Colombia,Cesar,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,10.29,-73.15,Cluster2,Cluster2,F,26.24,29.6,15.1,13.77,4.95,11.61,10.96,10.5,6.58,18.11
+128,T. cirrhosus,cirrhosus,USNM,281050,Colombia,Cesar,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,10.29,-73.15,Cluster2,Cluster2,F,26.41,29.99,15.16,14.02,4.96,11.73,10.96,10.46,6.44,18.48
+130,T. cirrhosus,cirrhosus,SMNH,4440,Colombia,Las Mercedes,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,8.17,-76.58,Cluster2,Cluster2,M,25.52,28.88,14.25,13.52,5.18,11.06,10.63,9.91,6.03,17.49
+135,T. cirrhosus,cirrhosus,AMNH,15103,Colombia,Magdalena,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,11.23092,-74.12259,Cluster2,Cluster2,M,26.52,29.21,15.1,13.83,5.23,11.58,10.72,10.18,6.19,17.66
+136,T. cirrhosus,cirrhosus,BM,33191,Colombia,Magdalena,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,11.15,-74.13,Cluster2,Cluster2,M,25.52,28.52,14.69,13.5,5.18,11.54,10.72,10.39,6.07,17.53
+134,T. cirrhosus,cirrhosus,AMNH,142158,Colombia,Meta,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,4.142 ,-73.62664,Cluster2,Cluster2,F,25.96,29.24,14.12,13.41,5.26,11.48,10.81,10.3,6.19,16.9
+131,T. cirrhosus,cirrhosus,FMNH,72150,Colombia,Putumayo,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,0.466666667,-75.33333333,Cluster2,Cluster2,F,26.12,29.43,14.63,13.59,5.36,11.34,10.65,9.88,6.06,17.46
+132,T. cirrhosus,cirrhosus,FMNH,72149,Colombia,Putumayo,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,0.466666667,-75.33333333,Cluster2,Cluster2,M,26.01,29.32,14.34,13.26,5.21,11.54,10.91,10.02,6.58,17.71
+133,T. cirrhosus,cirrhosus,FMNH,72151,Colombia,Putumayo,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,0.466666667,-75.33333333,Cluster2,Cluster2,M,25.69,28.41,14.48,13.52,5.11,11.88,10.67,10.1,5.94,17.34
+147,T. cirrhosus,cirrhosus,USNM,562764,Costa Rica,Guanacaste,,T. cirrhosus,T. c. coffini,T. cirrhosus,10.21,-85.21,Cluster1,Cluster1,M,25.2,28.54,13.79,13.22,4.95,11.46,10.04,9.64,5.88,16.62
+146,T. cirrhosus,cirrhosus,USNM,562763,Costa Rica,Heredia,,T. cirrhosus,T. c. coffini,T. cirrhosus,10.1599,-83.97442,Cluster1,Cluster1,M,24.55,27.86,13.96,13.48,5.16,11.39,10.04,9.47,5.62,16.61
+148,T. cirrhosus,cirrhosus,USNM,565808,Costa Rica,Heredia,,T. cirrhosus,T. c. coffini,T. cirrhosus,10.433333,-83.983333,Cluster1,Cluster1,F,24.87,27.79,13.26,13,5.13,11.13,10.02,9.53,5.93,16.62
+145,T. cirrhosus,cirrhosus,USNM,526241,Costa Rica,Osa Peninsula,,T. cirrhosus,T. c. coffini,T. cirrhosus,8.55462,-83.68012,Cluster1,Cluster1,M,25.36,28.66,13.97,13.43,5.17,11.56,10.37,9.74,6.15,17.27
+138,T. cirrhosus,cirrhosus,LACM,24515,Costa Rica,Puntarenas,,T. cirrhosus,T. c. coffini,T. cirrhosus,9.25,-83.866669,Cluster2,Cluster2,M,25.29,28.33,13.54,13.26,5.11,10.75,10.33,9.71,5.84,16.62
+139,T. cirrhosus,cirrhosus,LACM,24517,Costa Rica,Puntarenas,,T. cirrhosus,T. c. coffini,T. cirrhosus,9.25,-83.866669,Cluster1,Cluster1,F,25.04,27.71,13.63,13.21,5.11,11.13,10.23,9.76,5.91,16.65
+140,T. cirrhosus,cirrhosus,LACM,25210,Costa Rica,Puntarenas,,T. cirrhosus,T. c. coffini,T. cirrhosus,10.55,-85.7167,Cluster2,Cluster1,F,25.04,27.87,13.49,13.08,5.36,11.07,10.31,9.6,5.87,16.62
+141,T. cirrhosus,cirrhosus,LACM,25211,Costa Rica,Puntarenas,,T. cirrhosus,T. c. coffini,T. cirrhosus,10.55,-85.7167,Cluster2,Cluster2,F,25.66,29.15,13.77,13.16,5.17,10.75,10.62,9.73,5.93,17.31
+143,T. cirrhosus,cirrhosus,LACM,26155,Costa Rica,Punterenas,,T. cirrhosus,T. c. coffini,T. cirrhosus,10.3,-84.7,Cluster2,Cluster1,M,25.32,28.37,13.6,13.32,5.13,11.82,10.43,9.84,5.94,17.46
+142,T. cirrhosus,cirrhosus,LACM,25528,Costa Rica,,,T. cirrhosus,T. c. coffini,T. cirrhosus,8.643,-82.97816,Cluster2,Cluster2,M,25.3,28.52,13.8,13.44,5.23,11.5,10.56,9.87,5.95,16.62
+144,T. cirrhosus,cirrhosus,TTU,13172,Costa Rica,,,T. cirrhosus,T. c. coffini,T. cirrhosus,10.0094604,-84.6717911,Cluster1,Cluster1,F,24.73,27.99,13.78,13.18,5.18,11.58,10.32,9.67,5.88,17.48
+151,T. cirrhosus,cirrhosus,FMNH,53444,Ecuador,Manabi,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-0.166666667,-79.63333333,Cluster2,Cluster2,M,25.07,28.61,14.35,13.48,5.32,11.5,10.32,9.8,6.31,17.85
+149,T. cirrhosus,cirrhosus,USNM,513435,Ecuador,Napo ,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-0.38587,-76.52165,Cluster2,Cluster2,F,25.73,28.9,14.08,13.37,5.3,11.36,10.96,9.93,6.1,18.46
+150,T. cirrhosus,cirrhosus,FMNH,124683,Ecuador,Napo ,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-0.033333333,-76.3,Cluster1,Cluster1,F,25.15,28.24,13.57,13.13,4.99,11.31,10.18,9.74,5.92,17.07
+175,T. cirrhosus,cirrhosus,ROM,105915,Ecuador,Napo ,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-0.760278,-76.681762,Cluster2,Cluster2,M,25.47,28.67,14.74,13.73,5.29,11.45,10.43,10.02,6.29,17.41
+176,T. cirrhosus,cirrhosus,ROM,105273,Ecuador,Napo ,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-1.009653,-76.68223,Cluster2,Cluster1,F,25.32,28.47,13.92,13.4,5.39,11.53,10.2,9.83,6,17.84
+177,T. cirrhosus,cirrhosus,ROM,104399,Ecuador,Napo ,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-1.009653,-76.68223,Cluster2,Cluster2,F,25.07,28.12,14.38,13.42,5.26,11.59,10.14,10.13,6.06,17.67
+178,T. cirrhosus,cirrhosus,ROM,104008,Ecuador,Napo ,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-1.013082,-76.682336,Cluster2,Cluster2,F,26.01,28.98,14.96,13.9,5.6,11.95,10.47,10.55,6.28,18.21
+179,T. cirrhosus,cirrhosus,ROM,105187,Ecuador,Napo ,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-0.96936,-76.673196,Cluster2,Cluster3,M,26.09,29.48,14.47,13.89,5.58,11.94,10.57,10.27,6.29,18.36
+180,T. cirrhosus,cirrhosus,ROM,105639,Ecuador,Napo ,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-0.96936,-76.673196,Cluster2,Cluster3,M,26.05,29.32,14.42,13.49,5.17,11.45,10.79,10.16,6.4,18.23
+181,T. cirrhosus,cirrhosus,ROM,104400,Ecuador,Napo ,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-1.009653,-76.68223,Cluster1,Cluster1,M,25.25,28.52,13.88,13.05,5.27,11.58,10.53,10.02,6.1,17.45
+182,T. cirrhosus,cirrhosus,ROM,104418,Ecuador,Napo ,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-1.009653,-76.68223,Cluster2,Cluster2,M,25.22,28.16,14.7,12.97,5.24,11.08,10.36,10.16,6.1,17.42
+183,T. cirrhosus,cirrhosus,ROM,104082,Ecuador,Napo ,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-1.068115,-76.682062,Cluster2,Cluster3,M,26.21,29.12,14.49,13.75,5.19,11.7,10.6,10.08,6.29,18.41
+153,T. cirrhosus,coffini,MVZ,98198,El Salvador,San Miguel,,T. coffini,T. c. coffini,T. coffini,13.31667,-88.06667,Cluster1,Cluster1,F,25.01,28.31,13.78,13.34,5.07,11.3,10.13,9.59,5.76,16.7
+154,T. cirrhosus,coffini,MVZ,98199,El Salvador,San Miguel,,T. coffini,T. c. coffini,T. coffini,13.31667,-88.06667,Cluster1,Cluster1,F,25.06,28.26,13.71,13.09,5.1,11.38,9.96,9.5,5.61,16.48
+155,T. cirrhosus,coffini,MVZ,98200,El Salvador,San Miguel,,T. coffini,T. c. coffini,T. coffini,13.31667,-88.06667,Cluster1,Cluster1,F,25.22,28.62,13.52,13.03,5.2,11.38,10.3,9.49,5.76,17.18
+156,T. cirrhosus,coffini,MVZ,130672,El Salvador,San Miguel,,T. coffini,T. c. coffini,T. coffini,13.23333,-88.36667,Cluster1,Cluster1,F,25.28,28.54,13.93,13.34,5.16,11.57,10.06,9.54,5.72,17.13
+157,T. cirrhosus,coffini,MVZ,130674,El Salvador,San Miguel,,T. coffini,T. c. coffini,T. coffini,13.23333,-88.36667,Cluster1,Cluster1,F,24.87,28.33,13.44,13.03,5.21,11.45,10.01,9.41,5.66,16.49
+158,T. cirrhosus,coffini,MVZ,130675,El Salvador,San Miguel,,T. coffini,T. c. coffini,T. coffini,13.23333,-88.36667,Cluster1,Cluster1,F,24.79,28.16,13.71,13.08,4.93,11.23,10.12,9.52,5.74,16.37
+159,T. cirrhosus,coffini,MVZ,130676,El Salvador,San Miguel,,T. coffini,T. c. coffini,T. coffini,13.23333,-88.36667,Cluster1,Cluster1,F,24.4,28.2,13.79,13.37,4.96,11.75,9.84,9.29,5.63,16.92
+160,T. cirrhosus,coffini,MVZ,130677,El Salvador,San Miguel,,T. coffini,T. c. coffini,T. coffini,13.23333,-88.36667,Cluster2,Cluster2,F,24.87,27.79,14.14,13.29,5.37,11.48,9.92,9.95,5.88,17.06
+161,T. cirrhosus,coffini,MVZ,130678,El Salvador,San Miguel,,T. coffini,T. c. coffini,T. coffini,13.23333,-88.36667,Cluster1,Cluster1,F,24.83,28.18,13.62,13.21,5.05,11.28,9.84,9.28,5.58,17.14
+162,T. cirrhosus,coffini,MVZ,130679,El Salvador,San Miguel,,T. coffini,T. c. coffini,T. coffini,13.23333,-88.36667,Cluster1,Cluster1,F,25.05,28.21,13.8,13.34,5.01,11.31,9.94,9.75,5.68,17.06
+163,T. cirrhosus,coffini,MVZ,130681,El Salvador,San Miguel,,T. coffini,T. c. coffini,T. coffini,13.23333,-88.36667,Cluster1,Cluster1,F,24.97,28.62,13.95,13.03,5.28,11.67,10.21,9.55,5.76,17.18
+164,T. cirrhosus,coffini,MVZ,130684,El Salvador,San Miguel,,T. coffini,T. c. coffini,T. coffini,13.23333,-88.36667,Cluster1,Cluster1,F,25.02,28.28,13.24,12.85,4.93,11.14,10.2,9.24,5.56,16.98
+165,T. cirrhosus,coffini,MVZ,130685,El Salvador,San Miguel,,T. coffini,T. c. coffini,T. coffini,13.23333,-88.36667,Cluster1,Cluster1,F,24.55,27.73,13.41,12.89,5.03,11.2,9.88,9.35,5.41,16.24
+166,T. cirrhosus,coffini,MVZ,130686,El Salvador,San Miguel,,T. coffini,T. c. coffini,T. coffini,13.23333,-88.36667,Cluster1,Cluster1,F,24.86,28.08,13.4,13.01,5.04,11.3,10,9.36,5.65,16.38
+167,T. cirrhosus,coffini,MVZ,130687,El Salvador,San Miguel,,T. coffini,T. c. coffini,T. coffini,13.23333,-88.36667,Cluster1,Cluster1,F,25.11,28.19,13.74,13.27,4.98,11.6,10.2,9.59,5.71,16.79
+168,T. cirrhosus,coffini,MVZ,130688,El Salvador,San Miguel,,T. coffini,T. c. coffini,T. coffini,13.23333,-88.36667,Cluster2,Cluster2,F,25.54,29.18,14.08,13.38,5.15,11.95,10.51,9.88,5.81,18.1
+169,T. cirrhosus,coffini,MVZ,130689,El Salvador,San Miguel,,T. coffini,T. c. coffini,T. coffini,13.23333,-88.36667,Cluster1,Cluster1,F,25.32,28.45,13.84,13.28,5.03,11.23,10.29,9.51,5.8,17.01
+170,T. cirrhosus,coffini,MVZ,130673,El Salvador,San Miguel,,T. coffini,T. c. coffini,T. coffini,13.23333,-88.36667,Cluster1,Cluster1,M,24.92,28.16,13.45,12.84,4.86,11.25,10.18,9.33,5.78,16.48
+171,T. cirrhosus,coffini,MVZ,130680,El Salvador,San Miguel,,T. coffini,T. c. coffini,T. coffini,13.23333,-88.36667,Cluster1,Cluster1,M,24.79,28.19,13.5,12.92,4.98,11.44,10.04,9.45,5.81,16.8
+172,T. cirrhosus,coffini,MVZ,130682,El Salvador,San Miguel,,T. coffini,T. c. coffini,T. coffini,13.23333,-88.36667,Cluster1,Cluster1,M,25.3,28.3,13.92,13.17,4.94,11.31,10.18,9.57,5.78,16.69
+173,T. cirrhosus,coffini,MVZ,130683,El Salvador,San Miguel,,T. coffini,T. c. coffini,T. coffini,13.23333,-88.36667,Cluster1,Cluster1,M,25.08,28.36,13.42,13.03,4.85,11.33,10.16,9.35,5.7,16.17
+174,T. cirrhosus,coffini,MVZ,130690,El Salvador,San Miguel,,T. coffini,T. c. coffini,T. coffini,13.23333,-88.36667,Cluster1,Cluster1,M,25.7,29.25,13.97,13.72,5.16,11.57,10.42,9.74,5.8,16.95
+152,T. cirrhosus,coffini,SMP,13860,El Salvador,,,T. coffini,T. c. coffini,T. coffini,13.29,-88.15,Cluster2,Cluster2,M,24.84,28.18,14.01,13.47,4.81,11.6,9.81,9.68,5.88,17.44
+270,T. cirrhosus,cirrhosus,AMNH,266089,French Guyana,Kourou,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,5.275278,-52.923611,Cluster2,Cluster3,M,27.91,31.15,15.95,14.35,5.36,11.83,11.11,10.51,6.54,18.36
+271,T. cirrhosus,cirrhosus,SMP,69744,French Guyana,nordeste,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,5.34,-53.51,Cluster2,Cluster2,F,27.26,30.8,15.25,14.26,5.36,11.15,10.87,10.26,6.52,18.67
+272,T. cirrhosus,cirrhosus,SMP,69745,French Guyana,nordeste,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,4.34,-52.11,Cluster2,Cluster2,M,26.45,29.09,15,14.31,5.5,11.91,10.85,10.06,6.04,17.85
+184,T. cirrhosus,cirrhosus,AMNH,266079,French Guyana,Sinnamary,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,5.275278,-52.923611,Cluster2,Cluster3,M,27.1,30.69,15.27,14.66,5.23,11.78,10.96,10.69,6.48,18.16
+185,T. cirrhosus,cirrhosus,AMNH,266081,French Guyana,Sinnamary,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,5.275278,-52.923611,Cluster2,Cluster3,F,26.04,29.84,14.8,14.31,5.3,11.66,10.75,10.24,6.27,17.97
+186,T. cirrhosus,cirrhosus,AMNH,266084,French Guyana,Sinnamary,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,5.275278,-52.923611,Cluster2,Cluster3,M,27.32,30.96,15.08,14.45,5.37,11.94,11.2,10.12,6.63,19.16
+187,T. cirrhosus,cirrhosus,AMNH,267442,French Guyana,Sinnamary,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,5.275278,-52.923611,Cluster2,Cluster3,M,27.26,30.74,14.93,14.26,5.56,12.42,11.33,10.63,6.66,19.96
+188,T. cirrhosus,cirrhosus,AMNH,267926,French Guyana,Sinnamary,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,5.275278,-52.923611,Cluster2,Cluster3,M,27.1,30.6,15.46,14.48,5.52,12.25,11.29,10.72,6.83,20.01
+189,T. cirrhosus,cirrhosus,AMNH,267927,French Guyana,Sinnamary,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,5.275278,-52.923611,Cluster2,Cluster3,F,26.78,30.03,15.32,14,5.45,11.91,11.08,10.87,6.66,18.92
+190,T. cirrhosus,cirrhosus,AMNH,267928,French Guyana,Sinnamary,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,5.275278,-52.923611,Cluster2,Cluster3,F,27.44,30.11,15,14.03,5.25,11.43,11.38,10.74,6.62,19.21
+191,T. cirrhosus,cirrhosus,AMNH,267929,French Guyana,Sinnamary,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,5.275278,-52.923611,Cluster2,Cluster3,M,27.6,30.73,15.25,14.29,5.34,12.15,11.17,10.73,6.7,18.73
+192,T. cirrhosus,cirrhosus,AMNH,267930,French Guyana,Sinnamary,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,5.275278,-52.923611,Cluster2,Cluster2,M,27.45,31.2,15.58,14.96,5.5,11.6,11.54,10.99,6.88,19.58
+193,T. cirrhosus,cirrhosus,AMNH,267933,French Guyana,Sinnamary,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,5.275278,-52.923611,Cluster2,Cluster3,M,26.45,29.87,15.17,14.46,5.5,11.78,11.04,10.7,6.44,18.34
+194,T. cirrhosus,cirrhosus,AMNH,267934,French Guyana,Sinnamary,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,5.275278,-52.923611,Cluster2,Cluster3,M,26.11,29.09,14.08,13.53,5.35,11.15,10.74,10.31,6.34,17.85
+195,T. cirrhosus,cirrhosus,AMNH,267935,French Guyana,Sinnamary,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,5.275278,-52.923611,Cluster2,Cluster3,M,27.37,30.77,15.49,14.5,5.3,12.03,11.04,10.77,6.6,18.67
+196,T. cirrhosus,cirrhosus,AMNH,267936,French Guyana,Sinnamary,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,5.275278,-52.923611,Cluster2,Cluster3,F,26.84,30.23,14.91,14.24,5.09,11.37,11.06,10.48,6.62,18.32
+197,T. cirrhosus,cirrhosus,AMNH,267932,French Guyana,Sinnamary,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,5.275278,-52.923611,Cluster2,Cluster3,M,27.27,30.8,15.25,14.01,5.54,11.99,11.19,10.55,6.49,17.77
+209,T. cirrhosus,coffini,FMNH,64501,Guatemala,Chimaltenago,,T. coffini,T. c. coffini,T. coffini,14.46667,-90.98333,Cluster1,Cluster1,F,24.64,28.11,13.61,12.75,5.1,11.23,9.89,9.77,5.79,16.55
+210,T. cirrhosus,coffini,FMNH,65181,Guatemala,Chimaltenago,,T. coffini,T. c. coffini,T. coffini,14.46667,-90.98333,Cluster2,Cluster2,F,24.6,28.12,13.78,13.46,5.37,11.46,9.7,9.36,5.74,16.67
+211,T. cirrhosus,coffini,FMNH,65182,Guatemala,Chimaltenago,,T. coffini,T. c. coffini,T. coffini,14.46667,-90.98333,Cluster1,Cluster1,F,24.68,27.94,13.37,12.83,5.14,11.23,9.87,9.48,5.54,16.66
+212,T. cirrhosus,coffini,FMNH,65190,Guatemala,Chimaltenago,,T. coffini,T. c. coffini,T. coffini,14.46667,-90.98333,Cluster2,Cluster2,F,24.73,28.03,13.63,13.17,5.12,11.03,9.79,9.64,5.63,16.99
+213,T. cirrhosus,coffini,FMNH,64634,Guatemala,Chimaltenago,,T. coffini,T. c. coffini,T. coffini,14.46667,-90.98333,Cluster1,Cluster1,M,24.48,27.71,13.47,13.07,5.28,11.35,9.74,9.37,5.79,16.83
+214,T. cirrhosus,coffini,FMNH,65183,Guatemala,Chimaltenago,,T. coffini,T. c. coffini,T. coffini,14.46667,-90.98333,Cluster1,Cluster1,M,24.71,28.18,13.73,12.9,5.33,11.35,9.96,9.45,5.82,16.89
+215,T. cirrhosus,coffini,FMNH,65186,Guatemala,Chimaltenago,,T. coffini,T. c. coffini,T. coffini,14.46667,-90.98333,Cluster1,Cluster1,M,24.74,28.2,13.34,12.79,5.11,11.08,9.88,9.51,5.71,16.67
+216,T. cirrhosus,coffini,FMNH,65191,Guatemala,Escuintla,,T. coffini,T. c. coffini,T. coffini,14.30818,-90.95,Cluster1,Cluster1,F,24.69,28.06,13.6,13.14,5.16,11.12,9.85,9.45,5.68,17.3
+217,T. cirrhosus,coffini,FMNH,65192,Guatemala,Escuintla,,T. coffini,T. c. coffini,T. coffini,14.30818,-90.95,Cluster1,Cluster1,F,24.87,28.06,13.77,12.6,4.94,11.18,10.06,9.57,5.71,16.68
+218,T. cirrhosus,coffini,FMNH,65194,Guatemala,Escuintla,,T. coffini,T. c. coffini,T. coffini,14.30818,-90.95,Cluster1,Cluster1,F,24.79,28.04,13.37,12.78,4.96,11.14,9.92,9.58,5.88,16.57
+219,T. cirrhosus,coffini,FMNH,64632,Guatemala,Escuintla,,T. coffini,T. c. coffini,T. coffini,14.30818,-90.95,Cluster2,Cluster2,F,24.78,28.04,13.93,12.98,5.36,10.9,10.09,9.85,5.92,17.12
+220,T. cirrhosus,coffini,FMNH,64633,Guatemala,Escuintla,,T. coffini,T. c. coffini,T. coffini,14.30818,-90.95,Cluster1,Cluster1,M,24.41,27.86,13.4,12.78,5.11,11.08,9.95,9.47,5.66,16.84
+198,T. cirrhosus,coffini,USNM,244252,Guatemala,Peten,,T. coffini,T. c. coffini,T. coffini,17.01,-89.32,Cluster1,Cluster1,F,24.9,27.77,13.5,12.92,4.89,11.08,10.09,9.73,5.71,16.6
+199,T. cirrhosus,coffini,USNM,244254,Guatemala,Peten,,T. coffini,T. c. coffini,T. coffini,17.01,-89.32,Cluster1,Cluster1,F,25.09,28.53,13.7,13.06,5.08,11.54,10.54,9.78,5.88,16.82
+200,T. cirrhosus,coffini,USNM,244256,Guatemala,Peten,,T. coffini,T. c. coffini,T. coffini,17.01,-89.32,Cluster1,Cluster1,F,24.42,27.45,13.45,12.55,5.07,11.47,9.98,9.55,5.58,17.42
+201,T. cirrhosus,coffini,USNM,244258,Guatemala,Peten,,T. coffini,T. c. coffini,T. coffini,17.01,-89.32,Cluster1,Cluster1,F,25.06,27.6,13.6,13.21,4.99,11.47,10.12,9.77,5.71,16.6
+202,T. cirrhosus,coffini,ROM,99493,Guatemala,Peten,,T. coffini,T. c. coffini,T. coffini,17.811117,-89.233287,Cluster1,Cluster1,M,24.83,27.9,13.35,13.01,4.94,11.16,10,9.51,5.66,16.73
+203,T. cirrhosus,coffini,ROM,99527,Guatemala,Peten,,T. coffini,T. c. coffini,T. coffini,17.81138,-89.23278,Cluster1,Cluster1,M,24.71,27.6,13.58,13.05,5.2,11.52,10.05,9.73,5.86,16.62
+204,T. cirrhosus,coffini,?MNH,244266,Guatemala,Peten,,T. coffini,T. c. coffini,T. coffini,17.01,-89.32,Cluster1,Cluster1,F,24.95,28.33,13.48,13.28,5.09,11.69,10.27,9.53,5.67,17.2
+205,T. cirrhosus,coffini,USNM,244262,Guatemala,Peten,,T. coffini,T. c. coffini,T. coffini,17.01,-89.32,Cluster1,Cluster1,F,24.83,28.12,13.87,13.46,5.16,11.28,10.18,9.77,5.63,16.9
+206,T. cirrhosus,coffini,USNM,244264,Guatemala,Peten,,T. coffini,T. c. coffini,T. coffini,17.01,-89.32,Cluster1,Cluster1,F,24.9,27.96,13.53,13.22,5.1,11.15,10.18,9.56,5.58,16.55
+207,T. cirrhosus,coffini,USNM,244268,Guatemala,Peten,,T. coffini,T. c. coffini,T. coffini,17.01,-89.32,Cluster1,Cluster1,F,24.84,28.11,13.6,12.95,5.01,11.29,10.36,9.8,5.56,16.66
+208,T. cirrhosus,coffini,USNM,244269,Guatemala,Peten,,T. coffini,T. c. coffini,T. coffini,17.01,-89.32,Cluster1,Cluster1,F,25.06,27.94,13.71,12.91,4.87,11.36,10.29,9.76,5.67,16.56
+221,T. cirrhosus,coffini,FMNH,58577,Guatemala,Peten,,T. coffini,T. c. coffini,T. coffini,17.25,-89.65,Cluster1,Cluster1,M,24.58,27.68,13.6,12.94,4.97,11.09,10.05,9.59,5.8,16.95
+222,T. cirrhosus,coffini,KU,82037,Guatemala,Peten,,T. coffini,T. c. coffini,T. coffini,16.11,-90.25,Cluster1,Cluster1,F,25.01,27.93,13.9,13.14,4.99,11.35,10.15,9.87,6.01,17.09
+223,T. cirrhosus,coffini,KU,82038,Guatemala,Peten,,T. coffini,T. c. coffini,T. coffini,16.11,-90.25,Cluster2,Cluster1,F,24.71,27.76,14.06,13.35,5.16,11.38,9.82,9.69,5.78,17.22
+224,T. cirrhosus,coffini,KU,82039,Guatemala,Peten,,T. coffini,T. c. coffini,T. coffini,16.11,-90.25,Cluster1,Cluster1,F,24.48,27.53,13.63,13.12,5.03,11.2,10.01,9.58,5.6,16.96
+225,T. cirrhosus,coffini,KU,82040,Guatemala,Peten,,T. coffini,T. c. coffini,T. coffini,16.11,-90.25,Cluster1,Cluster1,F,25.31,28.08,13.75,13.3,4.86,11.57,10.24,9.63,5.87,17.14
+226,T. cirrhosus,coffini,KU,82045,Guatemala,Peten,,T. coffini,T. c. coffini,T. coffini,16.11,-90.25,Cluster1,Cluster2,F,24.26,27.2,13.65,13.25,5.2,11.21,10,9.58,5.67,16.77
+227,T. cirrhosus,coffini,KU,82041,Guatemala,Peten,,T. coffini,T. c. coffini,T. coffini,16.11,-90.25,Cluster1,Cluster1,M,25.25,28.24,13.76,13.23,5.09,11.46,10.21,9.6,6.01,16.82
+228,T. cirrhosus,coffini,KU,64878,Guatemala,Peten,,T. coffini,T. c. coffini,T. coffini,17.22,-89.61,Cluster1,Cluster1,F,24.72,27.67,13.42,13.02,5.08,11.29,10.02,9.57,5.63,16.45
+229,T. cirrhosus,coffini,KU,64879,Guatemala,Peten,,T. coffini,T. c. coffini,T. coffini,17.22,-89.61,Cluster1,Cluster1,F,25.06,28.04,13.4,12.78,4.89,11.08,10.07,9.4,5.81,16.66
+230,T. cirrhosus,coffini,KU,64880,Guatemala,Peten,,T. coffini,T. c. coffini,T. coffini,17.22,-89.61,Cluster1,Cluster1,F,24.84,28.02,13.76,13.07,5.36,11.54,10.02,9.72,5.91,16.99
+231,T. cirrhosus,coffini,KU,64881,Guatemala,Peten,,T. coffini,T. c. coffini,T. coffini,17.22,-89.61,Cluster1,Cluster1,F,24.69,27.57,13.2,12.72,5.06,11.17,10.16,9.39,5.8,16.88
+232,T. cirrhosus,coffini,KU,64882,Guatemala,Peten,,T. coffini,T. c. coffini,T. coffini,17.22,-89.61,Cluster2,Cluster2,F,25.07,28.02,13.74,13.24,5.04,11.15,10.42,9.83,5.64,17.41
+233,T. cirrhosus,coffini,KU,64885,Guatemala,Peten,,T. coffini,T. c. coffini,T. coffini,17.22,-89.61,Cluster1,Cluster1,F,24.78,27.92,13.43,13.17,5.05,11.55,10.25,9.89,5.87,16.97
+234,T. cirrhosus,coffini,KU,64886,Guatemala,Peten,,T. coffini,T. c. coffini,T. coffini,17.22,-89.61,Cluster1,Cluster1,F,24.4,27.55,13.24,12.78,5.06,11.18,10.01,9.37,5.5,16.44
+235,T. cirrhosus,coffini,KU,64876,Guatemala,Peten,,T. coffini,T. c. coffini,T. coffini,17.22,-89.61,Cluster1,Cluster1,M,25.07,28.07,13.72,13.14,5.2,11.52,10.27,9.85,5.85,16.76
+236,T. cirrhosus,coffini,KU,64877,Guatemala,Peten,,T. coffini,T. c. coffini,T. coffini,17.22,-89.61,Cluster1,Cluster1,M,25.26,28.25,13.61,13.04,4.99,11.36,10.34,9.66,5.82,16.75
+237,T. cirrhosus,coffini,KU,64883,Guatemala,Peten,,T. coffini,T. c. coffini,T. coffini,17.22,-89.61,Cluster1,Cluster1,M,25.26,28.25,13.42,13.09,5.04,11.36,10.41,9.68,6.01,16.67
+238,T. cirrhosus,coffini,KU,64884,Guatemala,Peten,,T. coffini,T. c. coffini,T. coffini,17.22,-89.61,Cluster2,Cluster2,M,25.55,28.23,13.32,13.4,4.99,11.46,10.35,9.63,6.01,16.84
+239,T. cirrhosus,coffini,KU,64887,Guatemala,Peten,,T. coffini,T. c. coffini,T. coffini,17.22,-89.61,Cluster1,Cluster1,M,24.25,27.25,13.11,12.95,5.09,11.47,9.93,9.38,5.48,16.44
+240,T. cirrhosus,coffini,KU,64888,Guatemala,Peten,,T. coffini,T. c. coffini,T. coffini,17.22,-89.61,Cluster1,Cluster1,M,24.85,28.24,14.04,13.4,5.26,11.7,10.05,9.73,6.01,16.95
+241,T. cirrhosus,coffini,KU,64889,Guatemala,Peten,,T. coffini,T. c. coffini,T. coffini,17.22,-89.61,Cluster1,Cluster1,M,25.01,28.02,13.24,13.14,4.99,11.35,10.03,9.47,5.6,16.66
+242,T. cirrhosus,coffini,UF,6855,Guatemala,Peten,,T. coffini,T. c. coffini,T. coffini,17.2208334,-89.6233333,Cluster1,Cluster1,F,24.33,27.64,13.37,12.87,5.14,11.18,10.14,9.79,5.6,16.21
+243,T. cirrhosus,coffini,UF,6990,Guatemala,Peten,,T. coffini,T. c. coffini,T. coffini,17.2208334,-89.6233333,Cluster1,Cluster1,F,24.58,28.04,13.56,13.03,5.02,11.47,9.76,9.72,5.6,16.55
+244,T. cirrhosus,coffini,UF,6926,Guatemala,Peten,,T. coffini,T. c. coffini,T. coffini,17.2208334,-89.6233333,Cluster1,Cluster1,M,24.85,27.85,13.47,12.73,4.78,11.17,9.76,9.5,5.67,16.45
+245,T. cirrhosus,coffini,UF,6953,Guatemala,Peten,,T. coffini,T. c. coffini,T. coffini,17.2208334,-89.6233333,Cluster1,Cluster1,M,24.59,27.64,13.13,12.78,4.97,11.08,10.06,9.34,5.5,16.67
+246,T. cirrhosus,coffini,UF,6961,Guatemala,Peten,,T. coffini,T. c. coffini,T. coffini,17.2208334,-89.6233333,Cluster1,Cluster1,M,24.74,28.06,13.24,12.8,5.02,11.14,10.05,9.35,5.6,16.57
+247,T. cirrhosus,coffini,UF,9734,Guatemala,Peten,,T. coffini,T. c. coffini,T. coffini,17.2208334,-89.6233333,Cluster1,Cluster1,M,24.59,27.85,13.49,13.26,5.07,11.31,10.31,9.69,5.82,16.74
+257,T. cirrhosus,cirrhosus,ROM,100894,Guyana,Barima-Waini,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,7.366666667,-60.48333333,Cluster2,Cluster3,F,26.77,30.32,14.68,13.72,5.33,11.74,11.29,10.16,6.3,18.15
+258,T. cirrhosus,cirrhosus,ROM,100983,Guyana,Barima-Waini,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,7.366666667,-60.48333333,Cluster2,Cluster3,F,26.37,29.64,14.59,14.3,5.26,11.58,10.86,10.25,6.34,17.6
+259,T. cirrhosus,cirrhosus,ROM,100833,Guyana,Barima-Waini,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,7.366666667,-60.48333333,Cluster2,Cluster3,M,27.23,30.67,15.37,14.04,5.28,11.85,11.44,11.01,7.02,19.26
+260,T. cirrhosus,cirrhosus,ROM,100859,Guyana,Barima-Waini,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,7.366666667,-60.48333333,Cluster2,Cluster3,M,26.86,30.63,14.77,14.23,5.61,11.96,11.02,10.48,6.7,18.82
+261,T. cirrhosus,cirrhosus,ROM,101029,Guyana,Barima-Waini,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,7.366666667,-60.48333333,Cluster2,Cluster3,F,27.19,30.95,14.93,14.22,5.54,11.87,11.27,10.37,6.37,18.68
+262,T. cirrhosus,cirrhosus,ROM,101002,Guyana,Barima-Waini,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,7.383333333,-60.53333333,Cluster2,Cluster3,M,27.04,30.39,14.85,14.2,5.43,11.83,11.02,10.54,6.64,18.73
+269,T. cirrhosus,cirrhosus,RNH,13127,Guyana,Berbice Oriental,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,5.57,-57.36,Cluster2,Cluster3,M,27.57,30.7,15.72,13.93,5.57,12.12,10.97,10.8,6.58,19.4
+267,T. cirrhosus,cirrhosus,ROM,100260,Guyana,Berbice-Corentyne,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,5.3666667,-57.3166667,Cluster2,Cluster3,M,26.91,30.01,15.13,14.13,5.4,11.78,11.17,10.39,6.78,18.04
+268,T. cirrhosus,cirrhosus,BM,80703,Guyana,Cuyuni-Mazaruni,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,5.41,-60.15,Cluster2,Cluster2,F,25.81,29.33,14.04,13.19,5.1,11.49,10.61,9.84,5.96,18.05
+253,T. cirrhosus,cirrhosus,ROM,104799,Guyana,Potaro-Siparuni,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,4.58378,-58.635318,Cluster2,Cluster3,M,27.18,30.51,15.43,14.24,5.76,12.1,11.29,10.56,6.73,19.38
+254,T. cirrhosus,cirrhosus,ROM,104721,Guyana,Potaro-Siparuni,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,4.46085,-58.753343,Cluster2,Cluster3,M,27.08,31.06,15.51,14.63,5.77,12.05,11.26,10.58,6.79,20.13
+255,T. cirrhosus,cirrhosus,ROM,104735,Guyana,Potaro-Siparuni,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,4.46085,-58.753343,Cluster2,Cluster3,M,27.01,30.55,14.9,14.24,5.6,11.86,10.77,10.74,6.73,19.21
+263,T. cirrhosus,cirrhosus,ROM,97988,Guyana,Potaro-Siparuni,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,4.333333333,-58.85,Cluster2,Cluster3,M,26.48,29.9,14.9,13.94,5.34,11.69,10.79,10.43,6.55,18.73
+264,T. cirrhosus,cirrhosus,ROM,98020,Guyana,Potaro-Siparuni,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,4.383333333,-58.86666667,Cluster2,Cluster3,M,27.03,30.07,15.34,14.56,5.61,11.57,11.21,10.64,6.75,18.41
+265,T. cirrhosus,cirrhosus,ROM,98062,Guyana,Potaro-Siparuni,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,4.333333333,-58.85,Cluster2,Cluster3,M,27.7,30.7,15.94,14.48,5.33,12.09,11.28,11.27,6.95,18.87
+266,T. cirrhosus,cirrhosus,ROM,98063,Guyana,Potaro-Siparuni,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,4.333333333,-58.85,Cluster2,Cluster3,M,26.98,30.41,15.63,14.42,5.34,12.05,10.77,10.46,6.52,18.96
+285,T. cirrhosus,cirrhosus,ROM,98008,Guyana,Potaro-Siparuni,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,4.333333333,-58.85,Cluster2,Cluster3,F,26.76,30,14.71,14.03,5.23,11.63,11.05,10.57,6.35,17.92
+286,T. cirrhosus,cirrhosus,ROM,98009,Guyana,Potaro-Siparuni,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,4.383333333,-58.86666667,Cluster2,Cluster3,M,26.79,30.02,15.29,14.39,5.43,11.97,10.76,10.49,6.7,18.23
+320,T. cirrhosus,cirrhosus,ROM,68219,Guyana,Upper Demerara-Berbice,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,6.03333,-58.28333,Cluster2,Cluster3,M,26.64,29.78,14.92,13.81,5.19,11.61,10.85,10.21,6.49,18.4
+248,T. cirrhosus,cirrhosus,ROM,106595,Guyana,Upper Takutu-Upper Essequibo,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,1.36667,-58.76667,Cluster2,Cluster3,F,26.49,29.42,14.67,13.62,5.49,11.4,10.79,10.13,6.54,18.53
+249,T. cirrhosus,cirrhosus,ROM,106674,Guyana,Upper Takutu-Upper Essequibo,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,1.471758,-58.786458,Cluster2,Cluster2,F,26.3,29.47,14.6,13.34,5.04,11.03,10.8,10.12,6.08,17.24
+250,T. cirrhosus,cirrhosus,ROM,106596,Guyana,Upper Takutu-Upper Essequibo,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,1.36667,-58.76667,Cluster2,Cluster3,M,26.86,30.32,14.8,13.53,5.15,11.83,10.97,10.22,6.54,18.17
+251,T. cirrhosus,cirrhosus,ROM,106694,Guyana,Upper Takutu-Upper Essequibo,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,1.471758,-58.786458,Cluster2,Cluster3,M,26.24,29.69,14.48,13.78,5.23,11.7,10.7,9.79,6.12,18.11
+252,T. cirrhosus,cirrhosus,ROM,106700,Guyana,Upper Takutu-Upper Essequibo,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,1.471758,-58.786458,Cluster2,Cluster2,M,27.14,30.62,14.89,13.62,5.13,11.28,11.06,10.14,6.21,17.98
+256,T. cirrhosus,cirrhosus,ROM,31873,Guyana,Upper Takutu-Upper Essequibo,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.8333333,-59.4166667,Cluster2,Cluster3,M,27,30.26,14.62,14.07,5.34,11.8,11.34,10.41,6.38,17.83
+273,T. cirrhosus,cirrhosus,AMNH,182717,Guyana,Upper Takutu-Upper Essequibo,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.5,-59.3,Cluster2,Cluster3,F,26.85,29.89,15.08,13.88,5.38,11.47,10.91,10.51,6.22,17.87
+274,T. cirrhosus,cirrhosus,ROM,33071,Guyana,Upper Takutu-Upper Essequibo,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,3.16666666,-59.23333334,Cluster2,Cluster2,M,26.51,29.95,14.62,13.48,5.29,11.65,11.03,10.85,6.22,17.23
+275,T. cirrhosus,cirrhosus,ROM,33072,Guyana,Upper Takutu-Upper Essequibo,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,3.16666666,-59.23333334,Cluster2,Cluster2,M,26.8,29.65,15.11,13.85,5.16,11.4,11.13,10.77,6.71,17.32
+276,T. cirrhosus,cirrhosus,ROM,33073,Guyana,Upper Takutu-Upper Essequibo,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,3.16666666,-59.23333334,Cluster2,Cluster3,M,26.4,29.83,14.48,13.5,5.42,11.6,10.88,10.12,6.27,18.54
+277,T. cirrhosus,cirrhosus,ROM,32423,Guyana,Upper Takutu-Upper Essequibo,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,5.0666667,-59.5333333,Cluster2,Cluster3,M,27.27,30.63,15.72,14.63,5.48,12.05,11.15,10.76,6.72,17.89
+278,T. cirrhosus,cirrhosus,ROM,32424,Guyana,Upper Takutu-Upper Essequibo,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,5.0666667,-59.5333333,Cluster2,Cluster3,M,26.12,29.07,14.46,13.78,5.14,11.48,10.97,10.57,6.48,18.21
+279,T. cirrhosus,cirrhosus,ROM,32425,Guyana,Upper Takutu-Upper Essequibo,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,5.0666667,-59.5333333,Cluster2,Cluster3,F,26.33,29.64,14.75,13.88,5.46,11.48,11.04,10.57,6.42,18.03
+280,T. cirrhosus,cirrhosus,ROM,34055,Guyana,Upper Takutu-Upper Essequibo,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.8666667,-59.2833333,Cluster2,Cluster3,M,27.38,30.69,15.12,14.69,5.58,11.88,11.43,10.5,6.66,18.13
+281,T. cirrhosus,cirrhosus,ROM,34144,Guyana,Upper Takutu-Upper Essequibo,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.91687,-59.31607,Cluster2,Cluster3,F,27.06,30.58,15.45,14.27,5.78,12.14,11.29,10.83,6.55,19.63
+282,T. cirrhosus,cirrhosus,ROM,97927,Guyana,Upper Takutu-Upper Essequibo,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,3.75,-59.3,Cluster2,Cluster3,M,26.83,29.92,15.15,14.43,5.36,11.92,10.83,10.48,6.56,17.78
+283,T. cirrhosus,cirrhosus,ROM,33211,Guyana,Upper Takutu-Upper Essequibo,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.8833333,-59.3333333,Cluster2,Cluster3,F,27.12,30.58,15.33,14.34,5.67,12.29,10.76,10.74,6.56,19.46
+284,T. cirrhosus,cirrhosus,ROM,33212,Guyana,Upper Takutu-Upper Essequibo,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.8833333,-59.3333333,Cluster2,Cluster2,M,26.92,30.17,15.59,14.92,5.57,11.73,10.98,10.72,6.95,18.51
+287,T. cirrhosus,cirrhosus,ROM,34107,Guyana,Upper Takutu-Upper Essequibo,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.83333,-59.51666,Cluster2,Cluster3,M,26.36,29.27,14.53,13.17,5.29,11.31,10.93,10.28,6.43,17.74
+288,T. cirrhosus,cirrhosus,ROM,38432,Guyana,Upper Takutu-Upper Essequibo,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.83333,-59.51666,Cluster2,Cluster3,M,26.74,29.73,15.01,13.94,5.33,11.7,10.92,10.47,6.53,18.01
+289,T. cirrhosus,cirrhosus,ROM,46273,Guyana,Upper Takutu-Upper Essequibo,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,3.3,-58.75,Cluster2,Cluster3,M,27,30.34,14.57,13.74,5.37,11.88,10.98,10.4,6.74,17.02
+290,T. cirrhosus,cirrhosus,ROM,46275,Guyana,Upper Takutu-Upper Essequibo,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,3.3,-58.75,Cluster2,Cluster3,F,26.77,29.98,15.01,14.11,5.15,11.81,10.97,10.71,6.58,18.32
+291,T. cirrhosus,cirrhosus,ROM,46276,Guyana,Upper Takutu-Upper Essequibo,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,3.3,-58.75,Cluster2,Cluster3,M,27.43,30.42,15.73,14.27,5.2,12,10.88,10.82,6.83,18.05
+292,T. cirrhosus,cirrhosus,ROM,46277,Guyana,Upper Takutu-Upper Essequibo,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,3.3,-58.75,Cluster2,Cluster2,F,26.12,29.32,14.74,13.85,5.13,11.48,10.89,10.49,6.4,17.32
+293,T. cirrhosus,cirrhosus,ROM,33923,Guyana,Upper Takutu-Upper Essequibo,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.8333333,-59.4166667,Cluster2,Cluster3,M,26.86,29.83,15.09,14.25,5.61,11.88,10.96,10.52,6.4,18.1
+294,T. cirrhosus,cirrhosus,ROM,35518,Guyana,Upper Takutu-Upper Essequibo,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.75,-59.1666667,Cluster2,Cluster3,M,26.91,29.83,14.92,13.99,5.5,12.02,11.15,10.73,6.67,18.26
+295,T. cirrhosus,cirrhosus,ROM,40580,Guyana,Upper Takutu-Upper Essequibo,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.58333,-59.93333,Cluster2,Cluster3,M,27.09,30.38,14.6,13.93,5.2,11.46,11.22,10.18,6.49,18.22
+296,T. cirrhosus,cirrhosus,ROM,40743,Guyana,Upper Takutu-Upper Essequibo,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,3.16666666,-59.23333334,Cluster2,Cluster3,M,26.51,29.68,15.08,13.99,5.49,12.06,10.88,10.32,6.58,17.95
+297,T. cirrhosus,cirrhosus,ROM,71764,Guyana,Upper Takutu-Upper Essequibo,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.83333,-59.08242,Cluster2,Cluster3,M,27.3,30.33,15.24,14.42,5.26,11.76,11.11,10.27,6.29,18.39
+298,T. cirrhosus,cirrhosus,ROM,71765,Guyana,Upper Takutu-Upper Essequibo,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.83333,-59.08242,Cluster2,Cluster3,F,26.52,29.84,14.99,13.85,5.16,11.72,10.9,10.18,6.43,17.98
+299,T. cirrhosus,cirrhosus,ROM,71767,Guyana,Upper Takutu-Upper Essequibo,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.83333,-59.08242,Cluster2,Cluster3,F,26.65,30.23,14.14,13.48,5.36,11.69,11.13,10.17,6.5,18.54
+300,T. cirrhosus,cirrhosus,ROM,71770,Guyana,Upper Takutu-Upper Essequibo,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.83333,-59.08242,Cluster2,Cluster3,M,26.1,29.33,14.69,13.93,5.28,11.7,10.72,10.5,6.42,17.59
+301,T. cirrhosus,cirrhosus,ROM,71779,Guyana,Upper Takutu-Upper Essequibo,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.83333,-59.08242,Cluster2,Cluster3,F,27.11,30.37,14.84,14.05,5.13,12.07,11.25,10.33,6.41,18.53
+302,T. cirrhosus,cirrhosus,ROM,71780,Guyana,Upper Takutu-Upper Essequibo,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.83333,-59.08242,Cluster2,Cluster3,F,26.83,30.35,15.19,13.99,5.75,12.1,11.08,10.57,6.43,19.4
+303,T. cirrhosus,cirrhosus,ROM,71781,Guyana,Upper Takutu-Upper Essequibo,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.83333,-59.08242,Cluster2,Cluster3,F,26.5,30.34,14.62,13.74,5.26,11.7,11.12,10,6.35,18.49
+304,T. cirrhosus,cirrhosus,ROM,71782,Guyana,Upper Takutu-Upper Essequibo,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.83333,-59.08242,Cluster2,Cluster3,F,26.88,30.35,15.5,14.33,5.25,11.78,11.13,10.76,6.61,18.17
+305,T. cirrhosus,cirrhosus,ROM,71784,Guyana,Upper Takutu-Upper Essequibo,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.83333,-59.08242,Cluster2,Cluster3,F,26.55,29.64,14.99,13.86,5.14,11.6,10.96,10.41,6.43,18.39
+306,T. cirrhosus,cirrhosus,ROM,71785,Guyana,Upper Takutu-Upper Essequibo,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.83333,-59.08242,Cluster2,Cluster3,M,27.23,30.26,14.62,13.88,5.22,11.55,11.47,10.48,6.41,17.96
+307,T. cirrhosus,cirrhosus,ROM,71787,Guyana,Upper Takutu-Upper Essequibo,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.83333,-59.08242,Cluster2,Cluster2,F,26.76,29.64,15.16,14.56,5.23,11.63,10.84,10.26,6.5,17.6
+308,T. cirrhosus,cirrhosus,ROM,71789,Guyana,Upper Takutu-Upper Essequibo,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.83333,-59.08242,Cluster2,Cluster2,F,26.38,29.88,14.95,13.87,5.36,11.15,11.02,9.79,6.36,18.26
+309,T. cirrhosus,cirrhosus,ROM,71792,Guyana,Upper Takutu-Upper Essequibo,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.83333,-59.08242,Cluster2,Cluster3,F,26.94,30.31,15.33,14.12,5.25,11.84,11.02,10.37,6.26,18.89
+310,T. cirrhosus,cirrhosus,ROM,71794,Guyana,Upper Takutu-Upper Essequibo,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.83333,-59.08242,Cluster2,Cluster3,F,27.18,30.28,15.2,13.72,5.32,11.57,11.4,10.57,6.46,19.12
+311,T. cirrhosus,cirrhosus,ROM,71795,Guyana,Upper Takutu-Upper Essequibo,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.83333,-59.08242,Cluster2,Cluster3,F,26.53,29.57,14.53,13.47,5.31,11.43,11.08,10.37,6.78,17.72
+312,T. cirrhosus,cirrhosus,ROM,71796,Guyana,Upper Takutu-Upper Essequibo,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.83333,-59.08242,Cluster2,Cluster3,F,25.88,29.36,14.36,13.72,5.14,11.52,10.64,9.94,6.37,17.99
+313,T. cirrhosus,cirrhosus,ROM,71799,Guyana,Upper Takutu-Upper Essequibo,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.83333,-59.08242,Cluster2,Cluster3,M,26.49,29.07,14.92,13.94,5.33,11.72,10.69,10.64,6.53,18.04
+314,T. cirrhosus,cirrhosus,ROM,71800,Guyana,Upper Takutu-Upper Essequibo,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.83333,-59.08242,Cluster2,Cluster3,F,26.41,29.66,14.69,13.52,5.38,11.75,10.75,9.98,6.26,17.56
+315,T. cirrhosus,cirrhosus,ROM,62446,Guyana,Upper Takutu-Upper Essequibo,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.5666667,-59.4666667,Cluster2,Cluster3,F,26.49,29.87,14.83,14.01,5.03,11.88,10.66,10.53,6.41,18.73
+316,T. cirrhosus,cirrhosus,ROM,65173,Guyana,Upper Takutu-Upper Essequibo,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.83333,-59.22717,Cluster2,Cluster3,M,27.75,30.88,15.61,14.68,5.18,11.94,11.37,10.82,6.88,17.92
+317,T. cirrhosus,cirrhosus,ROM,65174,Guyana,Upper Takutu-Upper Essequibo,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.83333,-59.22717,Cluster2,Cluster2,M,27.23,30,14.92,13.98,5.12,11.61,11.54,10.52,6.58,16.93
+318,T. cirrhosus,cirrhosus,ROM,65358,Guyana,Upper Takutu-Upper Essequibo,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.83333,-59.22717,Cluster2,Cluster3,F,26.93,30.43,14.91,14.31,5.45,11.96,11.25,10.61,6.4,17.85
+319,T. cirrhosus,cirrhosus,ROM,70263,Guyana,Upper Takutu-Upper Essequibo,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,3,-59.51666,Cluster2,Cluster3,M,26.29,29.87,14.84,14.11,5.56,12.05,10.63,10.3,6.32,18.26
+321,T. cirrhosus,cirrhosus,ROM,66964,Guyana,Upper Takutu-Upper Essequibo,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.9333333,-59.4833333,Cluster2,Cluster2,F,26.76,29.62,14.6,13.85,5.26,11.08,10.86,10.12,6.34,17.05
+322,T. cirrhosus,cirrhosus,ROM,66965,Guyana,Upper Takutu-Upper Essequibo,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.9333333,-59.4833333,Cluster2,Cluster2,M,26.04,29.19,14.82,13.86,5.53,11.84,10.69,10.4,6.77,17.66
+323,T. cirrhosus,cirrhosus,ROM,66966,Guyana,Upper Takutu-Upper Essequibo,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.9333333,-59.4833333,Cluster2,Cluster3,M,27.38,30.57,14.79,14.43,5.12,11.88,11.09,10.47,6.69,18.06
+324,T. cirrhosus,cirrhosus,ROM,66968,Guyana,Upper Takutu-Upper Essequibo,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.9333333,-59.4833333,Cluster2,Cluster3,M,26.98,30.41,15.59,14.39,5.51,12.01,11.05,10.65,6.7,17.89
+325,T. cirrhosus,cirrhosus,ROM,58017,Guyana,Upper Takutu-Upper Essequibo,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.87699,-59.51666,Cluster2,Cluster3,M,27.91,31.02,15.28,14.38,5.33,11.94,11.37,10.66,6.63,18.23
+326,T. cirrhosus,cirrhosus,ROM,58018,Guyana,Upper Takutu-Upper Essequibo,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.87699,-59.51666,Cluster2,Cluster3,M,27.23,30.41,15.09,14.15,5.31,11.52,11.39,10.78,6.59,18.03
+327,T. cirrhosus,cirrhosus,ROM,58879,Guyana,Upper Takutu-Upper Essequibo,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.58333,-59.93333,Cluster2,Cluster3,F,26.47,30.01,14.61,13.99,5.21,12.27,10.86,10.4,6.34,18.01
+328,T. cirrhosus,cirrhosus,ROM,58880,Guyana,Upper Takutu-Upper Essequibo,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.58333,-59.93333,Cluster2,Cluster3,F,26.66,29.96,14.96,14.13,5.7,11.82,10.95,10.33,6.48,18.4
+329,T. cirrhosus,cirrhosus,ROM,58881,Guyana,Upper Takutu-Upper Essequibo,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.58333,-59.93333,Cluster2,Cluster3,F,26.97,29.94,14.7,14.1,5.03,11.93,11.17,10.59,6.54,18.2
+330,T. cirrhosus,cirrhosus,ROM,58882,Guyana,Upper Takutu-Upper Essequibo,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.58333,-59.93333,Cluster2,Cluster3,M,26.72,30.18,14.95,14.01,5.44,11.44,11.17,10.38,6.65,17.51
+331,T. cirrhosus,cirrhosus,ROM,58883,Guyana,Upper Takutu-Upper Essequibo,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.58333,-59.93333,Cluster2,Cluster3,F,25.99,29.54,14.46,13.79,5.35,11.42,10.6,10.11,6.4,17.86
+332,T. cirrhosus,cirrhosus,ROM,58884,Guyana,Upper Takutu-Upper Essequibo,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.58333,-59.93333,Cluster2,Cluster3,F,26.46,29.25,14.61,13.74,5.28,11.55,10.96,10.64,6.54,18.21
+333,T. cirrhosus,cirrhosus,ROM,58885,Guyana,Upper Takutu-Upper Essequibo,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.58333,-59.93333,Cluster2,Cluster3,F,26.64,29.68,14.98,14.2,5.33,12.1,10.68,10.15,6.19,17.77
+334,T. cirrhosus,cirrhosus,ROM,58886,Guyana,Upper Takutu-Upper Essequibo,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.58333,-59.93333,Cluster2,Cluster3,F,26.27,29.46,14.6,13.66,5.32,11.6,10.82,10.56,6.48,18.06
+335,T. cirrhosus,cirrhosus,ROM,58887,Guyana,Upper Takutu-Upper Essequibo,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.58333,-59.93333,Cluster2,Cluster3,F,26.5,30.09,14.83,14.11,5.58,11.92,10.81,10.4,6.61,18.29
+336,T. cirrhosus,cirrhosus,ROM,58888,Guyana,Upper Takutu-Upper Essequibo,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.58333,-59.93333,Cluster2,Cluster3,F,26.1,29.27,15.05,14.47,5.54,12.07,10.55,10.44,6.32,18.41
+337,T. cirrhosus,cirrhosus,ROM,58889,Guyana,Upper Takutu-Upper Essequibo,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.58333,-59.93333,Cluster2,Cluster3,F,27.32,30.22,15.04,14.2,5.2,11.83,11.07,10.47,6.43,18.72
+338,T. cirrhosus,cirrhosus,ROM,58890,Guyana,Upper Takutu-Upper Essequibo,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.58333,-59.93333,Cluster2,Cluster3,F,26.14,29.07,14.79,14.27,5.32,11.99,10.63,10.44,6.51,18.25
+339,T. cirrhosus,cirrhosus,ROM,58891,Guyana,Upper Takutu-Upper Essequibo,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.58333,-59.93333,Cluster2,Cluster3,M,27.01,29.99,15.1,14.12,5.21,12.2,10.87,10.45,6.51,18.05
+340,T. cirrhosus,cirrhosus,ROM,58892,Guyana,Upper Takutu-Upper Essequibo,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.58333,-59.93333,Cluster2,Cluster3,F,27.4,30.67,14.9,14.23,5.75,11.65,11.09,10.48,6.71,17.95
+341,T. cirrhosus,coffini,AMNH,129075,Honduras,Lempira,,T. coffini,T. c. coffini,T. coffini,14.28333,-88.81667,Cluster1,Cluster1,F,24.3,27.35,13.74,12.98,5.08,11.22,9.69,9.47,5.52,17.03
+342,T. cirrhosus,coffini,AMNH,129076,Honduras,Lempira,,T. coffini,T. c. coffini,T. coffini,14.28333,-88.81667,Cluster1,Cluster1,F,25.11,28.1,13.96,13.02,5.25,11.32,10.35,9.58,5.79,16.89
+343,T. cirrhosus,coffini,AMNH,129077,Honduras,Lempira,,T. coffini,T. c. coffini,T. coffini,14.28333,-88.81667,Cluster1,Cluster1,F,24.79,27.96,13.76,13.04,4.99,11.37,9.92,9.37,5.96,16.32
+344,T. cirrhosus,coffini,AMNH,129079,Honduras,Lempira,,T. coffini,T. c. coffini,T. coffini,14.28333,-88.81667,Cluster2,Cluster2,F,24.74,27.74,13.54,13.19,5.08,10.99,10.38,9.76,6.02,16.45
+345,T. cirrhosus,coffini,AMNH,129080,Honduras,Lempira,,T. coffini,T. c. coffini,T. coffini,14.28333,-88.81667,Cluster1,Cluster1,F,24.67,27.26,13.4,12.83,4.98,11.34,9.8,9.48,5.87,16.32
+346,T. cirrhosus,coffini,AMNH,129082,Honduras,Lempira,,T. coffini,T. c. coffini,T. coffini,14.28333,-88.81667,Cluster1,Cluster1,F,24.98,28.1,13.58,12.85,5.04,10.89,10.22,9.87,5.96,17.24
+347,T. cirrhosus,coffini,AMNH,129083,Honduras,Lempira,,T. coffini,T. c. coffini,T. coffini,14.28333,-88.81667,Cluster1,Cluster1,F,24.31,27.3,13.19,12.79,4.83,10.83,9.81,9.17,5.45,16.16
+348,T. cirrhosus,coffini,AMNH,129084,Honduras,Lempira,,T. coffini,T. c. coffini,T. coffini,14.7,-88.61667,Cluster2,Cluster2,F,25.07,28.14,13.29,12.86,5.13,11.14,10.35,10.53,5.85,16.9
+349,T. cirrhosus,coffini,AMNH,129086,Honduras,Lempira,,T. coffini,T. c. coffini,T. coffini,14.7,-88.61667,Cluster1,Cluster1,F,24.16,27.01,13.23,12.76,4.98,11.19,9.81,9.51,5.52,16.51
+350,T. cirrhosus,coffini,AMNH,129087,Honduras,Lempira,,T. coffini,T. c. coffini,T. coffini,14.7,-88.61667,Cluster1,Cluster1,F,24.56,27.81,13.56,13.17,5.01,11.49,9.87,9.51,5.69,16.84
+351,T. cirrhosus,coffini,AMNH,129088,Honduras,Lempira,,T. coffini,T. c. coffini,T. coffini,14.28333,-88.81667,Cluster1,Cluster1,F,24.62,27.77,13.66,13.21,5.02,11.44,9.8,9.46,5.83,16.45
+352,T. cirrhosus,coffini,AMNH,129089,Honduras,Lempira,,T. coffini,T. c. coffini,T. coffini,14.7,-88.61667,Cluster1,Cluster1,F,24.54,27.52,13.2,13.08,4.86,11.22,10.04,9.54,5.62,16.54
+353,T. cirrhosus,coffini,AMNH,129085,Honduras,Lempira,,T. coffini,T. c. coffini,T. coffini,14.28333,-88.81667,Cluster1,Cluster1,F,24.57,27.21,13.45,12.6,4.96,10.98,9.85,9.44,5.68,17.66
+354,T. cirrhosus,coffini,AMNH,129068,Honduras,Lempira,,T. coffini,T. c. coffini,T. coffini,14.28333,-88.81667,Cluster1,Cluster1,F,24.5,27.55,13.41,12.91,4.99,11.12,10.06,9.61,5.75,16.75
+355,T. cirrhosus,coffini,AMNH,129070,Honduras,Lempira,,T. coffini,T. c. coffini,T. coffini,14.28333,-88.81667,Cluster1,Cluster1,F,24.32,27.35,13.24,12.84,4.87,11.14,9.75,9.52,5.79,17.19
+356,T. cirrhosus,coffini,AMNH,129732,Honduras,Lempira,,T. coffini,T. c. coffini,T. coffini,14.7,-88.61667,Cluster2,Cluster2,F,24.19,27.43,13.3,13.3,5.01,11.36,9.74,9.74,5.8,16.78
+357,T. cirrhosus,coffini,AMNH,129733,Honduras,Lempira,,T. coffini,T. c. coffini,T. coffini,14.28333,-88.81667,Cluster1,Cluster1,F,25.26,27.95,13.8,12.84,5.02,11.13,10.07,9.63,5.72,16.16
+358,T. cirrhosus,coffini,AMNH,129734,Honduras,Lempira,,T. coffini,T. c. coffini,T. coffini,14.28333,-88.81667,Cluster1,Cluster1,F,24.19,27.07,13.23,12.85,5.05,10.92,9.79,9.24,5.46,16.33
+359,T. cirrhosus,coffini,AMNH,129735,Honduras,Lempira,,T. coffini,T. c. coffini,T. coffini,14.7,-88.61667,Cluster1,Cluster1,F,25.11,27.99,13.44,13.12,4.94,11.03,10.3,9.7,5.91,16.49
+360,T. cirrhosus,coffini,AMNH,129736,Honduras,Lempira,,T. coffini,T. c. coffini,T. coffini,14.28333,-88.81667,Cluster1,Cluster1,F,24.21,27.35,13.38,12.85,5.01,11.21,9.88,9.44,5.64,16.51
+361,T. cirrhosus,coffini,AMNH,129737,Honduras,Lempira,,T. coffini,T. c. coffini,T. coffini,14.7,-88.61667,Cluster1,Cluster1,F,24.82,28.03,13.98,13.26,5.07,11.34,10.09,9.39,5.79,17.29
+362,T. cirrhosus,coffini,AMNH,129738,Honduras,Lempira,,T. coffini,T. c. coffini,T. coffini,14.7,-88.61667,Cluster1,Cluster1,F,24.23,27.11,13.4,12.85,4.76,11.14,9.78,9.44,5.55,16.32
+363,T. cirrhosus,coffini,AMNH,129739,Honduras,Lempira,,T. coffini,T. c. coffini,T. coffini,14.7,-88.61667,Cluster1,Cluster1,M,24.37,27.44,13.51,12.89,4.95,11.19,9.91,9.55,5.66,16.17
+364,T. cirrhosus,coffini,AMNH,129090,Honduras,Lempira,,T. coffini,T. c. coffini,T. coffini,14.28333,-88.81667,Cluster2,Cluster2,M,24.39,27.25,13.71,12.81,4.9,10.14,10.02,9.79,5.89,16.91
+365,T. cirrhosus,coffini,AMNH,129081,Honduras,Lempira,,T. coffini,T. c. coffini,T. coffini,14.7,-88.61667,Cluster1,Cluster1,M,25.16,28.27,13.67,13.06,4.9,11.26,10.27,9.68,5.72,16.32
+366,T. cirrhosus,coffini,AMNH,129072,Honduras,Lempira,,T. coffini,T. c. coffini,T. coffini,14.28333,-88.81667,Cluster1,Cluster1,M,24.98,27.8,13.75,12.84,5.08,11.2,10.2,9.56,5.81,17.12
+367,T. cirrhosus,coffini,AMNH,129069,Honduras,Lempira,,T. coffini,T. c. coffini,T. coffini,14.28333,-88.81667,Cluster1,Cluster1,F,24.98,27.52,13.45,12.84,5.2,11.36,10.08,9.48,5.81,16.54
+368,T. cirrhosus,coffini,AMNH,129065,Honduras,Lempira,,T. coffini,T. c. coffini,T. coffini,14.7,-88.61667,Cluster1,Cluster1,F,24.91,27.51,13.18,12.84,4.83,11.2,10.11,9.38,5.78,16.85
+369,T. cirrhosus,coffini,AMNH,129071,Honduras,Lempira,,T. coffini,T. c. coffini,T. coffini,14.28333,-88.81667,Cluster1,Cluster1,F,24.3,27.01,13.29,12.54,4.98,10.81,9.88,9.31,5.53,16.7
+370,T. cirrhosus,coffini,AMNH,129074,Honduras,Lempira,,T. coffini,T. c. coffini,T. coffini,14.28333,-88.81667,Cluster1,Cluster1,F,24.34,27.32,13.51,12.99,4.96,11.21,9.91,9.38,5.68,16.65
+373,T. cirrhosus,coffini,KU,93381,Mexico,Campeche,,T. coffini,T. c. coffini,T. coffini,18.01,-89.44,Cluster1,Cluster1,F,24.72,27.9,13.63,13.08,5.07,11.19,10.22,9.72,5.78,17.08
+374,T. cirrhosus,coffini,ROM,95747,Mexico,Campeche,,T. coffini,T. c. coffini,T. coffini,18.25,-90.06666667,Cluster1,Cluster1,M,24.31,27.26,13.38,12.86,4.93,11.18,9.96,9.68,5.91,16.13
+375,T. cirrhosus,coffini,KU,102296,Mexico,Chiapas,,T. coffini,T. c. coffini,T. coffini,17.48,-92.04,Cluster1,Cluster1,F,24.56,27.6,13.29,12.8,5.15,11.06,9.86,9.47,5.83,16.84
+376,T. cirrhosus,coffini,KU,102297,Mexico,Chiapas,,T. coffini,T. c. coffini,T. coffini,17.48,-92.04,Cluster2,Cluster2,M,25.52,28.48,14.05,13.7,5.3,11.44,10.21,9.89,5.98,17.04
+377,T. cirrhosus,coffini,KU,102299,Mexico,Chiapas,,T. coffini,T. c. coffini,T. coffini,17.48,-92.04,Cluster1,Cluster1,M,25.24,28.45,13.76,13.22,5.2,11.71,10.36,9.75,6.04,17.78
+378,T. cirrhosus,coffini,CUMV,13362,Mexico,Chiapas,,T. coffini,T. c. coffini,T. coffini,15.51052,-92.949007,Cluster1,Cluster1,F,24.63,27.71,13.4,12.91,5.1,11.06,10.12,9.68,5.78,16.95
+379,T. cirrhosus,coffini,ROM,78557,Mexico,Chiapas,,T. coffini,T. c. coffini,T. coffini,17.3336111,-92.2111111,Cluster1,Cluster1,M,25.27,28.36,13.36,12.77,5.08,11.33,10.21,9.5,5.94,16.52
+380,T. cirrhosus,coffini,LACM,13483,Mexico,Chiapas,,T. coffini,T. c. coffini,T. coffini,17.3336111,-92.2111111,Cluster1,Cluster1,M,24.8,28.1,13.3,13.01,4.98,11.02,10.14,9.69,5.96,16.59
+381,T. cirrhosus,coffini,LACM,13485,Mexico,Chiapas,,T. coffini,T. c. coffini,T. coffini,17.3336111,-92.2111111,Cluster1,Cluster1,F,24.67,27.94,13.61,13.05,5.23,11.21,10,9.5,5.61,17.42
+382,T. cirrhosus,coffini,LACM,13486,Mexico,Chiapas,,T. coffini,T. c. coffini,T. coffini,17.3336111,-92.2111111,Cluster1,Cluster1,F,24.83,28.18,13.36,13.05,5.25,11.2,10.15,9.83,6,17.02
+383,T. cirrhosus,coffini,LACM,13487,Mexico,Chiapas,,T. coffini,T. c. coffini,T. coffini,17.3336111,-92.2111111,Cluster1,Cluster1,F,24.76,27.95,13.51,13.07,5.16,11.05,10.25,9.81,5.98,17.11
+384,T. cirrhosus,coffini,LACM,13488,Mexico,Chiapas,,T. coffini,T. c. coffini,T. coffini,17.3336111,-92.2111111,Cluster1,Cluster1,F,24.98,27.95,13.23,12.84,5.14,10.99,10.36,9.45,5.85,16.76
+385,T. cirrhosus,coffini,LACM,13489,Mexico,Chiapas,,T. coffini,T. c. coffini,T. coffini,17.3336111,-92.2111111,Cluster1,Cluster1,F,25.05,28.23,13.68,13.2,4.94,11.15,10.28,9.55,5.91,16.87
+386,T. cirrhosus,coffini,LACM,13490,Mexico,Chiapas,,T. coffini,T. c. coffini,T. coffini,17.3336111,-92.2111111,Cluster1,Cluster1,F,24.85,27.96,13.46,12.96,5.1,11.03,10.16,9.6,5.89,16.84
+387,T. cirrhosus,coffini,LACM,13491,Mexico,Chiapas,,T. coffini,T. c. coffini,T. coffini,16.3875,-91.8594444,Cluster1,Cluster1,F,24.32,27.75,13.27,12.95,5.04,11.24,9.88,9.4,5.76,16.99
+388,T. cirrhosus,coffini,TTU,6115,Mexico,Chiapas,,T. coffini,T. c. coffini,T. coffini,17.3336105,-92.211113,Cluster1,Cluster1,M,25.24,28.36,13.54,12.92,4.97,11.14,10.47,9.69,5.94,16.42
+372,T. cirrhosus,coffini,LACM,12963,Mexico,Oaxaca,,T. coffini,T. c. coffini,T. coffini,16.9891667,-95.0416667,Cluster2,Cluster2,M,24.74,27.94,13.61,13.2,5.34,11.68,9.85,9.82,5.99,16.76
+389,T. cirrhosus,coffini,AMNH,185891,Mexico,Oaxaca,,T. coffini,T. c. coffini,T. coffini,16.304312,-94.345258,Cluster2,Cluster1,M,24.75,27.85,13.87,12.81,5.05,11.64,9.98,9.88,6.02,17.49
+390,T. cirrhosus,coffini,AMNH,185889,Mexico,Oaxaca,,T. coffini,T. c. coffini,T. coffini,16.965946,-95.039335,Cluster1,Cluster1,F,25.08,28.18,13.74,13.1,5.14,11.71,10.4,9.83,5.94,16.9
+391,T. cirrhosus,coffini,AMNH,185890,Mexico,Oaxaca,,T. coffini,T. c. coffini,T. coffini,16.965946,-95.039335,Cluster1,Cluster1,F,25.7,28.99,13.98,13.33,4.98,11.5,10.47,9.95,5.98,17.78
+392,T. cirrhosus,coffini,AMNH,185886,Mexico,Oaxaca,,T. coffini,T. c. coffini,T. coffini,16.965946,-95.039335,Cluster2,Cluster1,M,25.5,28.89,14.11,13.38,5.23,11.96,10.49,9.99,6.03,17.22
+393,T. cirrhosus,coffini,AMNH,185887,Mexico,Oaxaca,,T. coffini,T. c. coffini,T. coffini,16.965946,-95.039335,Cluster1,Cluster1,M,25.3,28.73,13.69,13.1,4.9,11.43,10.34,9.64,6.09,17.12
+394,T. cirrhosus,coffini,AMNH,185888,Mexico,Oaxaca,,T. coffini,T. c. coffini,T. coffini,16.966398,-95.039074,Cluster1,Cluster1,M,25.08,28.36,13.66,13.22,5.26,11.21,10.25,9.91,5.89,16.85
+395,T. cirrhosus,coffini,LACM,12958,Mexico,Oaxaca,,T. coffini,T. c. coffini,T. coffini,16.9891667,-95.0416667,Cluster1,Cluster1,M,24.91,27.75,13.56,12.82,5.14,11.48,10.03,9.74,5.72,16.31
+396,T. cirrhosus,coffini,LACM,12959,Mexico,Oaxaca,,T. coffini,T. c. coffini,T. coffini,16.9891667,-95.0416667,Cluster2,Cluster2,M,25.27,28.56,13.99,13.22,5.27,11.94,10.44,9.91,6.09,17.55
+397,T. cirrhosus,coffini,LACM,12961,Mexico,Oaxaca,,T. coffini,T. c. coffini,T. coffini,16.9891667,-95.0416667,Cluster1,Cluster1,M,25.18,28.3,13.63,12.92,4.75,11.14,10.36,9.75,5.98,16.55
+398,T. cirrhosus,coffini,LACM,12965,Mexico,Oaxaca,,T. coffini,T. c. coffini,T. coffini,16.9891667,-95.0416667,Cluster2,Cluster2,F,24.86,28.33,13.83,13.2,5.26,11.48,10.36,10.21,6.09,19.09
+399,T. cirrhosus,coffini,LACM,12966,Mexico,Oaxaca,,T. coffini,T. c. coffini,T. coffini,16.9891667,-95.0416667,Cluster1,Cluster1,F,25.13,28.41,13.81,13.08,5.08,11.54,10.35,10.11,5.89,17.59
+400,T. cirrhosus,coffini,LACM,12967,Mexico,Oaxaca,,T. coffini,T. c. coffini,T. coffini,16.9891667,-95.0416667,Cluster1,Cluster1,F,24.86,28.14,13.54,13.02,5.18,11.44,10.26,9.57,5.74,16.93
+401,T. cirrhosus,coffini,LACM,12968,Mexico,Oaxaca,,T. coffini,T. c. coffini,T. coffini,16.9891667,-95.0416667,Cluster1,Cluster1,M,25.15,28.57,13.64,13.11,5.11,11.5,10.38,9.84,6,16.97
+402,T. cirrhosus,coffini,LACM,12969,Mexico,Oaxaca,,T. coffini,T. c. coffini,T. coffini,17.2522222,-95.0416667,Cluster1,Cluster1,M,25.56,28.87,14,13.5,5.23,11.75,10.32,10.07,6.01,17.31
+403,T. cirrhosus,coffini,LACM,12970,Mexico,Oaxaca,,T. coffini,T. c. coffini,T. coffini,17.2522222,-95.0416667,Cluster1,Cluster1,M,25.51,28.58,14.11,13.2,5.24,11.98,10.15,9.74,5.85,16.84
+404,T. cirrhosus,coffini,LACM,12971,Mexico,Oaxaca,,T. coffini,T. c. coffini,T. coffini,17.3105556,-95.0416667,Cluster1,Cluster1,F,24.98,28.19,13.74,13.18,5.03,11.49,10.25,9.74,5.78,16.82
+405,T. cirrhosus,coffini,LACM,12972,Mexico,Oaxaca,,T. coffini,T. c. coffini,T. coffini,17.3105556,-95.0416667,Cluster1,Cluster1,M,24.79,28.23,13.51,13,5.07,11.56,10.07,9.87,5.91,17.21
+406,T. cirrhosus,coffini,LACM,12974,Mexico,Oaxaca,,T. coffini,T. c. coffini,T. coffini,17.3105556,-95.0416667,Cluster1,Cluster1,M,25.88,29.13,13.86,13.04,5.02,11.56,10.43,9.81,5.95,17.28
+407,T. cirrhosus,coffini,LACM,12975,Mexico,Oaxaca,,T. coffini,T. c. coffini,T. coffini,17.3105556,-95.0416667,Cluster1,Cluster1,M,25.43,28.59,13.74,13.07,5.05,11.58,10.25,9.64,5.99,17.21
+408,T. cirrhosus,coffini,LACM,12976,Mexico,Oaxaca,,T. coffini,T. c. coffini,T. coffini,17.3105556,-95.0416667,Cluster1,Cluster1,M,24.73,28.31,13.85,13.32,5.12,11.64,9.94,9.84,5.86,17.2
+409,T. cirrhosus,coffini,LACM,12977,Mexico,Oaxaca,,T. coffini,T. c. coffini,T. coffini,17.3105556,-95.0416667,Cluster1,Cluster1,M,24.81,28.23,13.55,13.09,5.07,11.71,10.12,9.66,5.62,17.53
+410,T. cirrhosus,coffini,TTU,6077,Mexico,Oaxaca,,T. coffini,T. c. coffini,T. coffini,17.3105564,-95.0416641,Cluster1,Cluster1,M,25.09,28.29,13.8,13.15,5.08,11.61,10.16,9.64,5.82,16.88
+429,T. cirrhosus,coffini,USNM,332697,Mexico,Oaxaca,,T. coffini,T. c. coffini,T. coffini,17.126264,-95.039169,Cluster2,Cluster1,M,25.38,28.58,14.08,13.29,5.03,11.72,10.15,9.82,6.13,17.66
+430,T. cirrhosus,coffini,USNM,332698,Mexico,Oaxaca,,T. coffini,T. c. coffini,T. coffini,17.12617,-95.039308,Cluster1,Cluster1,M,25.36,28.59,13.78,13.02,5.2,11.51,10.33,9.54,5.95,17.04
+431,T. cirrhosus,coffini,USNM,332699,Mexico,Oaxaca,,T. coffini,T. c. coffini,T. coffini,17.12617,-95.039308,Cluster1,Cluster1,M,24.53,27.76,14,13,5.15,11.35,9.9,9.8,5.89,16.79
+432,T. cirrhosus,coffini,USNM,332700,Mexico,Oaxaca,,T. coffini,T. c. coffini,T. coffini,17.126264,-95.039169,Cluster1,Cluster1,M,25.26,28.43,14.13,13.39,5.21,11.74,10.2,9.62,5.95,16.99
+433,T. cirrhosus,coffini,USNM,554264,Mexico,Oaxaca,,T. coffini,T. c. coffini,T. coffini,16.58,-95.04,Cluster1,Cluster1,M,25.27,28.33,13.69,13.14,4.99,11.65,10.35,9.71,5.99,16.88
+411,T. cirrhosus,coffini,KU,32091,Mexico,Veracruz,,T. coffini,T. c. coffini,T. coffini,17.2,-94.77,Cluster1,Cluster1,M,25.17,28.48,13.66,13.02,5.12,11.43,10.26,9.82,5.96,17.66
+412,T. cirrhosus,coffini,KU,32096,Mexico,Veracruz,,T. coffini,T. c. coffini,T. coffini,17.2,-94.77,Cluster1,Cluster1,M,25.34,28.46,13.83,13.13,5.06,11.43,10.23,9.61,6.03,17.19
+413,T. cirrhosus,coffini,KU,32097,Mexico,Veracruz,,T. coffini,T. c. coffini,T. coffini,17.2,-94.77,Cluster1,Cluster1,M,25.58,28.86,13.73,13.02,4.87,11.53,10.4,9.64,5.63,16.89
+414,T. cirrhosus,coffini,KU,32098,Mexico,Veracruz,,T. coffini,T. c. coffini,T. coffini,17.2,-94.77,Cluster1,Cluster1,M,25.51,28.79,13.59,13.11,4.94,11.43,10.32,9.55,6.03,17.25
+415,T. cirrhosus,coffini,KU,32099,Mexico,Veracruz,,T. coffini,T. c. coffini,T. coffini,17.2,-94.77,Cluster1,Cluster1,M,25.76,28.66,13.91,13.27,4.98,11.51,10.31,9.71,5.81,16.91
+416,T. cirrhosus,coffini,KU,32100,Mexico,Veracruz,,T. coffini,T. c. coffini,T. coffini,17.2,-94.77,Cluster1,Cluster1,M,25.28,28.45,13.89,13.19,5.13,11.8,10.21,9.79,5.93,16.93
+417,T. cirrhosus,coffini,KU,32102,Mexico,Veracruz,,T. coffini,T. c. coffini,T. coffini,17.2,-94.77,Cluster1,Cluster1,M,25.61,28.66,13.95,13.56,5.12,11.71,10.31,9.84,5.91,17.26
+418,T. cirrhosus,coffini,KU,32103,Mexico,Veracruz,,T. coffini,T. c. coffini,T. coffini,17.2,-94.77,Cluster1,Cluster1,M,25.58,28.72,13.97,13.32,4.98,11.52,10.44,9.76,5.91,17.35
+419,T. cirrhosus,coffini,KU,32105,Mexico,Veracruz,,T. coffini,T. c. coffini,T. coffini,17.2,-94.77,Cluster1,Cluster1,M,25.44,28.64,13.82,13.2,5.12,11.9,10.34,9.91,5.88,17.03
+420,T. cirrhosus,coffini,KU,32106,Mexico,Veracruz,,T. coffini,T. c. coffini,T. coffini,17.2,-94.77,Cluster1,Cluster1,M,25.68,28.83,13.83,13.32,5.01,11.41,10.32,9.81,6.03,17.14
+421,T. cirrhosus,coffini,KU,32107,Mexico,Veracruz,,T. coffini,T. c. coffini,T. coffini,17.2,-94.77,Cluster2,Cluster1,M,25.95,28.91,13.69,13.02,5.01,11.41,10.58,9.51,6.02,17.04
+422,T. cirrhosus,coffini,KU,32108,Mexico,Veracruz,,T. coffini,T. c. coffini,T. coffini,17.2,-94.77,Cluster1,Cluster1,M,25.41,28.51,14.02,13.26,5.01,11.68,10.4,9.89,5.95,17.64
+423,T. cirrhosus,coffini,KU,32109,Mexico,Veracruz,,T. coffini,T. c. coffini,T. coffini,17.2,-94.77,Cluster1,Cluster1,M,25.29,28.31,13.77,13.26,5.07,11.41,10.24,9.84,5.99,17.23
+424,T. cirrhosus,coffini,KU,32101,Mexico,Veracruz,,T. coffini,T. c. coffini,T. coffini,17.2,-94.77,Cluster1,Cluster1,F,25.53,28.94,14.1,13.33,5.03,11.34,10.44,9.86,6.09,16.95
+425,T. cirrhosus,coffini,KU,32104,Mexico,Veracruz,,T. coffini,T. c. coffini,T. coffini,17.2,-94.77,Cluster1,Cluster1,F,25.39,28.31,13.99,13.24,4.99,11.5,10.23,9.8,5.71,16.62
+426,T. cirrhosus,coffini,KU,23660,Mexico,Veracruz,,T. coffini,T. c. coffini,T. coffini,17.18,-94.75,Cluster1,Cluster1,F,25.72,28.82,13.9,13.17,4.98,11.35,10.28,9.71,5.79,16.76
+427,T. cirrhosus,coffini,KU,23659,Mexico,Veracruz,,T. coffini,T. c. coffini,T. coffini,17.18,-94.75,Cluster2,Cluster1,M,25.71,28.72,13.83,13.39,5.23,11.8,10.53,9.85,5.99,17.59
+428,T. cirrhosus,coffini,MVZ,167472,Mexico,Veracruz,,T. coffini,T. c. coffini,T. coffini,,,Cluster1,Cluster1,M,25.55,28.99,14.17,13.37,5.2,11.62,10.36,9.88,5.91,16.8
+371,T. cirrhosus,coffini,LACM,12960,Mexico ,Oaxaca,,T. coffini,T. c. coffini,T. coffini,16.9891667,-95.0416667,Cluster1,Cluster1,M,24.75,27.58,13.39,12.85,4.87,11.32,9.87,9.34,5.71,16.97
+434,T. cirrhosus,coffini,LACM,12957,Mexico ,Oaxaca,,T. coffini,T. c. coffini,T. coffini,17.1352778,-95.0416667,Cluster1,Cluster1,M,25.16,28.2,13.78,12.83,5.02,11.51,10.28,9.64,5.92,16.84
+435,T. cirrhosus,coffini,LACM,12964,Mexico ,Oaxaca,,T. coffini,T. c. coffini,T. coffini,16.9891667,-95.0416667,Cluster1,Cluster1,M,25.15,28.53,13.64,13.04,5.13,11.53,10.54,9.88,5.96,17.14
+436,T. cirrhosus,coffini,LACM,12973,Mexico ,Oaxaca,,T. coffini,T. c. coffini,T. coffini,17.3105556,-95.0416667,Cluster1,Cluster1,M,25.37,28.42,13.64,13.13,4.95,11.42,10.23,9.61,5.86,16.62
+437,T. cirrhosus,coffini,KU,114818,Nicaragua,Cara de Mono,,T. coffini,T. c. coffini,T. coffini,12.11,-84.46,Cluster1,Cluster1,M,24.74,27.75,13.87,13.13,4.98,11.42,10.21,9.48,5.7,16.71
+488,T. cirrhosus,cirrhosus,USNM,315246,Panama,Bocas Del Toro,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.371461,-82.495574,Cluster1,Cluster1,F,24.79,27.89,14.15,13.37,4.99,11.31,10.06,9.72,5.77,16.74
+529,T. cirrhosus,cirrhosus,USNM,449618,Panama,Bocas Del Toro,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.185013,-82.250126,Cluster1,Cluster1,M,24.68,28.05,13.82,13.03,5.07,11.21,10.3,9.5,5.82,17.21
+530,T. cirrhosus,cirrhosus,USNM,464269,Panama,Bocas Del Toro,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.221344,-82.120292,Cluster2,Cluster2,M,24.98,28.26,14.08,13.47,5.21,11.28,10.49,9.93,5.84,17.56
+531,T. cirrhosus,cirrhosus,USNM,464595,Panama,Bocas Del Toro,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.391145,-82.275496,Cluster1,Cluster1,M,24.66,27.74,13.43,12.91,5.02,11.24,10.02,9.55,5.86,16.87
+532,T. cirrhosus,cirrhosus,USNM,464596,Panama,Bocas Del Toro,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.391145,-82.275496,Cluster2,Cluster2,M,24.55,27.6,13.53,13.9,5.08,11.35,10.04,9.47,5.78,16.85
+533,T. cirrhosus,cirrhosus,USNM,464597,Panama,Bocas Del Toro,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.391145,-82.275496,Cluster2,Cluster2,F,24.71,26.91,13.81,13.23,5.01,11.51,10.26,9.64,5.8,17.05
+534,T. cirrhosus,cirrhosus,USNM,464598,Panama,Bocas Del Toro,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.391145,-82.275496,Cluster2,Cluster2,F,24.78,27.63,13.79,13.18,4.74,11.32,10.28,9.78,5.75,17.05
+546,T. cirrhosus,cirrhosus,USNM,541060,Panama,Bocas Del Toro,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,8.4924,-81.777381,Cluster1,Cluster1,M,24.41,27.91,13.28,12.98,4.97,11.39,9.98,9.61,5.66,16.34
+547,T. cirrhosus,cirrhosus,USNM,575470,Panama,Bocas Del Toro,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,8.91667,-81.81667,Cluster2,Cluster2,M,24.14,28.35,13.89,13.45,5.09,11.34,10.59,9.94,6.08,16.85
+451,T. cirrhosus,cirrhosus,FMNH,92666,Panama,Canal Zone,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.36667,-79.95,Cluster1,Cluster1,F,24.79,28.05,13.65,13.27,5.13,11.24,10.26,9.44,5.73,17.41
+452,T. cirrhosus,cirrhosus,FMNH,92668,Panama,Canal Zone,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.36667,-79.95,Cluster2,Cluster2,F,24.68,27.83,13.57,13.42,4.95,11.23,10.36,9.82,5.91,16.87
+453,T. cirrhosus,cirrhosus,FMNH,92664,Panama,Canal Zone,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.36667,-79.95,Cluster2,Cluster2,M,24.87,27.98,13.26,13.12,5.05,11.03,10.51,9.87,6.01,17.25
+454,T. cirrhosus,cirrhosus,FMNH,92665,Panama,Canal Zone,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.36667,-79.95,Cluster2,Cluster2,M,24.89,28.68,14.14,13.78,5.33,11.75,10.21,9.79,6.2,17.9
+455,T. cirrhosus,cirrhosus,FMNH,92667,Panama,Canal Zone,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.36667,-79.95,Cluster2,Cluster1,M,25.79,29.01,14.05,13.67,5.02,11.45,10.55,9.67,6.01,17.13
+456,T. cirrhosus,cirrhosus,FMNH,92669,Panama,Canal Zone,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.36667,-79.95,Cluster2,Cluster2,M,24.35,27.76,13.46,13.09,5.12,11.05,10.37,9.85,5.94,17.27
+457,T. cirrhosus,cirrhosus,FMNH,92670,Panama,Canal Zone,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.36667,-79.95,Cluster2,Cluster2,M,24.56,27.93,14.15,13.46,5.47,11.67,10.33,9.99,5.99,18.02
+458,T. cirrhosus,cirrhosus,FMNH,92671,Panama,Canal Zone,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.36667,-79.95,Cluster1,Cluster1,M,25.16,28.36,13.76,13.12,5.32,11.38,10.46,9.97,6.02,17.64
+459,T. cirrhosus,cirrhosus,UF,13846,Panama,Canal Zone,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.117267864,-79.71876379,Cluster2,Cluster2,F,25.58,28.84,14,13.72,4.97,11.43,10.9,9.97,5.85,17.4
+460,T. cirrhosus,cirrhosus,UF,10157,Panama,Canal Zone,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.117267864,-79.71876379,Cluster2,Cluster2,M,24.55,27.64,13.73,13.36,5.15,11.15,10.23,9.75,5.67,17.2
+475,T. cirrhosus,cirrhosus,USNM,311960,Panama,Canal Zone,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.36468,-79.95983,Cluster2,Cluster2,F,24.87,27.96,13.96,13.28,5.22,11.27,10.34,9.52,5.75,17.51
+483,T. cirrhosus,cirrhosus,USNM,312988,Panama,Canal Zone,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.36468,-79.95983,Cluster2,Cluster2,M,25,28.32,13.84,13.7,5.15,11.37,10.52,9.98,5.67,17.07
+484,T. cirrhosus,cirrhosus,USNM,312989,Panama,Canal Zone,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.36667,-79.95,Cluster2,Cluster2,M,24.5,27.9,14.03,13.63,4.98,11.6,10.06,9.81,5.86,17.92
+485,T. cirrhosus,cirrhosus,USNM,312990,Panama,Canal Zone,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.36468,-79.95983,Cluster1,Cluster1,M,25.49,28.53,13.8,13.26,5.1,11.2,10.55,9.7,6.05,17.07
+486,T. cirrhosus,cirrhosus,USNM,313735,Panama,Canal Zone,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.36468,-79.95983,Cluster2,Cluster2,M,25.44,28.55,14.07,13.61,5.13,11.01,10.83,9.87,6.02,17.23
+487,T. cirrhosus,cirrhosus,USNM,313736,Panama,Canal Zone,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.36468,-79.95983,Cluster2,Cluster2,M,25.12,28.21,13.14,13.28,5.2,11.24,10.39,9.7,5.87,16.57
+535,T. cirrhosus,cirrhosus,USNM,503447,Panama,Canal Zone,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.19972,-79.83778,Cluster1,Cluster1,F,25.47,28.26,13.7,13.33,5.04,11.43,10.42,9.68,5.82,17.47
+536,T. cirrhosus,cirrhosus,USNM,503448,Panama,Canal Zone,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.19972,-79.83778,Cluster2,Cluster2,M,25.45,28.51,13.81,13.11,4.97,11,10.69,9.61,5.85,17.05
+537,T. cirrhosus,cirrhosus,USNM,503449,Panama,Canal Zone,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.19972,-79.83778,Cluster2,Cluster2,F,25.68,28.6,14.18,13.68,5.23,11.73,10.67,9.94,6.06,18.06
+538,T. cirrhosus,cirrhosus,USNM,503450,Panama,Canal Zone,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.19972,-79.83778,Cluster2,Cluster2,M,25.23,28.42,14.18,13.74,5.28,11.59,10.31,9.78,5.95,17.55
+539,T. cirrhosus,cirrhosus,USNM,503451,Panama,Canal Zone,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.19972,-79.83778,Cluster2,Cluster2,M,25.35,28.31,14.42,13.27,4.96,11.78,10.2,9.99,6.3,18.03
+540,T. cirrhosus,cirrhosus,USNM,503452,Panama,Canal Zone,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.19972,-79.83778,Cluster2,Cluster2,M,25.06,28.03,13.87,13.37,5.4,11.83,10.25,9.95,6.17,17.86
+541,T. cirrhosus,cirrhosus,USNM,503453,Panama,Canal Zone,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.208529,-79.832318,Cluster2,Cluster2,F,25.71,28.46,14.2,13.37,5.49,11.13,10.62,10.14,5.97,17.24
+542,T. cirrhosus,cirrhosus,USNM,503454,Panama,Canal Zone,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.19972,-79.83778,Cluster2,Cluster2,F,25.55,28.38,14.24,13.38,5.36,11.49,10.44,10.19,6.09,17.59
+543,T. cirrhosus,cirrhosus,USNM,503455,Panama,Canal Zone,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.19972,-79.83778,Cluster2,Cluster2,M,26.13,29.57,14.11,13.42,4.87,11.69,10.63,10.2,6.05,17.23
+544,T. cirrhosus,cirrhosus,USNM,503831,Panama,Canal Zone,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.15473,-79.84806,Cluster2,Cluster2,M,25.7,28.15,13.83,13.34,5.05,11.18,10.57,9.76,5.99,17.54
+545,T. cirrhosus,cirrhosus,USNM,519700,Panama,Canal Zone,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.154553,-79.847953,Cluster2,Cluster2,F,25.49,29.03,14.01,13.7,5.12,11.4,10.72,10.2,5.94,16.83
+476,T. cirrhosus,cirrhosus,USNM,312979,Panama,Chepo  ,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.04,-79.19,Cluster2,Cluster2,M,26.19,29.5,14.2,13.8,4.89,11.56,11.14,9.68,6.08,17.59
+477,T. cirrhosus,cirrhosus,USNM,312980,Panama,Chepo  ,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.17391,-78.70374,Cluster2,Cluster2,F,25.94,28.93,14.17,13.45,5.14,11.18,10.7,10.01,6.08,17.26
+478,T. cirrhosus,cirrhosus,USNM,312981,Panama,Chepo  ,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.04,-79.19,Cluster2,Cluster2,M,26.13,29.72,14.63,13.62,5.47,11.41,10.98,10.52,6.38,17.52
+479,T. cirrhosus,cirrhosus,USNM,312982,Panama,Chepo  ,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.153425,-79.622399,Cluster2,Cluster2,M,25.4,28.72,14.34,13.41,5.28,11.3,10.62,10.38,6.11,17.59
+480,T. cirrhosus,cirrhosus,USNM,312983,Panama,Chepo  ,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.04,-79.19,Cluster2,Cluster2,F,25.27,28.32,14.35,13.58,5.29,11.61,10.3,10.22,6.14,17.3
+481,T. cirrhosus,cirrhosus,USNM,312984,Panama,Chepo  ,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.04,-79.19,Cluster2,Cluster2,M,25.4,28.24,14.58,13.76,5.33,11.68,10.32,9.8,6.17,17.87
+482,T. cirrhosus,cirrhosus,USNM,312985,Panama,Chepo  ,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.04,-79.19,Cluster2,Cluster2,F,25.74,28.5,14.55,13.69,5.36,11.35,10.55,10.13,6.18,18.18
+438,T. cirrhosus,cirrhosus,USNM,174884,Panama,Chilibrillo Cave,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.159296,-79.625275,Cluster2,Cluster2,F,26.67,29.41,13.96,13.82,5.43,11.46,11.07,10.18,6.33,17.57
+528,T. cirrhosus,cirrhosus,USNM,362399,Panama,Chiriqui,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,8.345204,-82.658212,Cluster2,Cluster2,F,24.84,27.62,13.46,13.48,4.95,11.16,10.18,9.88,5.73,17.25
+466,T. cirrhosus,cirrhosus,USNM,309362,Panama,Darien,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,8.083,-77.283,Cluster2,Cluster3,M,25.93,29.26,14.84,13.75,5.13,11.6,10.56,10.11,6.38,17.71
+467,T. cirrhosus,cirrhosus,USNM,309363,Panama,Darien,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,8.083,-77.283,Cluster2,Cluster3,M,25.97,29.47,14.43,13.82,5.36,11.8,10.94,10.26,6.33,17.86
+468,T. cirrhosus,cirrhosus,USNM,309364,Panama,Darien,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,8.083,-77.283,Cluster2,Cluster1,F,25.36,28.48,14.03,13.24,5.18,11.52,10.58,10.06,6.2,17.56
+469,T. cirrhosus,cirrhosus,USNM,309365,Panama,Darien,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,8.083,-77.283,Cluster2,Cluster2,M,25.4,28.74,14.18,13.93,5.21,11.67,10.34,9.82,6.28,18.05
+470,T. cirrhosus,cirrhosus,USNM,309366,Panama,Darien,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,8.083,-77.283,Cluster2,Cluster2,M,25.77,29.26,14.7,13.64,5.59,11.59,10.81,10.26,6.24,17.99
+471,T. cirrhosus,cirrhosus,USNM,309367,Panama,Darien,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,8.083,-77.283,Cluster2,Cluster2,M,25.49,28.82,14.75,13.63,5.24,11.65,10.5,9.94,6.25,18.16
+472,T. cirrhosus,cirrhosus,USNM,309368,Panama,Darien,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,8.083,-77.283,Cluster2,Cluster3,F,26.44,29.48,14.05,13.61,5.49,11.57,10.68,9.86,6.31,17.59
+473,T. cirrhosus,cirrhosus,USNM,309369,Panama,Darien,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,8.083,-77.283,Cluster2,Cluster2,M,25.73,29.62,14.27,13.48,5.41,11.88,10.68,10.23,6.24,17.86
+474,T. cirrhosus,cirrhosus,USNM,309370,Panama,Darien,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,8.083,-77.283,Cluster2,Cluster3,M,25.89,29.21,14.4,13.54,5.1,11.78,10.68,10.14,6.15,18.22
+525,T. cirrhosus,cirrhosus,USNM,362118,Panama,Darien,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,7.51826,-78.16343,Cluster2,Cluster2,F,25.9,28.69,14.01,13.85,5.32,11.58,10.71,10.02,6.08,17.25
+526,T. cirrhosus,cirrhosus,USNM,362396,Panama,Darien,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,7.51826,-78.16343,Cluster2,Cluster3,M,26.69,30.01,14.72,14.04,5.36,11.86,10.94,10.25,6.27,17.96
+527,T. cirrhosus,cirrhosus,USNM,362397,Panama,Darien,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,7.51826,-78.16343,Cluster2,Cluster2,F,26.09,28.81,14.49,13.44,5.38,11.53,10.86,10.33,6.27,17.64
+461,T. cirrhosus,cirrhosus,AMNH,178902,Panama,Los Santos,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.02,-79.09,Cluster2,Cluster2,M,26.69,29.64,14.43,14.02,5.06,11.64,10.96,9.77,6.06,18.52
+489,T. cirrhosus,cirrhosus,USNM,323083,Panama,Los Santos,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,7.76667,-80.31667,Cluster1,Cluster1,M,24.83,27.98,13.63,13.24,5.12,11.17,10.29,9.38,5.89,17.73
+490,T. cirrhosus,cirrhosus,USNM,323084,Panama,Los Santos,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,7.76667, -80.31667,Cluster2,Cluster2,F,25.42,28.5,14.15,13.48,5.12,11.21,10.76,9.94,6.14,17.95
+491,T. cirrhosus,cirrhosus,USNM,323085,Panama,Los Santos,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,7.76667,-80.31667,Cluster2,Cluster2,F,25.1,28.52,13.8,13.6,4.95,10.87,10.19,9.63,5.8,17.47
+492,T. cirrhosus,cirrhosus,USNM,323086,Panama,Los Santos,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,7.76667, -80.31667,Cluster2,Cluster2,F,25.05,28.14,14.33,13.7,5.33,11.32,10.2,9.92,5.32,18.4
+493,T. cirrhosus,cirrhosus,USNM,323087,Panama,Los Santos,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,7.76667,-80.31667,Cluster2,Cluster2,M,24.89,28.4,13.99,13.68,4.98,11.09,10.31,9.94,5.9,17.97
+494,T. cirrhosus,cirrhosus,USNM,323089,Panama,Los Santos,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,7.76667,-80.31667,Cluster2,Cluster2,F,25.37,28.81,13.91,13.49,5.17,11.32,10.4,9.8,5.91,18.25
+495,T. cirrhosus,cirrhosus,USNM,323090,Panama,Los Santos,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,7.76667, -80.31668,Cluster2,Cluster2,F,24.96,28.19,14.3,13.18,5.13,11.19,10.32,9.88,6.2,17.02
+496,T. cirrhosus,cirrhosus,USNM,323091,Panama,Los Santos,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,7.76667,-80.31667,Cluster2,Cluster2,M,25.49,28.97,14.83,13.79,5.05,11.43,10.4,10.02,5.81,17.52
+497,T. cirrhosus,cirrhosus,USNM,323092,Panama,Los Santos,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,7.76667, -80.31668,Cluster2,Cluster2,F,24.69,27.76,14.17,13.47,5.06,11.3,10.03,9.84,5.99,17.16
+498,T. cirrhosus,cirrhosus,USNM,323093,Panama,Los Santos,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,7.76667,-80.31667,Cluster2,Cluster2,F,24.88,27.87,14.58,13.6,5.37,11.06,10.01,9.67,5.85,17.57
+499,T. cirrhosus,cirrhosus,USNM,323094,Panama,Los Santos,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,7.76667,-80.31667,Cluster2,Cluster2,F,25.34,28.47,15.51,13.78,5.4,11.57,10.61,9.97,6.21,17.6
+500,T. cirrhosus,cirrhosus,USNM,323095,Panama,Los Santos,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,7.28866,-80.7011,Cluster2,Cluster2,M,24.84,27.54,13.72,13.05,4.97,11.08,10.12,9.76,5.54,18.2
+501,T. cirrhosus,cirrhosus,USNM,323112,Panama,Los Santos,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,7.28866,-80.7011,Cluster2,Cluster2,M,25.68,28.57,14.01,13.77,5.17,11.47,10.44,9.75,6.19,17.83
+502,T. cirrhosus,cirrhosus,USNM,323096,Panama,Los Santos,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,7.28866,-80.7011,Cluster2,Cluster2,F,24.43,27.54,13.23,13.37,5.18,11.35,10.16,9.66,6.07,17.11
+503,T. cirrhosus,cirrhosus,USNM,323098,Panama,Los Santos,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,7.28866,-80.7011,Cluster2,Cluster2,F,24.56,27.13,13.64,13.34,4.8,11.03,10.19,9.62,5.64,18.38
+504,T. cirrhosus,cirrhosus,USNM,323100,Panama,Los Santos,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,7.28866,-80.7011,Cluster2,Cluster2,M,25.23,28.51,13.84,13.31,4.89,11.07,10.6,9.68,5.99,17.27
+505,T. cirrhosus,cirrhosus,USNM,323108,Panama,Los Santos,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,7.28866,-80.7011,Cluster2,Cluster2,M,24.94,28,14.06,13.48,5.1,10.97,10.32,9.76,5.85,17.07
+506,T. cirrhosus,cirrhosus,USNM,323110,Panama,Los Santos,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,7.28866,-80.7011,Cluster2,Cluster1,M,24.46,27.41,13.7,13.33,4.99,11.25,9.95,9.6,5.86,17.58
+507,T. cirrhosus,cirrhosus,USNM,323115,Panama,Los Santos,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,7.28866,-80.7011,Cluster1,Cluster1,F,25.09,27.84,13.82,13.33,4.92,11.06,10.31,9.7,5.85,17.03
+508,T. cirrhosus,cirrhosus,USNM,323116,Panama,Los Santos,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,7.28866,-80.7011,Cluster1,Cluster1,F,24.85,27.88,13.31,13.2,4.99,10.88,10.21,9.35,5.75,16.85
+509,T. cirrhosus,cirrhosus,USNM,323117,Panama,Los Santos,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,7.28866,-80.7011,Cluster2,Cluster2,F,24.31,27.63,13.54,13.51,5.19,11.36,9.99,9.34,5.67,17.8
+510,T. cirrhosus,cirrhosus,USNM,323118,Panama,Los Santos,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,7.28866,-80.7011,Cluster2,Cluster2,F,25.1,28.49,13.8,14.04,4.98,11.36,10.53,9.71,6.03,17.42
+511,T. cirrhosus,cirrhosus,USNM,323119,Panama,Los Santos,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,7.28866,-80.7011,Cluster2,Cluster2,M,24.81,27.95,13.76,13.36,5.16,11.29,10.46,9.7,5.74,17.23
+512,T. cirrhosus,cirrhosus,USNM,323120,Panama,Los Santos,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,7.28866,-80.7011,Cluster2,Cluster2,F,25.17,27.77,13.46,13.59,5.09,11.18,10.44,9.56,5.92,17.4
+513,T. cirrhosus,cirrhosus,USNM,323121,Panama,Los Santos,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,7.28866,-80.7011,Cluster2,Cluster2,F,25.57,27.82,13.6,13.34,4.98,11.02,10.52,9.68,5.85,16.67
+514,T. cirrhosus,cirrhosus,USNM,323123,Panama,Los Santos,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,7.28866,-80.7011,Cluster2,Cluster2,F,24.86,27.55,13.73,13.36,5.18,11.25,10.21,9.74,5.97,17.53
+515,T. cirrhosus,cirrhosus,USNM,323124,Panama,Los Santos,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,7.28866,-80.7011,Cluster2,Cluster2,F,25.73,28.88,14.18,13.94,5.28,11.4,10.56,9.75,6.19,17.57
+516,T. cirrhosus,cirrhosus,USNM,323125,Panama,Los Santos,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,7.28866,-80.7011,Cluster1,Cluster1,F,25.16,28.04,14.05,13.27,5.1,11.1,10.25,9.78,5.88,16.75
+517,T. cirrhosus,cirrhosus,USNM,323126,Panama,Los Santos,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,7.28866,-80.7011,Cluster2,Cluster2,M,25.92,28.77,13.98,13.68,5.23,11.4,10.2,10.01,6.19,17.9
+518,T. cirrhosus,cirrhosus,USNM,323127,Panama,Los Santos,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.15735, -79.42097,Cluster2,Cluster2,M,25.83,29.3,13.76,13.65,5.16,11.35,10.55,9.66,6,17.62
+440,T. cirrhosus,cirrhosus,FMNH,92672,Panama,Panama City,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,8.96667,-79.53333,Cluster1,Cluster1,F,24.72,28.03,13.84,13.09,5.18,11.36,10.21,9.91,6.15,17.68
+441,T. cirrhosus,cirrhosus,FMNH,92673,Panama,Panama City,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,8.96667,-79.53333,Cluster2,Cluster3,F,25.89,29.01,14.03,13.32,5.18,11.83,10.71,9.99,6.23,18.02
+442,T. cirrhosus,cirrhosus,FMNH,92675,Panama,Panama City,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,8.96667,-79.53333,Cluster2,Cluster2,F,25.57,28.45,14.28,13.32,5.35,11.6,10.53,10.22,6.09,17.84
+443,T. cirrhosus,cirrhosus,FMNH,92677,Panama,Panama City,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,8.96667,-79.53333,Cluster2,Cluster2,F,25.34,28,14.42,13.34,5.16,11.62,10.71,10.24,6.13,18.07
+444,T. cirrhosus,cirrhosus,FMNH,92678,Panama,Panama City,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,8.96667,-79.53333,Cluster2,Cluster2,F,24.96,28.8,14.55,13.12,5.14,11.46,10.65,10.06,6.02,18.41
+445,T. cirrhosus,cirrhosus,FMNH,92680,Panama,Panama City,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,8.96667,-79.53333,Cluster2,Cluster2,F,25.11,28.81,14.52,13.17,5.33,11.6,10.42,10.26,6.05,17.86
+446,T. cirrhosus,cirrhosus,FMNH,92684,Panama,Panama City,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,8.96667,-79.53333,Cluster2,Cluster2,F,24.52,27.78,13.72,13.15,5.13,11.44,10.22,10.11,5.99,17.04
+447,T. cirrhosus,cirrhosus,FMNH,92685,Panama,Panama City,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,8.96667,-79.53333,Cluster2,Cluster2,F,25.25,28.18,13.81,13.29,5.25,11.34,10.45,9.78,5.73,17.64
+448,T. cirrhosus,cirrhosus,FMNH,92686,Panama,Panama City,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,8.96667,-79.53333,Cluster2,Cluster2,F,25.04,28.19,14.35,12.82,5.26,11.4,10.22,9.92,6.25,18.31
+449,T. cirrhosus,cirrhosus,FMNH,92679,Panama,Panama City,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,8.96667,-79.53333,Cluster2,Cluster3,M,26.11,29.19,14.38,13.74,5.28,11.33,10.49,9.96,6.06,18.01
+450,T. cirrhosus,cirrhosus,FMNH,92683,Panama,Panama City,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,8.96667,-79.53333,Cluster2,Cluster2,M,25.01,27.9,14.46,13.19,5.22,11.42,10.8,10.5,6.21,17.33
+462,T. cirrhosus,cirrhosus,AMNH,143757,Panama,Panama City,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.0679,-79.64723,Cluster2,Cluster2,M,25.5,28.58,14.29,13.14,5.24,11.62,10.5,10.22,6.13,17.42
+463,T. cirrhosus,cirrhosus,AMNH,147767,Panama,Panama City,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,10.127882,-61.686852,Cluster2,Cluster2,F,25.42,28.68,14.29,13.32,5.28,11.5,10.76,10.08,6.18,17.67
+464,T. cirrhosus,cirrhosus,USNM,305199,Panama,Panama City,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,8.983333,-79.51667,Cluster2,Cluster2,F,25.48,28.72,13.93,13.16,4.93,11.71,10.57,9.77,5.8,17.63
+465,T. cirrhosus,cirrhosus,USNM,305200,Panama,Panama City,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,8.983333,-79.51667,Cluster1,Cluster1,M,24.9,28.04,13.73,12.94,4.9,11.15,10.29,9.8,6.01,17.96
+439,T. cirrhosus,cirrhosus,ROM,78556,Panama,Rio Changuinola,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.46667,-82.45,Cluster1,Cluster1,F,24.43,27.53,13.43,12.83,5.32,11.08,10.02,9.44,5.54,17.1
+519,T. cirrhosus,cirrhosus,USNM,335145,Panama,San Blas,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,8.627844,-77.442293,Cluster2,Cluster2,M,26.2,29.46,14.7,14.02,5.2,11.58,10.85,9.83,6.16,17.82
+520,T. cirrhosus,cirrhosus,USNM,335146,Panama,San Blas,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,8.627844,-77.442293,Cluster2,Cluster2,M,25.57,28.83,14.39,13.39,5.04,11.5,10.63,9.94,5.98,17.63
+521,T. cirrhosus,cirrhosus,USNM,335147,Panama,San Blas,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,8.627844,-77.442293,Cluster2,Cluster3,M,26.21,29.33,14.45,13.91,5.05,12.01,10.58,10.11,6.13,17.85
+522,T. cirrhosus,cirrhosus,USNM,335148,Panama,San Blas,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,8.627844,-77.442293,Cluster2,Cluster2,M,25.77,28.75,14.62,13.31,5,11.42,10.51,9.77,6,17.67
+523,T. cirrhosus,cirrhosus,USNM,335149,Panama,San Blas,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,8.627844,-77.442293,Cluster2,Cluster2,M,25.51,28.25,14.27,13.38,5.04,11.43,10.51,10.06,5.92,17.53
+524,T. cirrhosus,cirrhosus,USNM,335150,Panama,San Blas,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,8.627844,-77.442293,Cluster2,Cluster2,M,25.03,28.11,14.09,13.29,4.8,11.55,10.32,9.75,5.92,17.29
+548,T. cirrhosus,cirrhosus,USNM,312986,Panama ,Chepo ,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.04,-79.19,Cluster2,Cluster3,M,26,29.3,14.81,13.99,5.48,11.93,10.96,10.39,6.41,17.98
+549,T. cirrhosus,cirrhosus,USNM,312987,Panama ,Chepo ,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.04,-79.19,Cluster2,Cluster3,M,26,29.37,14.44,13.59,5.35,11.6,10.63,10.63,6.4,18.07
+584,T. cirrhosus,cirrhosus,MVZ,157657,Peru,Amazonas,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-4.022,-77.751,Cluster1,Cluster1,F,25.01,28.18,13.85,12.9,5.23,11.43,10.39,9.66,5.96,17.73
+551,T. cirrhosus,cirrhosus,MVZ,157666,Peru,Cuzco,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-12.6,-69.07289,Cluster2,Cluster2,M,25.95,29.21,14.63,13.6,5.2,11.74,10.39,9.96,6.51,17.7
+559,T. cirrhosus,cirrhosus,LSUMZ,12074,Peru,Loreto,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-10.133,-71.217,Cluster2,Cluster2,F,25.8,29.39,14.69,13.81,5.19,11.56,10.91,10.82,6.69,18.25
+560,T. cirrhosus,cirrhosus,LSUMZ,12075,Peru,Loreto,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-10.133,-71.217,Cluster2,Cluster2,F,25.83,29.02,14.32,13.51,5.15,11.3,10.82,10.33,6.1,17.74
+561,T. cirrhosus,cirrhosus,LSUMZ,12076,Peru,Loreto,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-10.133,-71.217,Cluster2,Cluster3,F,26.25,29.27,14.5,13.59,5.33,11.33,10.8,10.39,6.48,17.58
+562,T. cirrhosus,cirrhosus,LSUMZ,12078,Peru,Loreto,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-10.133,-71.217,Cluster2,Cluster2,F,25.45,28.49,14.2,13.5,5.26,11.53,10.4,10.1,6.13,16.8
+563,T. cirrhosus,cirrhosus,LSUMZ,12072,Peru,Loreto,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-10.133,-71.217,Cluster2,Cluster3,M,26.51,29.78,14.94,14.19,5.53,11.6,10.73,10.74,6.41,17.86
+564,T. cirrhosus,cirrhosus,LSUMZ,12073,Peru,Loreto,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-10.133,-71.217,Cluster2,Cluster3,M,25.8,29.17,14.12,13.42,5.31,11.38,10.66,10.13,6.15,17.65
+565,T. cirrhosus,cirrhosus,LSUMZ,16459,Peru,Loreto,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-10.133,-71.217,Cluster2,Cluster3,M,26.41,29.91,14.5,13.71,5.37,12.01,11.02,10.25,6.35,17.76
+566,T. cirrhosus,cirrhosus,LSUMZ,16460,Peru,Loreto,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-10.133,-71.217,Cluster2,Cluster2,M,25.73,29.28,14.83,13.58,5.18,11.5,10.65,10.47,6.39,17.55
+572,T. cirrhosus,cirrhosus,MVSM,1204,Peru,Loreto,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-10.08,-71.13,Cluster2,Cluster2,F,25.74,28.97,14.43,13.63,5.39,11.49,10.97,10.65,6.15,17.8
+573,T. cirrhosus,cirrhosus,FMNH,29450,Peru,Loreto,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-3.333333333,-71.81666667,Cluster2,Cluster2,M,25.17,28.18,14.28,13.18,5.39,11.67,10.17,9.69,6.04,17.4
+574,T. cirrhosus,cirrhosus,VK,550,Peru,Loreto,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-7.05,-74.06,Cluster2,Cluster2,F,25.86,28.63,14.47,13.34,5.25,11.62,10.75,10.34,6.32,17.34
+575,T. cirrhosus,cirrhosus,CA,1507,Peru,Loreto,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-2.31,-76.1,Cluster2,Cluster2,F,25.38,28.61,13.86,13.58,5.32,11.3,10.49,10.43,6.27,17.78
+576,T. cirrhosus,cirrhosus,CA,1546,Peru,Loreto,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-2.31,-76.1,Cluster2,Cluster2,F,25.17,28.22,14.23,13.48,5.24,11.47,10.59,10.23,6.25,17.85
+577,T. cirrhosus,cirrhosus,CA,1545,Peru,Loreto,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-2.31,-76.1,Cluster2,Cluster2,M,25.5,28.88,14.53,13.63,5.33,11.61,10.58,9.91,6.29,17.75
+578,T. cirrhosus,cirrhosus,CA,1342,Peru,Loreto,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-2.26,-75.45,Cluster1,Cluster1,F,24.62,27.34,13.73,12.85,4.9,11.02,10.07,9.61,5.81,16.64
+579,T. cirrhosus,cirrhosus,CA,1420,Peru,Loreto,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-2.26,-75.45,Cluster2,Cluster3,M,26.68,29.85,14.72,14.01,5.52,11.84,10.98,10.16,6.27,17.77
+580,T. cirrhosus,cirrhosus,CA,1421,Peru,Loreto,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-2.26,-75.45,Cluster2,Cluster2,M,25.73,28.71,13.89,13.35,5.22,11.1,10.45,10.09,5.97,16.13
+587,T. cirrhosus,cirrhosus,FMNH,89033,Peru,Loreto,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-4.45,-71.78333333,Cluster2,Cluster3,F,26.46,29.95,14.74,13.43,5.51,11.55,11.01,10.74,6.53,18.88
+588,T. cirrhosus,cirrhosus,FMNH,89034,Peru,Loreto,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-4.45,-71.78333333,Cluster2,Cluster2,F,26.21,29.14,14.21,13.04,5.1,11.03,10.69,9.75,6.18,17.55
+589,T. cirrhosus,cirrhosus,FMNH,89035,Peru,Loreto,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-4.45,-71.78333333,Cluster2,Cluster2,F,26.68,29.14,14.58,13.46,5.31,11.62,10.79,10.42,6.35,17.05
+590,T. cirrhosus,cirrhosus,FMNH,89031,Peru,Loreto,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-4.45,-71.78333333,Cluster2,Cluster2,M,25.88,29.18,14.76,12.97,5.54,11.9,10.65,10,6.1,18.08
+591,T. cirrhosus,cirrhosus,FMNH,89032,Peru,Loreto,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-4.45,-71.78333333,Cluster2,Cluster2,M,26.01,28.98,15.14,13.62,5.15,11.17,10.51,10.26,6.09,17.52
+592,T. cirrhosus,cirrhosus,FMNH,89027,Peru,Loreto,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-4,-77.33333333,Cluster2,Cluster2,F,24.67,27.96,14.06,13.24,5.11,11.34,10.36,10.12,6.05,17.28
+593,T. cirrhosus,cirrhosus,FMNH,89028,Peru,Loreto,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-4,-77.33333333,Cluster2,Cluster1,F,25.43,28.31,13.98,13.25,5.2,11.09,10.56,9.95,6.04,17.4
+594,T. cirrhosus,cirrhosus,FMNH,89029,Peru,Loreto,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-4,-77.33333333,Cluster1,Cluster1,F,24.53,27.97,13.65,12.75,5.12,11.03,10.23,9.87,5.94,17.44
+595,T. cirrhosus,cirrhosus,FMNH,89030,Peru,Loreto,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-4,-77.33333333,Cluster2,Cluster3,F,25.83,29.25,14.39,13.67,5.25,11.46,10.44,9.93,6.25,17.61
+596,T. cirrhosus,cirrhosus,FMNH,89026,Peru,Loreto,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-4,-77.33333333,Cluster2,Cluster2,M,24.66,27.52,13.66,12.85,5.18,10.85,10.25,9.64,5.54,16.73
+597,T. cirrhosus,cirrhosus,AMNH,74026,Peru,Loreto,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-3.43333,-72.13333,Cluster2,Cluster2,M,26.31,29.83,14.53,13.34,5,11.58,11.04,10.5,6.53,18.07
+598,T. cirrhosus,cirrhosus,BM,243130,Peru,Loreto,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-4.3,-73.27,Cluster2,Cluster2,M,25.8,29.83,14.36,13.6,5.14,11.41,10.71,10.13,6.25,17.66
+599,T. cirrhosus,cirrhosus,BM,243131,Peru,Loreto,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-4.3,-73.27,Cluster2,Cluster3,M,26.03,29.53,14.09,13.4,5.23,11.68,10.58,9.9,6.18,17.8
+600,T. cirrhosus,cirrhosus,BM,243132,Peru,Loreto,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-4.3,-73.27,Cluster2,Cluster2,M,25.55,29.25,14.53,13.42,5.32,11.37,10.35,10.2,6.06,17.31
+601,T. cirrhosus,cirrhosus,BM,243133,Peru,Loreto,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-4.3,-73.27,Cluster2,Cluster2,F,25.75,28.93,14.81,13.7,5.29,11.46,10.38,10.12,6.22,17.84
+567,T. cirrhosus,cirrhosus,MVSM,5102,Peru,Madre de Dios,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-11.54,-71.22,Cluster2,Cluster3,M,26.3,29.59,14.48,13.84,5.28,11.43,10.94,10.21,6.38,18.04
+568,T. cirrhosus,cirrhosus,NA,6770,Peru,Madre de Dios,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-11.57,-71.17,Cluster2,Cluster2,F,25.85,29.71,14.78,13.66,5.46,12.05,10.94,10.26,6.23,17.67
+569,T. cirrhosus,cirrhosus,NA,6771,Peru,Madre de Dios,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-11.57,-71.17,Cluster2,Cluster2,M,26.12,29.96,15.01,13.92,5.33,11.45,10.65,10.65,6.38,18.14
+570,T. cirrhosus,cirrhosus,MVSM,6257,Peru,Madre de Dios,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-12.33,-69.03,Cluster2,Cluster2,F,26.2,29.34,14.64,13.79,5.22,11.49,10.96,10.48,6.52,17
+571,T. cirrhosus,cirrhosus,MVSM,1205,Peru,Madre de Dios,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-12.44,-69.11,Cluster2,Cluster2,F,26.08,29.43,14.67,13.88,5.48,11.42,10.75,10.46,6.15,17.42
+585,T. cirrhosus,cirrhosus,FMNH,84390,Peru,Madre de Dios,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-12.25,-70.83333333,Cluster2,Cluster3,M,26.42,29.48,14.52,13.98,5.72,11.79,10.72,10.11,6.3,17.47
+586,T. cirrhosus,cirrhosus,FMNH,84391,Peru,Madre de Dios,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-12.25,-70.83333333,Cluster2,Cluster2,M,25.95,29.36,14.93,13.75,5.39,11.55,10.63,10.56,6.46,17.33
+602,T. cirrhosus,cirrhosus,USNM,566489,Peru,Madre De Dios,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-11.991371,-71.22692,Cluster2,Cluster3,M,25.78,29.33,14.85,14.06,5.57,11.68,10.7,10.36,6.38,17.89
+603,T. cirrhosus,cirrhosus,USNM,566490,Peru,Madre De Dios,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-11.944905,-71.282687,Cluster2,Cluster2,M,25.59,28.38,14.05,13.26,5.31,11.39,10.65,10.02,6.2,16.97
+604,T. cirrhosus,cirrhosus,USNM,566491,Peru,Madre De Dios,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-11.944905,-71.282687,Cluster2,Cluster2,F,26.58,29.71,15.26,14.03,5.41,11.9,11.26,11.04,6.59,18.73
+552,T. cirrhosus,cirrhosus,MVZ,166652,Peru,Madre de Dios ,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-12.849127,-71.387626,Cluster2,Cluster2,M,25.81,28.66,14.83,13.88,5.3,11.55,10.66,10.16,6.35,18.06
+553,T. cirrhosus,cirrhosus,MVZ,166653,Peru,Madre de Dios ,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-12.6683,-71.269,Cluster2,Cluster3,F,25.9,29.32,14.64,13.72,5.4,11.58,10.76,10.31,6.43,17.39
+550,T. cirrhosus,cirrhosus,USNM,364272,Peru,Oxapampa,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-10.37111,-76.19802,Cluster2,Cluster2,M,26.12,30.06,14.39,13.45,5.17,11.24,10.89,9.9,6.15,17.4
+583,T. cirrhosus,cirrhosus,AMNH,230213,Peru,Oxapampa,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-10.37111,-76.19802,Cluster2,Cluster2,F,24.77,27.88,14.1,13.09,5.53,11.25,10.38,10.3,6.15,17.4
+554,T. cirrhosus,cirrhosus,MVZ,136414,Peru,Ucayali,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-10.13333333,-71.21666667,Cluster2,Cluster2,F,25.63,28.77,14.53,13.54,5.16,11.43,10.53,10.08,6.11,17.54
+555,T. cirrhosus,cirrhosus,MVZ,136413,Peru,Ucayali,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-10.13333333,-71.21666667,Cluster2,Cluster3,M,26.42,30.1,15.15,14.19,5.42,11.7,10.56,10.15,6.26,18.17
+556,T. cirrhosus,cirrhosus,MVZ,136415,Peru,Ucayali,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-10.13333333,-71.21666667,Cluster2,Cluster2,M,26.36,29.62,14.49,13.94,5.3,11.4,10.86,9.96,6.38,17.13
+557,T. cirrhosus,cirrhosus,MVZ,136416,Peru,Ucayali,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-10.13333333,-71.21666667,Cluster2,Cluster3,M,26.36,30.28,14.53,14.03,5.14,11.8,10.9,10.44,6.38,18
+558,T. cirrhosus,cirrhosus,MVZ,136417,Peru,Ucayali,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-10.13333333,-71.21666667,Cluster2,Cluster2,M,26.51,29.71,14.82,14.04,5.18,11.34,11.09,10.25,6.48,17.57
+581,T. cirrhosus,cirrhosus,AMNH,76162,Peru,Ucayali,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-6.3906,-75.18591,Cluster2,Cluster2,M,26.24,28.94,13.96,13.26,5.17,11.2,11.05,10.3,6.12,18.63
+582,T. cirrhosus,cirrhosus,AMNH,76163,Peru,Ucayali,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,-6.3906,-75.18591,Cluster2,Cluster1,F,25.44,28.62,13.82,13.31,5.26,11.22,10.2,9.91,5.95,16.38
+614,T. cirrhosus,cirrhosus,RNH,25247,Suriname,Afobakaweg,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,5.25,-55.2,Cluster2,Cluster3,M,26.85,29.64,14.67,13.64,5.23,11.65,10.82,10.15,6.41,18.6
+606,T. cirrhosus,cirrhosus,SMNH,52781,Suriname,Brokopondo,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,5.25,-55.3,Cluster2,Cluster3,M,26.63,30.31,15.25,14.36,5.49,11.74,10.87,10.1,6.65,19.29
+607,T. cirrhosus,cirrhosus,SMNH,52782,Suriname,Brokopondo,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,5.25,-55.3,Cluster2,Cluster2,M,27.07,30.67,15.41,14.81,5.07,11.66,11.13,10.62,6.55,19.18
+605,T. cirrhosus,cirrhosus,SMNH,68410,Suriname,Sipaliwini,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,4.51,-57.24,Cluster2,Cluster3,F,26.61,30.1,15.22,14.27,5.38,11.81,11.19,10.65,6.6,19
+609,T. cirrhosus,cirrhosus,SMNH,63688,Suriname,Sipaliwini,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,3.47,-56.1,Cluster2,Cluster2,M,26.16,29.42,14.61,14.16,5.25,11.71,11.05,10.75,6.45,17.46
+610,T. cirrhosus,cirrhosus,SMNH,63689,Suriname,Sipaliwini,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.02,-56.07,Cluster2,Cluster3,F,27.44,30.73,15.33,14.41,5.42,11.98,11.23,10.67,6.52,18.65
+611,T. cirrhosus,cirrhosus,RNH,25246,Suriname,"Suriname N entre Pawakka, Zanderj e Sabakoe",,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,5.44,-55.15,Cluster2,Cluster3,M,26.54,29.92,15.2,13.99,5.39,11.95,10.68,10.41,6.39,19.18
+612,T. cirrhosus,cirrhosus,RNH,25244,Suriname,"Suriname N entre Pawakka, Zanderj e Sabakoe",,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,5.44,-55.15,Cluster2,Cluster2,M,26.29,29.55,14.61,13.86,5.1,11.53,10.45,10.63,6.53,17.55
+613,T. cirrhosus,cirrhosus,RNH,25245,Suriname,"Suriname N entre Pawakka, Zanderj e Sabakoe",,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,5.44,-55.15,Cluster2,Cluster3,M,26.58,29.97,14.87,14.5,5.25,11.79,10.66,10.02,6.43,18.88
+608,T. cirrhosus,cirrhosus,SMNH,63691,Suriname,West-central Suriname,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,4.44,-56.12,Cluster2,Cluster2,M,25.9,29.49,14.61,13.84,5.35,11.55,11,10.46,6.41,17.33
+615,T. cirrhosus,cirrhosus,AMNH,256313,Trindad and Tobago,Saint Patrick,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,10.1811,-61.54578,Cluster2,Cluster3,F,26.58,29.92,15.19,14.4,5.61,12.25,11.2,10.62,6.54,18.24
+616,T. cirrhosus,cirrhosus,AMNH,175602,Trindad and Tobago,Saint Patrick,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,7.86667,-80.35,Cluster2,Cluster3,F,27.5,30.57,15.52,14.62,5.31,12.18,11.32,10.92,6.35,18.7
+651,T. cirrhosus,cirrhosus,USNM,388858,Venezuela,Amazonas,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.25,-65.28,Cluster2,Cluster2,M,25.45,29.05,14.6,13.92,5.45,11.82,10.58,10.42,6.17,18.1
+652,T. cirrhosus,cirrhosus,USNM,388859,Venezuela,Amazonas,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.25,-65.28,Cluster2,Cluster2,M,26,29.82,14.95,14.16,5.34,11.56,10.85,10.63,6.55,17.66
+653,T. cirrhosus,cirrhosus,USNM,388861,Venezuela,Amazonas,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.25,-65.28,Cluster2,Cluster2,F,26.2,29.47,14.48,13.9,5.58,12.09,10.95,10.35,6.54,17.59
+654,T. cirrhosus,cirrhosus,USNM,388862,Venezuela,Amazonas,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.25,-65.28,Cluster2,Cluster2,F,26.19,29.05,14.17,13.65,5.48,11.64,10.93,10.24,6.34,17.05
+655,T. cirrhosus,cirrhosus,USNM,388863,Venezuela,Amazonas,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.25,-65.28,Cluster2,Cluster3,F,26.56,29.86,14.61,13.85,5.15,11.49,11.14,10.2,6.53,18.5
+656,T. cirrhosus,cirrhosus,USNM,388864,Venezuela,Amazonas,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.25,-65.28,Cluster2,Cluster3,F,26.14,29.33,14.61,13.88,5.33,11.49,10.79,10.24,6.4,18.61
+657,T. cirrhosus,cirrhosus,USNM,388865,Venezuela,Amazonas,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.25,-65.28,Cluster2,Cluster2,M,26.51,29.21,14.62,13.89,5.57,11.29,10.79,10.45,6.24,16.86
+658,T. cirrhosus,cirrhosus,USNM,388866,Venezuela,Amazonas,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.25,-65.28,Cluster2,Cluster2,M,26.64,30.11,14.77,14.06,5.51,11.62,11.1,10.92,6.26,17.59
+659,T. cirrhosus,cirrhosus,USNM,388867,Venezuela,Amazonas,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.25,-65.28,Cluster2,Cluster3,M,26.42,29.81,14.94,14.15,5.29,11.62,10.9,10.45,6.52,17.8
+660,T. cirrhosus,cirrhosus,USNM,388868,Venezuela,Amazonas,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.25,-65.28,Cluster2,Cluster3,M,26.03,29.4,14.2,13.65,5.28,11.33,10.78,10.16,6.22,17.96
+661,T. cirrhosus,cirrhosus,USNM,388869,Venezuela,Amazonas,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.25,-65.28,Cluster2,Cluster3,F,26.14,29.15,14.59,13.65,5.35,11.63,10.69,10.33,6.3,17.66
+662,T. cirrhosus,cirrhosus,USNM,388870,Venezuela,Amazonas,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.25,-65.28,Cluster2,Cluster3,F,26.45,29.35,14.63,13.9,5.35,11.57,10.67,10.15,6.38,17.37
+663,T. cirrhosus,cirrhosus,USNM,388879,Venezuela,Amazonas,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.25,-65.28,Cluster2,Cluster3,F,26.33,29.59,14.77,13.8,5.43,11.45,10.82,10.38,6.37,17.76
+664,T. cirrhosus,cirrhosus,USNM,388882,Venezuela,Amazonas,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.25,-65.28,Cluster2,Cluster3,F,27.2,30.25,14.65,13.83,5.31,11.69,10.86,10.35,6.44,18.07
+665,T. cirrhosus,cirrhosus,USNM,388884,Venezuela,Amazonas,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.25,-65.28,Cluster2,Cluster2,F,26.09,29.13,14.34,13.58,5.41,11.14,10.6,10.26,6.34,16.97
+666,T. cirrhosus,cirrhosus,USNM,388889,Venezuela,Amazonas,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.08,-65.3,Cluster2,Cluster2,F,26.24,29.55,14.42,13.74,5.21,11.84,10.48,9.65,6.23,18.89
+667,T. cirrhosus,cirrhosus,USNM,388898,Venezuela,Amazonas,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.08,-65.3,Cluster2,Cluster3,F,26.58,29.88,14.82,13.75,5.53,11.61,10.96,10.26,6.39,18.33
+668,T. cirrhosus,cirrhosus,USNM,388899,Venezuela,Amazonas,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.08,-65.3,Cluster2,Cluster3,F,25.91,29.4,14.84,13.88,5.37,11.57,10.58,10.31,6.34,18.16
+669,T. cirrhosus,cirrhosus,USNM,388906,Venezuela,Amazonas,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.08,-65.3,Cluster2,Cluster3,M,26.56,29.82,15.22,14.11,5.57,12.15,10.87,10.44,6.33,17.82
+670,T. cirrhosus,cirrhosus,USNM,388907,Venezuela,Amazonas,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.33,-65.25,Cluster2,Cluster3,M,26.94,30.53,14.81,14.28,5.33,11.61,11.17,10.31,6.44,18.13
+671,T. cirrhosus,cirrhosus,USNM,388908,Venezuela,Amazonas,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.33,-65.25,Cluster2,Cluster3,M,25.81,29.4,14.87,13.88,5.46,11.87,10.61,10.48,6.46,18.33
+672,T. cirrhosus,cirrhosus,USNM,388910,Venezuela,Amazonas,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.33,-65.25,Cluster2,Cluster2,F,25.56,28.95,14.8,13.72,5.33,11.83,10.79,10.11,6.08,17.85
+673,T. cirrhosus,cirrhosus,USNM,388911,Venezuela,Amazonas,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.33,-65.25,Cluster2,Cluster2,F,26.84,29.44,15.38,13.84,5.46,11.47,10.88,10.42,6.02,18.27
+674,T. cirrhosus,cirrhosus,USNM,388913,Venezuela,Amazonas,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.33,-65.25,Cluster2,Cluster2,M,26.75,29.77,15.42,13.77,5.35,11.88,11.16,10.86,6.65,17.35
+675,T. cirrhosus,cirrhosus,USNM,388915,Venezuela,Amazonas,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.33,-65.25,Cluster2,Cluster2,F,25.73,29.2,14.37,14.2,4.93,11.42,10.77,10.16,6.37,17.45
+676,T. cirrhosus,cirrhosus,USNM,388920,Venezuela,Amazonas,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.33,-65.25,Cluster2,Cluster2,M,27.07,30.18,14.8,14.08,4.93,11.48,11.1,10.01,6.31,17.63
+677,T. cirrhosus,cirrhosus,USNM,388921,Venezuela,Amazonas,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.33,-65.25,Cluster2,Cluster2,M,26.86,30.22,15.36,14.17,5.56,11.5,11.04,10.3,6.18,18.13
+678,T. cirrhosus,cirrhosus,USNM,388922,Venezuela,Amazonas,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.33,-65.25,Cluster2,Cluster3,F,26.6,29.84,14.97,14.11,5.44,11.43,10.97,10.21,6.57,18.5
+679,T. cirrhosus,cirrhosus,USNM,388923,Venezuela,Amazonas,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.33,-65.25,Cluster2,Cluster2,F,26.89,30.31,14.94,14.53,5.42,11.56,10.82,9.71,6.49,18.26
+680,T. cirrhosus,cirrhosus,USNM,388924,Venezuela,Amazonas,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.33,-65.25,Cluster2,Cluster3,M,26.27,29.57,14.74,14.06,5.32,12.02,10.49,10.45,6.36,16.94
+681,T. cirrhosus,cirrhosus,USNM,388925,Venezuela,Amazonas,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.33,-65.25,Cluster2,Cluster2,M,26.51,29.6,15.22,13.94,5.62,11.9,10.38,10.24,6.32,18.26
+682,T. cirrhosus,cirrhosus,USNM,388927,Venezuela,Amazonas,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.33,-65.25,Cluster2,Cluster3,M,26.34,29.68,14.84,13.59,5.25,11.34,10.86,10.28,6.44,18.17
+683,T. cirrhosus,cirrhosus,USNM,388929,Venezuela,Amazonas,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.33,-65.25,Cluster2,Cluster2,M,26.27,29.52,14.58,13.93,5.25,11.24,10.5,10,6.2,18.58
+684,T. cirrhosus,cirrhosus,USNM,388930,Venezuela,Amazonas,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.33,-65.25,Cluster2,Cluster3,M,26.75,29.89,15.07,14.09,5.3,11.73,10.7,10.36,6.36,17.49
+685,T. cirrhosus,cirrhosus,USNM,388931,Venezuela,Amazonas,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.33,-65.25,Cluster2,Cluster3,M,26.71,29.84,14.73,13.95,5.18,11.21,11.02,10.44,6.41,18.52
+686,T. cirrhosus,cirrhosus,USNM,407592,Venezuela,Amazonas,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.62,-66.32,Cluster2,Cluster2,M,25.36,28.55,14.12,13.51,5.18,11.22,10.55,10.02,6.08,17.41
+687,T. cirrhosus,cirrhosus,USNM,407593,Venezuela,Amazonas,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.62,-66.32,Cluster2,Cluster2,F,25.24,28.79,14.16,13.06,5.53,11.59,10.65,10.04,6.42,18.01
+688,T. cirrhosus,cirrhosus,USNM,407597,Venezuela,Amazonas,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,5.3,-66.22,Cluster2,Cluster2,F,26.5,29.41,14.6,14.01,5.2,11.5,10.49,10.29,6.02,17.57
+689,T. cirrhosus,cirrhosus,USNM,407598,Venezuela,Amazonas,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,5.35,-66.18,Cluster2,Cluster3,M,26.57,30.09,15.16,13.94,5.41,11.64,10.73,10.52,6.82,18.33
+690,T. cirrhosus,cirrhosus,USNM,407599,Venezuela,Amazonas,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,5.35,-66.18,Cluster2,Cluster2,M,26.57,29.73,14.93,14,5.52,11.26,11.09,10.43,6.26,18.08
+691,T. cirrhosus,cirrhosus,USNM,407600,Venezuela,Amazonas,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,5.35,-66.18,Cluster2,Cluster3,F,26.31,29.52,14.39,13.65,5.39,11.36,10.96,10.14,6.42,18.51
+692,T. cirrhosus,cirrhosus,USNM,407601,Venezuela,Amazonas,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,5.35,-66.18,Cluster2,Cluster3,M,27.54,31.09,15.29,13.85,5.41,11.56,11.38,10.62,6.74,19.47
+693,T. cirrhosus,cirrhosus,USNM,407602,Venezuela,Amazonas,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,5.35,-66.18,Cluster2,Cluster3,F,26.24,29.97,14.48,13.88,5.45,11.93,10.92,10.41,6.23,18.24
+694,T. cirrhosus,cirrhosus,USNM,407603,Venezuela,Amazonas,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,5.35,-66.18,Cluster2,Cluster2,M,25.76,28.71,14.33,13.69,5.11,11.28,10.83,9.99,6.48,17.52
+695,T. cirrhosus,cirrhosus,USNM,407604,Venezuela,Amazonas,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,5.35,-66.18,Cluster2,Cluster2,F,26.07,29.31,14.57,13.67,5.37,11.16,10.91,10.14,6.19,17.38
+696,T. cirrhosus,cirrhosus,USNM,407606,Venezuela,Amazonas,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,5.35,-66.18,Cluster2,Cluster2,F,25.29,28.48,14.36,13.33,5.15,11.1,10.73,9.95,6.04,16.94
+697,T. cirrhosus,cirrhosus,USNM,407608,Venezuela,Amazonas,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,5.3,-66.22,Cluster2,Cluster3,M,26.99,30,14.8,14.02,5.63,11.71,10.9,10.21,6.49,18.57
+698,T. cirrhosus,cirrhosus,USNM,407610,Venezuela,Amazonas,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,5.3,-66.22,Cluster2,Cluster2,M,26.41,29.97,14.76,13.32,5.29,11.61,10.66,10.16,6.33,17.43
+699,T. cirrhosus,cirrhosus,USNM,407611,Venezuela,Amazonas,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,5.3,-66.22,Cluster2,Cluster3,M,27.21,30.1,14.45,14.08,5.26,11.42,11.14,10.11,6.3,17.76
+700,T. cirrhosus,cirrhosus,USNM,407614,Venezuela,Amazonas,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,5.3,-66.22,Cluster2,Cluster3,F,25.54,28.74,14.31,13.15,5.29,11.47,10.43,10.02,6.17,18.46
+701,T. cirrhosus,cirrhosus,USNM,407615,Venezuela,Amazonas,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,5.3,-66.22,Cluster2,Cluster3,F,26.11,29.58,14.17,13.32,5.49,11.85,10.83,10.19,6.21,18.8
+702,T. cirrhosus,cirrhosus,USNM,407617,Venezuela,Amazonas,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,5.3,-66.22,Cluster2,Cluster3,F,26.33,29.7,14.41,13.81,5.42,11.53,10.97,10.4,6.53,17.35
+703,T. cirrhosus,cirrhosus,USNM,407618,Venezuela,Amazonas,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,5.3,-66.22,Cluster2,Cluster3,M,26.35,29.67,14.62,14.01,5.44,11.6,10.77,10.21,6.33,17.97
+704,T. cirrhosus,cirrhosus,USNM,407620,Venezuela,Amazonas,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,5.4,-67.65,Cluster2,Cluster2,F,26.25,30.22,14.93,13.82,5.2,11.41,11.1,10.2,6.39,18.07
+705,T. cirrhosus,cirrhosus,USNM,415300,Venezuela,Amazonas,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,2.33,-65.25,Cluster2,Cluster3,F,26.45,29.67,15.01,14.04,5.09,11.6,10.73,10.23,6.2,17.68
+706,T. cirrhosus,cirrhosus,USNM,417320,Venezuela,Amazonas,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,5.35,-66.18,Cluster2,Cluster3,F,25.98,29.31,14.64,14.04,5.34,11.6,10.44,10.16,6.21,18.59
+707,T. cirrhosus,cirrhosus,USNM,417321,Venezuela,Amazonas,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,5.3,-66.22,Cluster2,Cluster3,F,26.38,29.17,14.52,13.64,5.25,11.36,10.86,10.13,6.36,17.63
+708,T. cirrhosus,cirrhosus,USNM,417322,Venezuela,Amazonas,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,5.35,-66.18,Cluster2,Cluster3,M,26.78,30.1,15.11,14.17,5.45,11.85,11.08,10.53,6.81,18.86
+709,T. cirrhosus,cirrhosus,USNM,417323,Venezuela,Amazonas,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,5.35,-66.18,Cluster2,Cluster3,M,26.88,30.08,15.25,14.16,5.51,11.73,10.99,10.5,6.56,19.32
+808,T. cirrhosus,cirrhosus,USNM,560554,Venezuela,Amazonas,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,0.5,-66,Cluster2,Cluster2,F,26.07,29.17,14.71,14.16,5.5,11.68,10.97,10.19,6.31,17.77
+623,T. cirrhosus,cirrhosus,USNM,373533,Venezuela,Apure,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,6.55,-67.22,Cluster2,Cluster3,F,26.39,29.78,14.55,13.77,5.61,11.57,10.79,10.22,6.28,17.28
+624,T. cirrhosus,cirrhosus,USNM,373534,Venezuela,Apure,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,6.55,-67.22,Cluster2,Cluster3,M,25.99,29.31,14.21,13.25,5.51,11.2,10.71,9.89,6.32,18.29
+638,T. cirrhosus,cirrhosus,USNM,373536,Venezuela,Apure,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,6.55,-67.22,Cluster2,Cluster2,M,26.59,29.77,14.42,13.38,5.61,11.44,11.05,10.5,6.53,17.24
+639,T. cirrhosus,cirrhosus,USNM,373537,Venezuela,Apure,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,6.55,-67.22,Cluster2,Cluster3,F,25.77,28.91,14.41,13.65,5.32,11.65,10.58,10.21,6.31,17.5
+640,T. cirrhosus,cirrhosus,USNM,373539,Venezuela,Apure,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,6.55,-67.22,Cluster2,Cluster2,F,26.34,30.43,14.9,13.79,5.45,11.23,11.35,10.58,6.5,18.13
+790,T. cirrhosus,cirrhosus,USNM,419245,Venezuela,Apure,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,7.32,-71.95,Cluster2,Cluster3,M,26.26,30.02,14.19,13.5,5.34,11.65,10.75,10.14,6.37,17.56
+630,T. cirrhosus,cirrhosus,BM,1152552,Venezuela,Aragua,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,10,-67,Cluster2,Cluster2,M,25.71,29.78,14.78,13.72,5.15,11.15,10.74,10.22,6.22,18.01
+631,T. cirrhosus,cirrhosus,BM,1152553,Venezuela,Aragua,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,10,-67,Cluster2,Cluster2,F,24.98,28.36,14.31,13.57,4.88,11.05,10.23,10.06,5.99,17.98
+746,T. cirrhosus,cirrhosus,USNM,562893,Venezuela,Aragua,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,10.34915,-67.684476,Cluster2,Cluster2,F,24.86,28.21,14.27,13.29,5.34,11.29,10.48,10.19,5.99,17.54
+807,T. cirrhosus,cirrhosus,USNM,517312,Venezuela,Aragua,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,10.28,-67.6,Cluster2,Cluster2,F,25.73,29.47,14.36,13.56,5.21,11.55,10.72,10.1,5.97,17.29
+632,T. cirrhosus,cirrhosus,SMNH,70721,Venezuela,Barinas,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,8.38,-70.12,Cluster2,Cluster1,M,25.14,28.14,14,13.34,5.14,11.12,10.28,9.78,6.19,17.19
+633,T. cirrhosus,cirrhosus,SMNH,70722,Venezuela,Barinas,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,8.38,-70.12,Cluster2,Cluster3,M,25.82,29.15,14.55,13.6,5.42,11.67,10.65,9.87,6.14,18.23
+634,T. cirrhosus,cirrhosus,SMNH,70724,Venezuela,Barinas,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,8.38,-70.12,Cluster2,Cluster2,F,25.89,28.79,14.67,13.94,5.02,11.37,10.63,10,5.99,17.9
+635,T. cirrhosus,cirrhosus,SMNH,70726,Venezuela,Barinas,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,8.38,-70.12,Cluster2,Cluster2,F,25.41,28.5,14.23,13.79,5.32,11.47,10.36,9.89,6.08,17.1
+636,T. cirrhosus,cirrhosus,SMNH,70727,Venezuela,Barinas,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,8.38,-70.12,Cluster2,Cluster2,F,25.45,29.02,14.81,14.07,5.45,11.6,10.43,10.05,6.29,17.94
+637,T. cirrhosus,cirrhosus,SMNH,70728,Venezuela,Barinas,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,8.38,-70.12,Cluster2,Cluster3,F,26.12,29.41,14.62,13.7,5.43,11.76,10.96,10.47,6.56,18.52
+643,T. cirrhosus,cirrhosus,USNM,385507,Venezuela,Bolivar,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,7,-62.25,Cluster2,Cluster3,M,27.28,30.53,15.1,14.39,5.19,11.92,11.03,10.73,6.76,18.33
+644,T. cirrhosus,cirrhosus,USNM,385508,Venezuela,Bolivar,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,7,-62.25,Cluster2,Cluster3,F,26.59,30.54,14.94,13.92,5.48,12.06,10.78,10.39,6.24,18.38
+645,T. cirrhosus,cirrhosus,USNM,385510,Venezuela,Bolivar,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,5.98,-61.43,Cluster2,Cluster3,F,26.67,29.79,14.82,13.98,5.79,11.84,11.18,10.28,6.6,19.32
+646,T. cirrhosus,cirrhosus,USNM,385511,Venezuela,Bolivar,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,5.98,-61.43,Cluster1,Cluster1,M,25.6,28.63,14.14,13.14,5.25,11.25,10.52,10.12,6.23,17.71
+647,T. cirrhosus,cirrhosus,USNM,388852,Venezuela,Bolivar,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,6.82,-63.48,Cluster2,Cluster3,F,27.51,30.41,15.18,14.28,5.39,11.79,11.1,10.56,6.55,19.12
+648,T. cirrhosus,cirrhosus,USNM,388853,Venezuela,Bolivar,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,6.82,-63.48,Cluster2,Cluster3,F,27.6,30.73,15.19,14.58,5.53,12.12,11.25,10.38,6.71,18.47
+649,T. cirrhosus,cirrhosus,USNM,388855,Venezuela,Bolivar,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,6.82,-63.48,Cluster2,Cluster3,M,26.92,30.49,15.03,14.09,5.3,11.85,11.22,10.81,6.7,18.16
+650,T. cirrhosus,cirrhosus,USNM,388857,Venezuela,Bolivar,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,6.82,-63.48,Cluster2,Cluster3,M,26.91,29.66,14.6,14.32,5.35,11.83,11.09,10.27,6.53,19.23
+806,T. cirrhosus,cirrhosus,USNM,444405,Venezuela,Bolivar,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,4.55,-61.42,Cluster2,Cluster3,F,26.38,29.38,14.65,13.94,5.06,11.8,10.74,10.13,6.25,18.13
+617,T. cirrhosus,cirrhosus,USNM,371528,Venezuela,Bolivar ,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,6.33,-67.13,Cluster2,Cluster3,F,26.98,29.92,14.5,13.72,5.37,11.5,10.58,10.09,6.38,18.03
+641,T. cirrhosus,cirrhosus,USNM,373551,Venezuela,Carabobo,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,10.53,-68.38,Cluster2,Cluster2,F,25.66,28.89,15,13.54,5.18,11.21,10.95,10.63,6.33,18.43
+642,T. cirrhosus,cirrhosus,USNM,373553,Venezuela,Carabobo,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,10.48,-68.32,Cluster2,Cluster3,F,25.86,29.23,14.32,13.42,5.25,11.31,10.79,9.98,6.33,18.43
+625,T. cirrhosus,cirrhosus,AMNH,31520,Venezuela,Carabobo ,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,10.42526,-68.01426,Cluster2,Cluster2,F,25.79,29.61,14.47,13.84,5.39,11.53,10.84,10.29,6.12,18.06
+626,T. cirrhosus,cirrhosus,AMNH,31521,Venezuela,Carabobo ,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,10.42526,-68.01426,Cluster2,Cluster2,M,25.63,28.91,14.47,14.01,5.17,11.42,10.55,10.08,6.13,17.32
+627,T. cirrhosus,cirrhosus,AMNH,31522,Venezuela,Carabobo ,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,10.42526,-68.01426,Cluster2,Cluster2,M,25.79,28.87,13.87,13.2,5.32,11.3,10.99,10.44,6.2,17.48
+621,T. cirrhosus,cirrhosus,USNM,371566,Venezuela,Falcon,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,10.62,-68.4,Cluster2,Cluster2,F,25.25,28.53,14.27,13.68,5.01,11.43,10.27,10.33,6.33,18.09
+622,T. cirrhosus,cirrhosus,USNM,371567,Venezuela,Falcon,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,10.62,-68.4,Cluster2,Cluster2,M,25.98,28.69,14.55,14.02,5.2,11.18,10.64,10.45,6.38,17.79
+804,T. cirrhosus,cirrhosus,USNM,444401,Venezuela,Falcon,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,10.9,-68.77,Cluster2,Cluster2,F,26.19,29.82,14.9,13.86,5.22,11.71,10.79,10.05,6.14,17.31
+805,T. cirrhosus,cirrhosus,USNM,444402,Venezuela,Falcon,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,10.9,-68.77,Cluster2,Cluster3,F,25.81,29.35,14.61,13.56,5.25,11.65,10.69,10.42,6.6,18
+710,T. cirrhosus,cirrhosus,USNM,419128,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.02,-67.43,Cluster2,Cluster3,M,26.05,29.39,14.52,14.08,5.48,11.72,10.5,10.2,6.13,17.55
+711,T. cirrhosus,cirrhosus,USNM,419130,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.02,-67.43,Cluster2,Cluster2,F,25.75,29.2,14.65,13.72,5.12,11.27,10.8,10.36,6.55,17.93
+712,T. cirrhosus,cirrhosus,USNM,419131,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.02,-67.43,Cluster2,Cluster2,F,26.4,29.78,14.68,14.43,5.21,11.3,10.78,10.69,6.33,18.3
+713,T. cirrhosus,cirrhosus,USNM,419132,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.02,-67.43,Cluster2,Cluster2,F,25.29,28.13,14.19,13.88,5.34,11.42,10.14,9.98,6.17,16.85
+714,T. cirrhosus,cirrhosus,USNM,419135,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.02,-67.43,Cluster2,Cluster3,M,26.46,29.81,14.54,13.72,5.39,11.89,10.68,9.77,6.29,18.1
+715,T. cirrhosus,cirrhosus,USNM,419138,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.02,-67.43,Cluster2,Cluster2,M,25.54,28.63,14.84,13.6,5.28,11.42,10.61,10.24,6.31,17.57
+716,T. cirrhosus,cirrhosus,USNM,419139,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.02,-67.43,Cluster2,Cluster3,M,26.24,29.59,14.62,13.9,5.3,11.74,10.74,10.4,6.32,18.24
+717,T. cirrhosus,cirrhosus,USNM,419141,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.02,-67.43,Cluster2,Cluster2,M,25.47,29.13,14.44,14.24,5.37,11.54,10.44,9.82,5.99,18.03
+718,T. cirrhosus,cirrhosus,USNM,419143,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.02,-67.43,Cluster2,Cluster2,M,26.04,29.36,15.15,13.94,5.39,11.94,10.95,10.82,6.83,18.61
+719,T. cirrhosus,cirrhosus,USNM,419144,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.02,-67.43,Cluster2,Cluster2,F,25.82,28.74,13.84,13.45,5.16,11.48,10.6,9.71,5.82,17.6
+720,T. cirrhosus,cirrhosus,USNM,419145,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.02,-67.43,Cluster2,Cluster2,M,25.89,29.2,14.12,13.79,5.07,11.31,10.38,9.88,5.99,17.2
+721,T. cirrhosus,cirrhosus,USNM,419146,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.02,-67.43,Cluster2,Cluster2,M,25.77,29.02,14.35,13.28,5.32,11.41,10.77,9.66,6,17.9
+722,T. cirrhosus,cirrhosus,USNM,419147,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.02,-67.43,Cluster2,Cluster2,M,26.01,29.31,14.47,13.86,5.43,11.3,10.47,9.78,5.98,17.55
+723,T. cirrhosus,cirrhosus,USNM,419148,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.02,-67.43,Cluster2,Cluster2,F,25.57,28.92,14.33,13.99,5.19,11.29,10.53,9.88,6.22,17.75
+724,T. cirrhosus,cirrhosus,USNM,419149,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.02,-67.43,Cluster2,Cluster2,F,25.65,28.75,14.73,13.89,5.51,11.3,10.52,9.85,5.79,17
+725,T. cirrhosus,cirrhosus,USNM,419150,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.02,-67.43,Cluster2,Cluster3,F,27.17,30.45,15.01,13.89,5.3,11.45,11.03,10.3,6.44,17.51
+726,T. cirrhosus,cirrhosus,USNM,419151,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.02,-67.43,Cluster2,Cluster3,F,26.04,29.45,14.63,13.68,5.35,11.55,10.46,10.38,6.36,17.91
+727,T. cirrhosus,cirrhosus,USNM,419152,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.02,-67.43,Cluster2,Cluster2,F,25.63,28.41,14.19,13.44,5.37,11.08,10.42,9.91,6.06,17.93
+728,T. cirrhosus,cirrhosus,USNM,419153,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.02,-67.43,Cluster2,Cluster2,M,25.38,29.07,14.43,13.93,5.56,11.74,10.24,9.77,5.8,16.98
+729,T. cirrhosus,cirrhosus,USNM,419154,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.02,-67.43,Cluster2,Cluster2,F,26.71,29.65,15.51,14.27,5.22,11.68,10.98,10.95,6.5,18.09
+730,T. cirrhosus,cirrhosus,USNM,419155,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.02,-67.43,Cluster2,Cluster3,F,25.82,29.3,14.58,14.03,5.32,11.62,10.58,10.16,6.31,18.21
+731,T. cirrhosus,cirrhosus,USNM,419156,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.02,-67.43,Cluster2,Cluster3,F,26.32,29.39,14.49,13.93,5.53,11.41,10.42,9.97,6.25,17.7
+732,T. cirrhosus,cirrhosus,USNM,419157,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.02,-67.43,Cluster2,Cluster3,F,26.11,29.58,14.55,13.75,5.28,11.64,10.4,9.84,6.11,17.53
+733,T. cirrhosus,cirrhosus,USNM,419158,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.02,-67.43,Cluster2,Cluster2,F,25.7,29.02,14.13,13.58,5.15,11.68,10.46,9.54,6.36,17.18
+734,T. cirrhosus,cirrhosus,USNM,419160,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.02,-67.43,Cluster2,Cluster2,M,25.74,29.57,15.09,14.06,5.08,11.9,10.82,10.11,6.23,18.57
+735,T. cirrhosus,cirrhosus,USNM,419161,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.02,-67.43,Cluster2,Cluster3,M,26.53,29.92,14.92,14.24,5.37,11.78,11.02,10.18,6.32,18.35
+736,T. cirrhosus,cirrhosus,USNM,419162,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.02,-67.43,Cluster2,Cluster3,F,26.82,30.09,15.15,14.34,5.52,11.58,10.89,10.58,6.61,18.03
+737,T. cirrhosus,cirrhosus,USNM,419163,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.02,-67.43,Cluster2,Cluster3,M,25.88,29.62,14.11,13.98,5.35,11.67,10.61,10.04,6.24,17.63
+738,T. cirrhosus,cirrhosus,USNM,419165,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.02,-67.43,Cluster2,Cluster3,M,26.66,30.1,15.01,14.2,5.48,12.11,10.78,10.28,6.34,18.23
+739,T. cirrhosus,cirrhosus,USNM,419166,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.02,-67.43,Cluster2,Cluster2,F,24.87,28.19,13.98,13.4,5.4,11.54,10.26,10.05,6.13,17.37
+740,T. cirrhosus,cirrhosus,USNM,419168,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.02,-67.43,Cluster2,Cluster3,M,26.26,29.44,14.8,14.02,5.29,11.49,10.8,10.08,6.49,17.67
+741,T. cirrhosus,cirrhosus,USNM,419169,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.02,-67.43,Cluster2,Cluster2,F,25.46,28.92,14.45,13.95,5.42,11.75,10.39,10.07,6.15,18.1
+742,T. cirrhosus,cirrhosus,USNM,419192,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.02,-67.43,Cluster2,Cluster2,F,25.72,28.91,14.65,14,5.25,11.36,10.67,10,6.34,17.24
+743,T. cirrhosus,cirrhosus,USNM,419193,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.02,-67.43,Cluster2,Cluster2,M,25.53,28.4,13.78,13.76,5.29,11.13,10.29,9.68,6.37,17.2
+744,T. cirrhosus,cirrhosus,USNM,419196,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.02,-67.43,Cluster2,Cluster3,M,26.34,29.78,14.74,13.86,5.58,11.89,10.78,10.47,6.51,18.43
+745,T. cirrhosus,cirrhosus,USNM,419197,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.02,-67.43,Cluster2,Cluster2,F,25.67,28.93,13.73,13.74,5.27,11.53,10.66,10.27,6.43,17.57
+747,T. cirrhosus,cirrhosus,USNM,419198,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.02,-67.43,Cluster2,Cluster2,F,25.16,29.07,14.65,14.01,5.57,11.67,10.21,9.84,6.1,18.1
+748,T. cirrhosus,cirrhosus,USNM,419199,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.02,-67.43,Cluster2,Cluster2,F,25.36,28.63,14.03,13.48,5.48,11.6,10.59,9.93,6.16,17.53
+749,T. cirrhosus,cirrhosus,USNM,419200,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.02,-67.43,Cluster2,Cluster3,M,27.07,30.08,14.67,13.86,5.15,11.6,10.95,9.97,6.25,17.48
+750,T. cirrhosus,cirrhosus,USNM,419205,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.02,-67.43,Cluster2,Cluster3,M,26.46,29.19,14.98,13.94,5.56,11.54,10.74,10.36,6.41,18.62
+751,T. cirrhosus,cirrhosus,USNM,419206,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.02,-67.43,Cluster2,Cluster2,M,25.47,28.39,14.36,13.7,5.13,11.47,10.53,10.4,6.3,17.41
+752,T. cirrhosus,cirrhosus,USNM,419207,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.02,-67.43,Cluster2,Cluster2,F,25.99,28.57,14.01,13.63,5.14,11.55,10.59,10.3,6.31,17.45
+753,T. cirrhosus,cirrhosus,USNM,419208,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.02,-67.43,Cluster2,Cluster3,M,26.41,29.69,15.04,13.76,5.59,12.01,10.82,10.38,6.47,18.28
+754,T. cirrhosus,cirrhosus,USNM,419209,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.02,-67.43,Cluster2,Cluster3,F,25.9,28.84,14.26,13.5,5.35,11.32,10.69,10.04,6.22,17.46
+755,T. cirrhosus,cirrhosus,USNM,419210,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.02,-67.43,Cluster2,Cluster2,F,25.41,28.92,14.55,13.67,5.32,11.6,10.46,9.78,6.17,17.63
+756,T. cirrhosus,cirrhosus,USNM,419211,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.02,-67.43,Cluster2,Cluster2,M,25.87,29.16,14.92,14.26,5.41,11.26,10.63,10.36,6.18,18.53
+757,T. cirrhosus,cirrhosus,USNM,419212,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.02,-67.43,Cluster2,Cluster3,M,25.63,29.07,14.51,13.66,5.25,11.47,10.47,10.36,6.3,18.01
+758,T. cirrhosus,cirrhosus,USNM,419213,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.02,-67.43,Cluster2,Cluster2,M,25.92,29.26,15.44,14.07,5.52,11.89,10.79,10.28,6.36,18.83
+759,T. cirrhosus,cirrhosus,USNM,419214,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.02,-67.43,Cluster2,Cluster3,M,26.14,29.84,14.58,13.99,5.41,11.73,10.9,10.34,6.28,17.77
+760,T. cirrhosus,cirrhosus,USNM,419215,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.02,-67.43,Cluster2,Cluster2,M,25.64,29.04,14.43,13.97,5.47,11.76,10.55,10.35,6.29,17.39
+761,T. cirrhosus,cirrhosus,USNM,419216,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.02,-67.43,Cluster2,Cluster2,M,25.92,29.22,14.42,13.54,4.92,11.28,10.54,10.08,6.18,17.51
+762,T. cirrhosus,cirrhosus,USNM,419217,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.02,-67.43,Cluster2,Cluster2,F,25.53,28.71,14.45,13.59,5.2,11.3,10.52,10.25,6.3,17.23
+763,T. cirrhosus,cirrhosus,USNM,419218,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.02,-67.43,Cluster2,Cluster3,M,26.28,29.95,15.09,13.88,5.51,11.63,10.85,10.32,6.47,19.01
+764,T. cirrhosus,cirrhosus,USNM,419219,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.02,-67.43,Cluster2,Cluster2,M,25.61,29.14,14.64,14.21,5.45,11.5,10.4,10,6.32,17.35
+765,T. cirrhosus,cirrhosus,USNM,419220,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.02,-67.43,Cluster2,Cluster2,F,26.73,29.76,15.07,13.81,5.39,11.68,11.17,11.08,6.53,17.76
+766,T. cirrhosus,cirrhosus,USNM,419221,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.02,-67.43,Cluster2,Cluster3,M,26.58,29.58,14.54,13.96,5.47,11.63,10.74,10.25,6.53,18
+767,T. cirrhosus,cirrhosus,USNM,419222,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.02,-67.43,Cluster2,Cluster2,M,25.87,29.29,14.28,13.84,5.22,11.73,10.73,9.92,5.99,17.6
+768,T. cirrhosus,cirrhosus,USNM,419223,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.02,-67.43,Cluster2,Cluster3,M,26.52,30.15,14.88,13.98,5.5,11.8,10.97,10.14,6.12,18.1
+769,T. cirrhosus,cirrhosus,USNM,419224,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.02,-67.43,Cluster2,Cluster2,M,25.55,28.57,13.92,13.32,5.8,11.38,10.62,9.97,6.2,17.53
+770,T. cirrhosus,cirrhosus,USNM,419225,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.02,-67.43,Cluster2,Cluster2,F,25.49,28.79,14.66,13.43,5.19,11.73,10.8,10.21,6.47,18.47
+771,T. cirrhosus,cirrhosus,USNM,419226,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.02,-67.43,Cluster2,Cluster2,F,25.84,28.69,14.7,13.79,5.07,11.45,10.42,10.08,5.98,17.31
+772,T. cirrhosus,cirrhosus,USNM,419227,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.02,-67.43,Cluster2,Cluster3,F,25.98,28.99,14.13,13.62,5.56,11.5,10.52,9.8,6.27,17.6
+773,T. cirrhosus,cirrhosus,USNM,419228,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.02,-67.43,Cluster2,Cluster2,F,25.7,28.86,14.26,13.75,5.13,11.55,10.43,10.36,6.28,17.95
+774,T. cirrhosus,cirrhosus,USNM,419229,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.02,-67.43,Cluster2,Cluster3,F,25.88,28.81,14.2,13.52,5.27,11.45,10.38,9.8,6.3,17.41
+775,T. cirrhosus,cirrhosus,USNM,419230,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.02,-67.43,Cluster2,Cluster2,F,25.62,28.5,13.89,13.21,5.34,11.13,10.43,10.12,6.06,17.53
+776,T. cirrhosus,cirrhosus,USNM,419231,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.02,-67.43,Cluster2,Cluster2,F,25.7,29.23,14.34,13.52,5.23,11.16,10.76,10.44,6.34,18.02
+777,T. cirrhosus,cirrhosus,USNM,419232,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.02,-67.43,Cluster2,Cluster3,F,26.42,29.4,14.78,13.52,5.34,11.33,10.83,10.59,6.59,18.05
+778,T. cirrhosus,cirrhosus,USNM,419233,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.02,-67.43,Cluster2,Cluster2,F,25.75,29.31,14.31,13.56,5.19,11.23,10.57,9.77,6.05,17.02
+779,T. cirrhosus,cirrhosus,USNM,419234,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.02,-67.43,Cluster2,Cluster2,F,25.79,29.19,14.15,13.28,5.31,11.61,10.9,10.77,6.35,17.37
+780,T. cirrhosus,cirrhosus,USNM,419235,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.02,-67.43,Cluster2,Cluster2,F,25.98,29.14,14.45,13.32,5.12,10.97,10.87,10.29,6.4,17.07
+781,T. cirrhosus,cirrhosus,USNM,419236,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.02,-67.43,Cluster2,Cluster2,F,25.66,28.69,14.38,13.99,5.31,11.47,10.38,9.68,6.06,17.9
+782,T. cirrhosus,cirrhosus,USNM,419237,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.02,-67.43,Cluster2,Cluster2,M,25.57,29.26,14.15,13.97,5.43,11.63,10.76,10.32,6.36,17.31
+783,T. cirrhosus,cirrhosus,USNM,419238,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.02,-67.43,Cluster2,Cluster2,M,25.74,28.28,14.33,13.43,5.25,11.07,10.71,10.12,6.3,16.8
+784,T. cirrhosus,cirrhosus,USNM,419239,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.02,-67.43,Cluster2,Cluster2,F,26.06,28.88,14.2,13.36,5.45,11.46,10.49,9.71,5.96,17.65
+785,T. cirrhosus,cirrhosus,USNM,419240,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.02,-67.43,Cluster2,Cluster3,M,26.83,30.16,15.18,13.86,5.4,11.97,11.11,10.79,6.56,18.76
+786,T. cirrhosus,cirrhosus,USNM,419241,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.02,-67.43,Cluster2,Cluster2,M,25.58,29.02,14.16,13.68,5.06,11.31,10.49,10.05,6.46,18.02
+787,T. cirrhosus,cirrhosus,USNM,419242,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.02,-67.43,Cluster2,Cluster2,F,26.47,29.43,14.6,14.35,5.05,11.78,10.62,10.01,6.45,17.81
+788,T. cirrhosus,cirrhosus,USNM,419243,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.02,-67.43,Cluster2,Cluster2,F,26.18,29.73,13.98,13.75,5.36,11.44,10.75,9.79,6.04,18.11
+789,T. cirrhosus,cirrhosus,USNM,419244,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.02,-67.43,Cluster2,Cluster2,M,26.09,29.29,14.32,13.43,5.28,11.33,10.82,10.41,6.26,16.79
+792,T. cirrhosus,cirrhosus,USNM,444378,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,8.93,-67.43,Cluster2,Cluster2,M,24.86,28.09,13.86,13.37,5.09,11.32,10.11,9.64,6.19,17.86
+793,T. cirrhosus,cirrhosus,USNM,444379,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,8.93,-67.43,Cluster2,Cluster3,F,26.42,29.68,14.6,13.77,5.56,11.47,10.87,10.33,6.16,17.99
+794,T. cirrhosus,cirrhosus,USNM,444380,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,8.93,-67.43,Cluster2,Cluster2,M,25.8,29.35,14.39,13.63,5.52,11.32,10.61,10.3,6.11,17.37
+795,T. cirrhosus,cirrhosus,USNM,444382,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.38,-67.57,Cluster2,Cluster2,M,25.44,28.01,14.75,13.7,5.1,11.32,10.59,10.46,6.23,17.37
+796,T. cirrhosus,cirrhosus,USNM,444383,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.38,-67.57,Cluster2,Cluster2,F,25.77,28.89,14.4,13.61,5.23,11.5,10.66,10.4,6.21,17.35
+797,T. cirrhosus,cirrhosus,USNM,444384,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.38,-67.57,Cluster2,Cluster3,M,26.2,29.75,14.56,13.86,5.42,11.53,10.82,10.18,6.32,18.24
+798,T. cirrhosus,cirrhosus,USNM,444393,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.38,-67.57,Cluster2,Cluster2,F,25.9,29.46,14.78,13.63,5.65,11.88,10.57,10.71,6.33,18.99
+799,T. cirrhosus,cirrhosus,USNM,444394,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,8.82,-67.37,Cluster2,Cluster2,M,25.4,28.25,14,13.58,5.08,11.51,10.3,10.31,6.4,16.93
+800,T. cirrhosus,cirrhosus,USNM,444395,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,8.82,-67.37,Cluster2,Cluster2,M,25.16,28.09,13.96,13.41,5.17,11.05,10.51,10.05,6.18,17.86
+801,T. cirrhosus,cirrhosus,USNM,444396,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,8.82,-67.37,Cluster2,Cluster2,M,25.66,28.62,14.66,14.21,5.51,11.63,10.73,10.21,6.35,17.4
+802,T. cirrhosus,cirrhosus,USNM,444397,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,8.82,-67.37,Cluster2,Cluster3,F,26.42,29.83,14.87,14.26,5.47,11.66,10.65,10.16,6.39,18.23
+803,T. cirrhosus,cirrhosus,USNM,444398,Venezuela,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,8.82,-67.37,Cluster2,Cluster3,F,26.53,29.74,14.69,13.66,5.13,11.22,10.79,10.26,6.44,17.73
+628,T. cirrhosus,cirrhosus,KU,118094,Venezuela,Sucre,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,10.48,-63.55,Cluster2,Cluster2,F,26.01,29.23,14.51,13.73,5.16,11.15,10.53,10.47,6.34,18.31
+629,T. cirrhosus,cirrhosus,KU,118095,Venezuela,Sucre,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,10.48,-63.55,Cluster2,Cluster2,F,25.7,28.99,14.72,13.78,5.26,11.23,10.72,10.12,6.09,18.81
+618,T. cirrhosus,cirrhosus,USNM,371559,Venezuela,Trujillo,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.53,-70.67,Cluster2,Cluster2,F,26.57,29.68,14.28,13.84,4.89,11.14,10.67,10.24,6.3,17.4
+619,T. cirrhosus,cirrhosus,USNM,371560,Venezuela,Trujillo,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.53,-70.67,Cluster2,Cluster3,F,26.55,29.58,14.77,13.94,5.23,11.58,10.94,10.48,6.15,17.83
+620,T. cirrhosus,cirrhosus,USNM,371562,Venezuela,Trujillo,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,10.62,-68.4,Cluster2,Cluster2,M,25.99,29.25,14.85,13.99,5.12,11.29,10.46,10.1,6.45,17.83
+791,T. cirrhosus,cirrhosus,USNM,419248,Venezuela,Zulia,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.12,-72.77,Cluster2,Cluster3,F,26.68,29.94,15.12,13.99,5.06,11.75,10.82,10.32,6.26,18.13
+812,T. cirrhosus,cirrhosus,USNM,373554,Venezuela ,Carabobo,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,10.48,-68.32,Cluster2,Cluster3,F,26.33,29.83,14.35,13.55,5.18,11.31,10.92,10.03,6.3,17.73
+809,T. cirrhosus,cirrhosus,USNM,371563,Venezuela ,Falcon,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,10.62,-68.4,Cluster2,Cluster3,M,26.39,29.73,14.69,14.02,5.23,11.62,10.85,10.28,6.02,18.22
+810,T. cirrhosus,cirrhosus,USNM,371564,Venezuela ,Falcon,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,10.62,-68.4,Cluster2,Cluster2,M,26.63,29.16,14.78,13.78,5.58,11.83,10.81,10.79,6.38,18.2
+811,T. cirrhosus,cirrhosus,USNM,371565,Venezuela ,Falcon,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,10.62,-68.4,Cluster2,Cluster3,M,26.31,29.18,14.67,13.77,5.41,11.53,10.91,10.48,6.67,18.1
+813,T. cirrhosus,cirrhosus,USNM,419136,Venezuela ,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.02,-67.43,Cluster2,Cluster2,M,25.91,29.43,14.21,13.23,5.38,11.42,10.59,10.05,6.18,16.86
+814,T. cirrhosus,cirrhosus,USNM,419137,Venezuela ,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.02,-67.43,Cluster2,Cluster3,M,26.07,29.53,14.24,13.73,5.38,11.83,10.79,9.94,6.32,18.07
+815,T. cirrhosus,cirrhosus,USNM,419159,Venezuela ,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.02,-67.43,Cluster2,Cluster2,M,25.3,28.82,14,13.92,5.14,11.71,10.58,10.14,6.3,17.46
+816,T. cirrhosus,cirrhosus,USNM,419201,Venezuela ,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.02,-67.43,Cluster2,Cluster3,F,25.89,29.18,14.44,13.82,5.19,11.29,10.45,9.88,6.35,17.99
+817,T. cirrhosus,cirrhosus,USNM,419202,Venezuela ,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.02,-67.43,Cluster2,Cluster3,F,25.72,28.88,14.14,13.4,5.16,11.54,10.68,10.32,6.33,17.52
+818,T. cirrhosus,cirrhosus,USNM,419204,Venezuela ,Guarico,,T. cirrhosus,T. c. cirrhosus,T. cirrhosus,9.02,-67.43,Cluster2,Cluster3,M,26.36,30.03,14.75,14.15,5.1,11.46,10.91,10.25,6.56,18.54
