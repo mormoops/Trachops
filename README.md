@@ -6,4 +6,4 @@ Data and scripts for genetic and phenotypic species delimitation and niche analy
 
 Citation:
 
-da Silva Fonseca, B., Soto-Centeno, J.A., Simmons, N.B., Ditchfield, A.D., & Leite, Y.L.R. (2024). A species complex in the iconic Frog-eating bat <i>Trachops cirrhosus</i> (Chiroptera, Phyllostomidae) with high variation in the heart of the Neotropics. American Museum Novitates.
+da Silva Fonseca, B., Soto-Centeno, J.A., Simmons, N.B., Ditchfield, A.D., & Leite, Y.L.R. (2024). A species complex in the iconic Frog-eating bat <i>Trachops cirrhosus</i> (Chiroptera, Phyllostomidae) with high variation in the heart of the Neotropics. American Museum Novitates. No. 4021. https://doi.org/10.5531/sd.sp.68
